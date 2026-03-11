@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/megahop-adventure/index.html",
+      "destination": "/megahop-adventure/",
+      "permanent": true
+    },
+    {
+      "source": "/megahop-adventure",
+      "destination": "/megahop-adventure/",
+      "permanent": true
+    }
+  ]
+}

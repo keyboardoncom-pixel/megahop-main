@@ -96,7 +96,7 @@ The React app in `src/App.tsx` is the main entrypoint of the website.
 It currently includes:
 
 - An animated landing screen with Megahop Adventure theming
-- A CTA to open the standalone game at `/megahop-adventure/index.html`
+- A CTA to open the standalone game at `/megahop-adventure/`
 - A social quest form for whitelist/raid submissions
 - A leaderboard modal and sidebar summary
 - Referral handling through `?ref=<wallet>`
@@ -116,7 +116,7 @@ It includes:
 Open it directly at:
 
 ```text
-/megahop-adventure/index.html
+/megahop-adventure/
 ```
 
 ## External integrations still used by the React app

@@ -4,8 +4,8 @@ Original prompt: Copy project game ini ke project website ini namun ganti nama n
 - Inspected the Vite landing page and found an existing game CTA pointing at `/megahop-adventure`, which needs to become a static file path.
 - Confirmed the source game already exposes `window.render_game_to_text` and `window.advanceTime(ms)`, so it fits the existing game testing workflow.
 - Copied the standalone game bundle into `public/megahop-adventure` (`index.html`, `style.css`, `game.js`, and `assets/`).
-- Updated the homepage game CTA to use `/megahop-adventure/index.html` and changed the label to `Play Megahop Adventure`.
-- Verified the static game page responds at `/megahop-adventure/index.html`.
+- Updated the homepage game CTA to use `/megahop-adventure/` and changed the label to `Play Megahop Adventure`.
+- Verified the static game page responds at `/megahop-adventure/`.
 - Ran a production build successfully via `node node_modules/vite/bin/vite.js build` because the local `node_modules/.bin/vite` shim is not executable in this workspace.
 - Ran a browser automation check against the copied game bundle and confirmed the canvas rendered with gameplay state and sprites loading correctly.
 - Remaining notes:

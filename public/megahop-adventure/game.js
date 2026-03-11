@@ -5,7 +5,7 @@
   const ANIM_FPS = 12;
   const GROUND_CONTACT_VISUAL_OFFSET = 6;
   const GOOGLE_SHEETS_URL =
-    "https://script.google.com/macros/s/AKfycbx8t7O6ki0WybvEmRQnqqKHjQ6mwE2-AL1PE_0AESdE6c1hGgql6tV91HlfeblXEfAlOA/exec";
+    "https://script.google.com/macros/s/AKfycbyAwxXpSo6ZIhu_iuSx0nWbLME5gHYTxAOogbMQ5TmdektU7zZCXkZQfaxGZRT4Y3Ywyw/exec";
 
   const PLAYER_TUNE = {
     runSpeed: 320,
@@ -1940,11 +1940,102 @@
       game.social.leaderboard = [];
     }
     renderLeaderboard();
+    syncLeaderboardFromSheets();
   }
 
   function saveLeaderboard() {
     localStorage.setItem("inkdash_twitter_board", JSON.stringify(game.social.leaderboard));
     renderLeaderboard();
+  }
+
+  async function syncLeaderboardFromSheets() {
+    try {
+      const response = await fetch(GOOGLE_SHEETS_URL, {
+        method: "GET",
+        headers: {
+          Accept: "application/json",
+        },
+        cache: "no-store",
+      });
+
+      if (!response.ok) {
+        return;
+      }
+
+      const payload = await response.json().catch(() => null);
+      const rows = Array.isArray(payload)
+        ? payload
+        : Array.isArray(payload?.leaderboard)
+          ? payload.leaderboard
+          : Array.isArray(payload?.data)
+            ? payload.data
+            : null;
+
+      if (!rows || !rows.length) {
+        return;
+      }
+
+      const bestByUser = new Map();
+      for (const row of rows) {
+        const username = sanitizeTwitterHandle(row?.twitterHandle ?? row?.username ?? row?.handle ?? "");
+        if (!username) {
+          continue;
+        }
+
+        const entry = {
+          username,
+          usernameKey: username.toLowerCase(),
+          points: Number(row?.points ?? 0) || 0,
+          grade: typeof row?.grade === "string" ? row.grade : "-",
+          timer: Number(row?.timer ?? 0) || 0,
+          parry: Number(row?.parry ?? 0) || 0,
+          damage: Number(row?.damage ?? 0) || 0,
+          at: Number(row?.playedAt ?? row?.at ?? row?.timestamp ?? 0) || 0,
+        };
+
+        const existing = bestByUser.get(entry.usernameKey);
+        if (!existing) {
+          bestByUser.set(entry.usernameKey, entry);
+          continue;
+        }
+
+        const better =
+          entry.points > existing.points ||
+          (entry.points === existing.points && entry.timer < existing.timer) ||
+          (entry.points === existing.points && entry.timer === existing.timer && entry.damage < existing.damage) ||
+          (entry.points === existing.points &&
+            entry.timer === existing.timer &&
+            entry.damage === existing.damage &&
+            entry.at > existing.at);
+
+        if (better) {
+          bestByUser.set(entry.usernameKey, entry);
+        }
+      }
+
+      const merged = Array.from(bestByUser.values());
+      merged.sort((a, b) => {
+        if (b.points !== a.points) {
+          return b.points - a.points;
+        }
+        if (a.timer !== b.timer) {
+          return a.timer - b.timer;
+        }
+        if (a.damage !== b.damage) {
+          return a.damage - b.damage;
+        }
+        return a.at - b.at;
+      });
+
+      if (!merged.length) {
+        return;
+      }
+
+      game.social.leaderboard = merged.slice(0, 10);
+      saveLeaderboard();
+    } catch (error) {
+      console.warn("Failed to load remote leaderboard:", error);
+    }
   }
 
   async function postGameScoreToSheets(entry) {

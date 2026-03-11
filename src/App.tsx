@@ -211,7 +211,7 @@ export default function App() {
 
   const GOOGLE_SHEETS_URL =
     "https://script.google.com/macros/s/AKfycbyl7Kii-KTiO13L4NdhbuX_AW2SS_wROpLXjeQGlD4A9YUpbIxF5f8ciNVA5UFnQBM8lA/exec";
-  const MEGAHOP_ADVENTURE_URL = "/megahop-adventure/index.html";
+  const MEGAHOP_ADVENTURE_URL = "/megahop-adventure/";
   const referralUrl =
     typeof window !== "undefined"
       ? `${window.location.origin}${window.location.pathname}?ref=${wallet}`
