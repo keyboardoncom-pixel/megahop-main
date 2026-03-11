@@ -28,7 +28,7 @@ const inputClass =
   "w-full rounded-[0.95rem] border-[3px] border-[#1a1713] bg-[#fff9eb] px-4 py-2.5 text-[0.86rem] outline-none transition placeholder:text-[#5c5142]/60 focus:border-[#a23a2f] focus:ring-2 focus:ring-[#a23a2f]/25";
 const sectionCardClass = "rounded-[1.15rem] border-[3px] border-[#1a1713] bg-[#f8f0dc] p-4 shadow-[0_5px_0_#1a1713]";
 const questFormSectionClass =
-  "rounded-[1.15rem] border-[3px] border-[#1a1713] bg-[#f4ecd8] px-4 py-3 shadow-[0_5px_0_#1a1713]";
+  "rounded-[1.15rem] border-[3px] border-[#1a1713] bg-[#f4ecd8] px-3 py-3 shadow-[0_5px_0_#1a1713] sm:px-4";
 const cloudLayers = [
   {
     src: "/megahop-adventure/assets/Botanic Panic/lv_2-1_clouds_5_cream_clouds.png",
@@ -368,12 +368,6 @@ export default function App() {
               />
               <FloatingClouds />
               <FloatingButterflies />
-              <div className="absolute left-4 top-4 rounded-lg border-2 border-[#f7e8c5]/40 bg-[#11100d]/35 px-4 py-2 text-sm uppercase tracking-wide text-[#f6edd6] shadow-[0_2px_0_rgba(0,0,0,0.35)]">
-                <div className="flex gap-4">
-                  <span>Quest Pass 3,333</span>
-                  <span>Whitelist Open</span>
-                </div>
-              </div>
               <div className="absolute right-4 top-4 z-[5] flex justify-end">
                 <a
                   href="https://x.com/MegahopNFT"
@@ -507,14 +501,14 @@ export default function App() {
             </aside>
           </motion.main>
         ) : (
-          <motion.main
-            key="raid"
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0 }}
-            className="mx-auto grid min-h-screen w-[min(1840px,98vw)] grid-cols-1 gap-4 px-3 py-6 lg:grid-cols-[minmax(0,5fr)_360px]"
-          >
-            <section className="relative overflow-hidden rounded-[1rem] border-[4px] border-[#1a1713] bg-[#ddd0ad] shadow-[0_8px_0_#1a1713]">
+	          <motion.main
+	            key="raid"
+	            initial={{ opacity: 0, y: 16 }}
+	            animate={{ opacity: 1, y: 0 }}
+	            exit={{ opacity: 0 }}
+	            className="mx-auto grid min-h-screen w-[min(1840px,98vw)] grid-cols-1 gap-3 px-2 py-4 sm:gap-4 sm:px-3 sm:py-6 lg:grid-cols-[minmax(0,5fr)_360px]"
+	          >
+	            <section className="relative overflow-hidden rounded-[1rem] border-[4px] border-[#1a1713] bg-[#ddd0ad] shadow-[0_8px_0_#1a1713]">
               <img
                 src="/megahop-adventure/assets/Overworld/main_island.png"
                 alt="Megahop map backdrop"
@@ -522,7 +516,7 @@ export default function App() {
               />
               <FloatingClouds />
               <FloatingButterflies />
-              <div className="relative z-10 mx-auto flex min-h-full max-w-5xl flex-col px-4 py-5 md:px-8 md:py-6">
+	              <div className="relative z-10 mx-auto flex min-h-full max-w-5xl flex-col px-2 py-4 sm:px-4 sm:py-5 md:px-8 md:py-6">
                 <div className="mb-4 rounded-[1.2rem] border-[3px] border-[#5f594a] bg-[#ece2c7]/95 px-5 py-4 shadow-[0_5px_0_rgba(26,23,19,0.4)]">
                   <div className="grid gap-3 md:grid-cols-[auto_minmax(0,1fr)_auto] md:items-center md:gap-5">
                     <div className="flex items-center justify-center md:justify-start">
@@ -537,10 +531,10 @@ export default function App() {
                     <div className="text-center md:text-left">
                       <p className="text-[0.72rem] uppercase tracking-[0.16em] text-[#6f6252]">Quest Submission</p>
                       <h1 className="mt-1 text-[1.95rem] uppercase leading-[0.92] md:text-[3.35rem]">Begin Your Quest</h1>
-                      <p className="mt-1.5 max-w-[42rem] text-[0.76rem] leading-[1.24] text-[#4e4438] md:text-[0.84rem]">
-                        Submit your social proof with the same Megahop Adventure visual language used by the game page.
-                      </p>
-                    </div>
+	                      <p className="mt-1.5 max-w-[42rem] text-[0.76rem] leading-[1.24] text-[#4e4438] md:text-[0.84rem]">
+	                        Complete the tasks below, paste your links, then submit your wallet or .mega domain to start the quest.
+	                      </p>
+	                    </div>
                     <button
                       onClick={() => setStep("loading")}
                       className="inline-flex items-center justify-center gap-2 justify-self-center rounded-lg border-2 border-[#181410] bg-[#f8f0dc] px-3.5 py-2 text-[0.78rem] uppercase tracking-[0.05em] shadow-[0_3px_0_#181410] transition hover:-translate-y-0.5 md:justify-self-end"
@@ -551,7 +545,7 @@ export default function App() {
                   </div>
                 </div>
 
-                <form onSubmit={handleSubmit} className="flex flex-col gap-3 rounded-[1.35rem] border-[4px] border-[#1a1713] bg-[#efe6cf]/96 p-4 shadow-[0_8px_0_#1a1713] md:p-5">
+	                <form onSubmit={handleSubmit} className="flex flex-col gap-3 rounded-[1.35rem] border-[4px] border-[#1a1713] bg-[#efe6cf]/96 p-3 shadow-[0_8px_0_#1a1713] sm:p-4 md:p-5">
                   <section className={questFormSectionClass}>
                     <div className="flex flex-col gap-2.5">
                       <div className="flex flex-col gap-2 md:flex-row md:items-start md:justify-between">
@@ -601,12 +595,12 @@ export default function App() {
                           target="_blank"
                           rel="noreferrer"
                           className={`${taskActionClass} self-start md:self-center`}
-                        >
-                          <Twitter size={14} />
-                          Quest Post
-                          <ExternalLink size={12} />
-                        </a>
-                      </div>
+	                        >
+	                          <Twitter size={14} />
+	                          Raid Post
+	                          <ExternalLink size={12} />
+	                        </a>
+	                      </div>
                       <div className="border-t border-dashed border-[#1a1713] pt-2.5">
                         <label className="flex items-center gap-2.5 text-[0.74rem] uppercase tracking-[0.04em]">
                           <input
@@ -724,7 +718,7 @@ export default function App() {
                   <ul className="space-y-2 text-[0.8rem] leading-[1.24] text-[#4e4438]">
                     <li>1. Follow the official X account</li>
                     <li>2. Like and retweet the quest post</li>
-                    <li>3. Submit your quote and quest links</li>
+	                    <li>3. Submit your quote and raid links</li>
                     <li>4. Add a valid wallet or .mega domain</li>
                   </ul>
                 </div>
@@ -733,9 +727,9 @@ export default function App() {
               <div className={`${sectionCardClass} p-[0.95rem]`}>
                 <h3 className="mb-1 text-[1.42rem] uppercase leading-[0.94]">Leaderboard</h3>
                 <div className="mt-3 border-t border-dashed border-[#1a1713] pt-3">
-                  <p className="text-[0.76rem] leading-[1.24] text-[#4e4438]">
-                    Open the full ranking modal from the home screen.
-                  </p>
+	                  <p className="text-[0.76rem] leading-[1.24] text-[#4e4438]">
+	                    Latest quest scores. Submit the form to get on the board.
+	                  </p>
                 </div>
                 <div className="mt-3 space-y-2.5">
                   {leaderboard.length > 0 ? (
