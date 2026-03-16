@@ -1,4 +1,10 @@
 {
+  "rewrites": [
+    {
+      "source": "/megahop-adventure/",
+      "destination": "/megahop-adventure/index.html"
+    }
+  ],
   "redirects": [
     {
       "source": "/megahop-adventure/index.html",

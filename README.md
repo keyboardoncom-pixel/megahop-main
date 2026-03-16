@@ -99,7 +99,6 @@ It currently includes:
 - A CTA to open the standalone game at `/megahop-adventure/`
 - A social quest form for whitelist/raid submissions
 - A leaderboard modal and sidebar summary
-- Referral handling through `?ref=<wallet>`
 
 ### 2. Standalone game
 
@@ -166,6 +165,14 @@ There is an existing `.env.example`, but the current app does not require a Gemi
 - Some dependencies in `package.json` are not part of the active frontend flow
 - The repo still contains quest/raid functionality alongside the game
 - If the goal is to turn this into a pure game site later, the React quest logic should be cleaned up separately instead of documenting it as if it no longer exists
+
+## Anti-bot notes (Vercel Edge Requests)
+
+If you see unusually high Vercel Edge Requests, one common cause is bots/crawlers repeatedly requesting many unique URLs (for example `/?ref=<random>`), which can defeat caching and burn request quotas quickly.
+
+This project has the referral feature disabled, and it strips any `ref` query/hash from the URL on page load to avoid cache-busting URLs.
+
+For broader traffic mitigation, use Vercel Firewall / Bot Protection / rate-limiting rules (recommended), since static frontends alone cannot reliably block automated traffic.
 
 ## Troubleshooting
 

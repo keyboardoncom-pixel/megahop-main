@@ -4,22 +4,13 @@ import {
   AlertCircle,
   ArrowLeft,
   CheckCircle2,
-  Copy,
   ExternalLink,
   Gamepad2,
-  Trophy,
   Twitter,
-  UserPlus,
   Wallet,
 } from "lucide-react";
 
 type Step = "loading" | "raid";
-
-type LeaderboardEntry = {
-  wallet: string;
-  points: number;
-  twitterHandle?: string;
-};
 
 const sectionTitleClass = "text-[0.88rem] md:text-[1rem] uppercase tracking-[0.035em] leading-none";
 const taskActionClass =
@@ -147,6 +138,19 @@ function FloatingButterflies() {
   );
 }
 
+type AnimatedButterflyProps = {
+  // Included only so TS builds still pass when `@types/react` is not installed.
+  // React strips `key` and it is not available at runtime.
+  key?: string;
+  frames: string[];
+  className: string;
+  x: number;
+  y: number;
+  duration: number;
+  rotate: number;
+  fps: number;
+};
+
 function AnimatedButterfly({
   frames,
   className,
@@ -155,15 +159,7 @@ function AnimatedButterfly({
   duration,
   rotate,
   fps,
-}: {
-  frames: string[];
-  className: string;
-  x: number;
-  y: number;
-  duration: number;
-  rotate: number;
-  fps: number;
-}) {
+}: AnimatedButterflyProps) {
   const [frameIndex, setFrameIndex] = useState(0);
 
   useEffect(() => {
@@ -203,35 +199,27 @@ export default function App() {
   const [submitted, setSubmitted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
-  const [referrer, setReferrer] = useState("");
-  const [leaderboard, setLeaderboard] = useState<LeaderboardEntry[]>([]);
-  const [showLeaderboard, setShowLeaderboard] = useState(false);
-  const [copied, setCopied] = useState(false);
   const [twitterHandle, setTwitterHandle] = useState("");
 
   const GOOGLE_SHEETS_URL =
     "https://script.google.com/macros/s/AKfycbyl7Kii-KTiO13L4NdhbuX_AW2SS_wROpLXjeQGlD4A9YUpbIxF5f8ciNVA5UFnQBM8lA/exec";
   const MEGAHOP_ADVENTURE_URL = "/megahop-adventure/";
-  const referralUrl =
-    typeof window !== "undefined"
-      ? `${window.location.origin}${window.location.pathname}?ref=${wallet}`
-      : "";
 
   useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const ref = params.get("ref");
-    if (ref && /^0x[a-fA-F0-9]{40}$/.test(ref)) {
-      setReferrer(ref);
+    const evmRegex = /^0x[a-fA-F0-9]{40}$/;
+    const url = new URL(window.location.href);
+    const queryRef = url.searchParams.get("ref") || "";
+    const hashRef = url.hash.startsWith("#ref=") ? decodeURIComponent(url.hash.slice("#ref=".length)) : "";
+    const incomingRef = (hashRef || queryRef).trim();
+
+    // Referral is intentionally disabled. Strip any `ref` values from the URL to keep pages cache-friendly
+    // and avoid bots generating endless unique query URLs.
+    if (incomingRef && evmRegex.test(incomingRef)) {
+      url.searchParams.delete("ref");
+      url.hash = "";
+      window.history.replaceState(null, "", url.toString());
     }
 
-    fetch(GOOGLE_SHEETS_URL)
-      .then((res) => res.json())
-      .then((data) => {
-        if (Array.isArray(data)) {
-          setLeaderboard(data);
-        }
-      })
-      .catch((err) => console.error("Failed to fetch leaderboard:", err));
   }, []);
 
   const validateForm = () => {
@@ -310,10 +298,10 @@ export default function App() {
         quoteLink,
         raidLink,
         wallet: finalWallet.toLowerCase().trim(),
-        referrer: referrer.toLowerCase().trim(),
+        referrer: "",
       };
 
-      await fetch(GOOGLE_SHEETS_URL, {
+      const submitRes = await fetch(GOOGLE_SHEETS_URL, {
         method: "POST",
         mode: "no-cors",
         headers: {
@@ -415,16 +403,6 @@ export default function App() {
                     <Gamepad2 size={18} />
                     <span className="whitespace-nowrap">Play Megahop Adventure</span>
                   </motion.a>
-
-                  <motion.button
-                    whileHover={{ y: -2 }}
-                    whileTap={{ y: 1 }}
-                    onClick={() => setShowLeaderboard(true)}
-                    className="inline-flex min-h-[72px] w-full max-w-[340px] flex-1 basis-[300px] items-center justify-center gap-3 rounded-[0.9rem] border-[3px] border-[#181410] bg-[#d7c9a6] px-5 py-4 text-[0.9rem] uppercase tracking-[0.04em] text-[#1a1713] shadow-[0_5px_0_#181410] transition hover:bg-[#e3d7b6] md:text-[0.98rem]"
-                  >
-                    <Trophy size={18} />
-                    <span className="whitespace-nowrap">View Leaderboard</span>
-                  </motion.button>
                 </div>
               </div>
             </section>
@@ -464,40 +442,6 @@ export default function App() {
                 </div>
               </div>
 
-              <div className={`${sectionCardClass} p-[0.95rem]`}>
-                <h3 className="mb-1 text-[1.42rem] uppercase leading-[0.94]">Leaderboard</h3>
-                <p className="text-[0.76rem] leading-[1.24] text-[#4e4438]">Top questers from the current campaign.</p>
-                <div className="mt-3 border-t border-dashed border-[#1a1713] pt-3">
-                  {leaderboard.length > 0 ? (
-                    <ol className="space-y-2.5">
-                      {leaderboard.slice(0, 4).map((item, index) => (
-                        <li
-                          key={`${item.wallet}-${index}`}
-                          className="flex items-center justify-between gap-2 rounded-lg border border-[#1a1713]/15 bg-[#fff8eb] px-2.5 py-2 text-[0.74rem]"
-                        >
-                          <span className="flex min-w-0 items-center gap-2">
-                            <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-[#1a1713] text-[0.68rem] text-[#f8f0dc]">
-                              {index + 1}
-                            </span>
-                            <span className="truncate text-[#2f281f]">
-                              {item.twitterHandle
-                                ? item.twitterHandle.startsWith("@")
-                                  ? item.twitterHandle
-                                  : `@${item.twitterHandle}`
-                                : `${item.wallet.slice(0, 6)}...${item.wallet.slice(-4)}`}
-                            </span>
-                          </span>
-                          <span className="shrink-0 rounded-full bg-[#a23a2f]/10 px-2 py-0.5 text-[0.68rem] uppercase tracking-[0.06em] text-[#8b231d]">
-                            {item.points}
-                          </span>
-                        </li>
-                      ))}
-                    </ol>
-                  ) : (
-                    <p className="text-[0.8rem] leading-[1.24] text-[#5c5142]">No entries yet. Be the first to start the quest.</p>
-                  )}
-                </div>
-              </div>
             </aside>
           </motion.main>
         ) : (
@@ -683,6 +627,7 @@ export default function App() {
                     whileHover={{ y: -2 }}
                     whileTap={{ y: 1 }}
                     className={`inline-flex min-h-12 items-center justify-center gap-3 rounded-[0.9rem] border-[3px] border-[#181410] bg-[#a23a2f] px-5 text-[0.88rem] uppercase tracking-[0.05em] text-[#fff2d8] shadow-[0_5px_0_#181410] transition hover:brightness-105 ${isSubmitting ? "cursor-not-allowed opacity-60" : ""}`}
+                    disabled={isSubmitting}
                   >
                     {isSubmitting ? "Starting Quest..." : "Start Quest"}
                   </motion.button>
@@ -707,7 +652,7 @@ export default function App() {
                 <h2 className="text-[1.26rem] uppercase leading-[0.95] tracking-[0.04em]">Megahop Quest</h2>
                 <div className="mt-3 border-t border-dashed border-[#1a1713] pt-3">
                   <p className="max-w-[31ch] text-[0.76rem] leading-[1.28] text-[#4e4438]">
-                    Fill every section, submit your proof, then share your referral link to climb the standings.
+                    Fill every section and submit your proof to get on the standings.
                   </p>
                 </div>
               </div>
@@ -724,42 +669,6 @@ export default function App() {
                 </div>
               </div>
 
-              <div className={`${sectionCardClass} p-[0.95rem]`}>
-                <h3 className="mb-1 text-[1.42rem] uppercase leading-[0.94]">Leaderboard</h3>
-                <div className="mt-3 border-t border-dashed border-[#1a1713] pt-3">
-	                  <p className="text-[0.76rem] leading-[1.24] text-[#4e4438]">
-	                    Latest quest scores. Submit the form to get on the board.
-	                  </p>
-                </div>
-                <div className="mt-3 space-y-2.5">
-                  {leaderboard.length > 0 ? (
-                    leaderboard.slice(0, 3).map((item, index) => (
-                      <div
-                        key={`${item.wallet}-raid-${index}`}
-                        className="flex items-center justify-between gap-2 rounded-lg border border-[#1a1713]/15 bg-[#fff8eb] px-2.5 py-2 text-[0.74rem]"
-                      >
-                        <span className="flex min-w-0 items-center gap-2">
-                          <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-[#1a1713] text-[0.68rem] text-[#f8f0dc]">
-                            {index + 1}
-                          </span>
-                          <span className="truncate text-[#2f281f]">
-                            {item.twitterHandle
-                              ? item.twitterHandle.startsWith("@")
-                                ? item.twitterHandle
-                                : `@${item.twitterHandle}`
-                              : `${item.wallet.slice(0, 6)}...${item.wallet.slice(-4)}`}
-                          </span>
-                        </span>
-                        <span className="shrink-0 rounded-full bg-[#a23a2f]/10 px-2 py-0.5 text-[0.68rem] uppercase tracking-[0.06em] text-[#8b231d]">
-                          {item.points}
-                        </span>
-                      </div>
-                    ))
-                  ) : (
-                    <p className="text-[0.8rem] leading-[1.24] text-[#5c5142]">No quest scores yet.</p>
-                  )}
-                </div>
-              </div>
             </aside>
           </motion.main>
         )}
@@ -782,25 +691,8 @@ export default function App() {
               <p className="text-sm uppercase tracking-[0.25em] text-[#6f6252]">Submission Complete</p>
               <h2 className="mt-3 text-4xl uppercase leading-none md:text-5xl">Welcome to the Quest</h2>
               <p className="mt-4 text-sm leading-snug text-[#4e4438] md:text-base">
-                Your entry has been sent. Use your referral link below to invite more players.
+                Your entry has been sent.
               </p>
-
-              <div className="mt-6 rounded-[1.25rem] border-[3px] border-[#1a1713] bg-[#f8f0dc] p-4">
-                <p className="text-xs uppercase tracking-[0.2em] text-[#6f6252]">Referral Link</p>
-                <div className="mt-3 flex gap-2">
-                  <input readOnly value={referralUrl} className={`${inputClass} flex-1`} />
-                  <button
-                    onClick={() => {
-                      navigator.clipboard.writeText(referralUrl);
-                      setCopied(true);
-                      setTimeout(() => setCopied(false), 2000);
-                    }}
-                    className="inline-flex h-[50px] w-[50px] items-center justify-center rounded-xl border-[3px] border-[#181410] bg-[#a23a2f] text-[#fff2d8] shadow-[0_4px_0_#181410] transition hover:brightness-105"
-                  >
-                    {copied ? <CheckCircle2 size={18} /> : <Copy size={18} />}
-                  </button>
-                </div>
-              </div>
 
               <div className="mt-6 flex flex-wrap gap-3">
                 <button
@@ -824,99 +716,6 @@ export default function App() {
         ) : null}
       </AnimatePresence>
 
-      <AnimatePresence>
-        {showLeaderboard ? (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="fixed inset-0 z-[150] flex items-center justify-center bg-[rgba(20,17,13,0.8)] p-4 backdrop-blur-sm"
-          >
-            <motion.div
-              initial={{ scale: 0.94, y: 18 }}
-              animate={{ scale: 1, y: 0 }}
-              exit={{ scale: 0.96, y: 12 }}
-              className="custom-scrollbar flex max-h-[90vh] w-full max-w-2xl flex-col overflow-auto rounded-[1.8rem] border-[4px] border-[#1a1713] bg-[#efe6cf] p-5 shadow-[0_10px_0_#1a1713] md:p-8"
-            >
-              <div className="flex items-center justify-between gap-4">
-                <div className="flex items-center gap-3">
-                  <div className="inline-flex h-12 w-12 items-center justify-center rounded-xl border-2 border-[#1a1713] bg-[#f8f0dc]">
-                    <Trophy size={22} />
-                  </div>
-                  <div>
-                    <p className="text-xs uppercase tracking-[0.2em] text-[#6f6252]">Campaign Ranking</p>
-                    <h2 className="text-3xl uppercase leading-none md:text-4xl">Quest Elite</h2>
-                  </div>
-                </div>
-                <button
-                  onClick={() => setShowLeaderboard(false)}
-                  className="inline-flex h-11 w-11 items-center justify-center rounded-lg border-[3px] border-[#181410] bg-[#a23a2f] text-[#fff2d8] shadow-[0_4px_0_#181410]"
-                >
-                  ✕
-                </button>
-              </div>
-
-              <div className="mt-6 space-y-3">
-                {leaderboard.length > 0 ? (
-                  leaderboard.map((item, index) => (
-                    <motion.div
-                      key={`${item.wallet}-${index}`}
-                      initial={{ opacity: 0, x: -14 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ delay: index * 0.04 }}
-                      className="flex items-center justify-between gap-4 rounded-[1rem] border-[3px] border-[#1a1713] bg-[#f8f0dc] p-4 shadow-[0_4px_0_#1a1713]"
-                    >
-                      <div className="flex items-center gap-3">
-                        <div className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-[#1a1713] text-[#f8f0dc]">
-                          {index + 1}
-                        </div>
-                        <div>
-                          <p className="text-base uppercase">
-                            {item.twitterHandle
-                              ? item.twitterHandle.startsWith("@")
-                                ? item.twitterHandle
-                                : `@${item.twitterHandle}`
-                              : `${item.wallet.slice(0, 6)}...${item.wallet.slice(-4)}`}
-                          </p>
-                          <p className="text-xs text-[#5c5142]">{item.wallet.slice(0, 6)}...{item.wallet.slice(-4)}</p>
-                        </div>
-                      </div>
-                      <div className="text-right">
-                        <p className="text-3xl leading-none text-[#8b231d]">{item.points}</p>
-                        <p className="text-xs uppercase tracking-[0.2em] text-[#6f6252]">Points</p>
-                      </div>
-                    </motion.div>
-                  ))
-                ) : (
-                  <div className="flex flex-col items-center justify-center rounded-[1rem] border-[3px] border-dashed border-[#1a1713] bg-[#f8f0dc] px-6 py-12 text-center">
-                    <UserPlus size={52} className="mb-4" />
-                    <p className="text-xl uppercase">No legends yet</p>
-                    <p className="mt-2 text-sm text-[#5c5142]">Submit the first successful quest entry.</p>
-                  </div>
-                )}
-              </div>
-            </motion.div>
-          </motion.div>
-        ) : null}
-      </AnimatePresence>
-
-      <style
-        dangerouslySetInnerHTML={{
-          __html: `
-            .custom-scrollbar::-webkit-scrollbar {
-              width: 9px;
-            }
-            .custom-scrollbar::-webkit-scrollbar-track {
-              background: rgba(26, 23, 19, 0.08);
-              border-radius: 999px;
-            }
-            .custom-scrollbar::-webkit-scrollbar-thumb {
-              background: #8f2f24;
-              border-radius: 999px;
-            }
-          `,
-        }}
-      />
     </div>
   );
 }
