@@ -17,7 +17,7 @@ type CheckerResult = {
   phase: string | null;
   status: string;
 };
-const eligibilityCheckerEnabled = false;
+const eligibilityCheckerEnabled = true;
 
 const sectionTitleClass = "text-[0.88rem] md:text-[1rem] uppercase tracking-[0.035em] leading-none";
 const taskActionClass =
