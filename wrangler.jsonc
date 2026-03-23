@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "megahop-main",
+  "pages_build_output_dir": "dist",
+  "compatibility_date": "2026-03-16",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "megahop-eligibility",
+      "database_id": "fb9bd9f2-6e46-4af9-8a30-c4d9dd91fd63"
+    }
+  ]
+}

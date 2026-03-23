@@ -10,7 +10,13 @@ import {
   Wallet,
 } from "lucide-react";
 
-type Step = "loading" | "raid";
+type Step = "loading" | "raid" | "checker";
+type CheckerFeedbackTone = "info" | "error" | "success";
+type CheckerResult = {
+  eligible: boolean;
+  phase: string | null;
+  status: string;
+};
 
 const sectionTitleClass = "text-[0.88rem] md:text-[1rem] uppercase tracking-[0.035em] leading-none";
 const taskActionClass =
@@ -200,6 +206,11 @@ export default function App() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
   const [twitterHandle, setTwitterHandle] = useState("");
+  const [checkerWallet, setCheckerWallet] = useState("");
+  const [checkerErrors, setCheckerErrors] = useState<Record<string, string>>({});
+  const [checkerFeedback, setCheckerFeedback] = useState<{ tone: CheckerFeedbackTone; message: string } | null>(null);
+  const [isCheckingEligibility, setIsCheckingEligibility] = useState(false);
+  const [checkerResult, setCheckerResult] = useState<CheckerResult | null>(null);
 
   const GOOGLE_SHEETS_URL =
     "https://script.google.com/macros/s/AKfycbyl7Kii-KTiO13L4NdhbuX_AW2SS_wROpLXjeQGlD4A9YUpbIxF5f8ciNVA5UFnQBM8lA/exec";
@@ -335,6 +346,87 @@ export default function App() {
       </p>
     ) : null;
 
+  const validateCheckerForm = () => {
+    const newErrors: Record<string, string> = {};
+    const evmRegex = /^0x[a-fA-F0-9]{40}$/;
+    const megaRegex = /^[a-zA-Z0-9-]+\.mega$/;
+
+    if (!checkerWallet) {
+      newErrors.wallet = "Enter an EVM address or .mega domain.";
+    } else if (!evmRegex.test(checkerWallet) && !megaRegex.test(checkerWallet)) {
+      newErrors.wallet = "This address format is invalid.";
+    }
+
+    setCheckerErrors(newErrors);
+    return Object.keys(newErrors).length === 0;
+  };
+
+  const handleCheckerSubmit = (e: FormEvent) => {
+    e.preventDefault();
+
+    void (async () => {
+      if (isCheckingEligibility) return;
+
+      if (!validateCheckerForm()) {
+        setCheckerFeedback({
+          tone: "error",
+          message: "Fix the highlighted fields first.",
+        });
+        return;
+      }
+
+      setIsCheckingEligibility(true);
+      setCheckerFeedback({
+        tone: "info",
+        message: "Checking eligibility...",
+      });
+      setCheckerResult(null);
+
+      try {
+        const response = await fetch("/api/check-eligibility", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            wallet: checkerWallet.trim().toLowerCase(),
+          }),
+        });
+
+        const result = (await response.json()) as {
+          ok?: boolean;
+          eligible?: boolean;
+          phase?: string | null;
+          status?: string;
+          error?: string;
+        };
+
+        if (!response.ok || !result.ok) {
+          setCheckerFeedback({
+            tone: "error",
+            message: result.error || "Eligibility check failed.",
+          });
+          return;
+        }
+
+        setCheckerResult({
+          eligible: Boolean(result.eligible),
+          phase: result.phase ?? null,
+          status: result.status || "not_found",
+        });
+        setCheckerFeedback(null);
+      } catch (error) {
+        console.error("Eligibility request failed", error);
+        setCheckerFeedback({
+          tone: "error",
+          message: "Could not reach the eligibility API.",
+        });
+      } finally {
+        setIsCheckingEligibility(false);
+      }
+    })();
+  };
+
   return (
     <div className="min-h-screen bg-[radial-gradient(circle_at_20%_10%,#f4ebd3_0%,#ece2c7_35%,#dacba8_100%)] text-[#1a1713] selection:bg-[#a23a2f] selection:text-[#fff2d8]">
       <div className="pointer-events-none fixed inset-0 opacity-20 mix-blend-multiply bg-[url('https://www.transparenttextures.com/patterns/stardust.png')]" />
@@ -403,6 +495,16 @@ export default function App() {
                     <Gamepad2 size={18} />
                     <span className="whitespace-nowrap">Play Megahop Adventure</span>
                   </motion.a>
+
+                  <motion.button
+                    whileHover={{ y: -2 }}
+                    whileTap={{ y: 1 }}
+                    onClick={() => setStep("checker")}
+                    className="inline-flex min-h-[72px] w-full max-w-[340px] flex-1 basis-[300px] items-center justify-center gap-3 rounded-[0.9rem] border-[3px] border-[#181410] bg-[#f3ead2] px-5 py-4 text-[0.9rem] uppercase tracking-[0.03em] text-[#1a1713] shadow-[0_5px_0_#181410] transition hover:bg-[#fff8ec] md:text-[0.98rem]"
+                  >
+                    <Wallet size={18} />
+                    <span className="whitespace-nowrap">Check Wallet Eligibility</span>
+                  </motion.button>
                 </div>
               </div>
             </section>
@@ -439,12 +541,16 @@ export default function App() {
                     <p className="text-[0.72rem] uppercase leading-none tracking-[0.05em]">Play the Game</p>
                     <p className="mt-1.5 leading-[1.22] text-[#5c5142]">Open the Megahop Adventure map and jump in immediately.</p>
                   </div>
+                  <div className="rounded-lg border-2 border-[#1a1713] bg-[#fff8eb] px-3 py-2.5 shadow-[0_2px_0_rgba(26,23,19,0.14)]">
+                    <p className="text-[0.72rem] uppercase leading-none tracking-[0.05em]">Check Eligibility</p>
+                    <p className="mt-1.5 leading-[1.22] text-[#5c5142]">Open the wallet checker and see whether a wallet is listed for the selected mint phase.</p>
+                  </div>
                 </div>
               </div>
 
             </aside>
           </motion.main>
-        ) : (
+        ) : step === "raid" ? (
 	          <motion.main
 	            key="raid"
 	            initial={{ opacity: 0, y: 16 }}
@@ -671,10 +777,261 @@ export default function App() {
 
             </aside>
           </motion.main>
+        ) : (
+          <motion.main
+            key="checker"
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0 }}
+            className="mx-auto grid min-h-screen w-[min(1840px,98vw)] grid-cols-1 gap-3 px-2 py-4 sm:gap-4 sm:px-3 sm:py-6 lg:grid-cols-[minmax(0,5fr)_360px]"
+          >
+            <section className="relative overflow-hidden rounded-[1rem] border-[4px] border-[#1a1713] bg-[#ddd0ad] shadow-[0_8px_0_#1a1713]">
+              <img
+                src="/megahop-adventure/assets/Overworld/main_island.png"
+                alt="Megahop map backdrop"
+                className="absolute inset-0 h-full w-full object-contain object-center opacity-18"
+              />
+              <FloatingClouds />
+              <FloatingButterflies />
+              <div className="relative z-10 mx-auto flex min-h-full max-w-5xl flex-col px-2 py-4 sm:px-4 sm:py-5 md:px-8 md:py-6">
+                <div className="mb-4 rounded-[1.2rem] border-[3px] border-[#5f594a] bg-[#ece2c7]/95 px-5 py-4 shadow-[0_5px_0_rgba(26,23,19,0.4)]">
+                  <div className="grid gap-3 md:grid-cols-[auto_minmax(0,1fr)_auto] md:items-center md:gap-5">
+                    <div className="flex items-center justify-center md:justify-start">
+                      <motion.img
+                        src="/megahop-adventure/assets/Overworld/head_megahop.png"
+                        alt="Megahop character head"
+                        animate={{ y: [0, -4, 0], rotate: [-1.5, 1.5, -1.5] }}
+                        transition={{ duration: 2.8, repeat: Infinity, ease: "easeInOut" }}
+                        className="h-auto w-[56px] shrink-0 drop-shadow-[0_8px_12px_rgba(26,23,19,0.28)] md:w-[72px]"
+                      />
+                    </div>
+                    <div className="text-center md:text-left">
+                      <p className="text-[0.72rem] uppercase tracking-[0.16em] text-[#6f6252]">Wallet Eligibility</p>
+                      <h1 className="mt-1 text-[1.95rem] uppercase leading-[0.92] md:text-[3.35rem]">Check Your Mint Access</h1>
+                      <p className="mt-1.5 max-w-[42rem] text-[0.76rem] leading-[1.28] text-[#4e4438] md:text-[0.84rem]">
+                        Enter your wallet address to see whether your wallet is eligible for the GTD or FCFS mint phase. We will automatically detect the result for you.
+                      </p>
+                    </div>
+                    <button
+                      onClick={() => setStep("loading")}
+                      className="inline-flex items-center justify-center gap-2 justify-self-center rounded-lg border-2 border-[#181410] bg-[#f8f0dc] px-3.5 py-2 text-[0.78rem] uppercase tracking-[0.05em] shadow-[0_3px_0_#181410] transition hover:-translate-y-0.5 md:justify-self-end"
+                    >
+                      <ArrowLeft size={16} />
+                      Back
+                    </button>
+                  </div>
+                </div>
+
+                <form
+                  onSubmit={handleCheckerSubmit}
+                  className="flex flex-col gap-3 rounded-[1.35rem] border-[4px] border-[#1a1713] bg-[#efe6cf]/96 p-3 shadow-[0_8px_0_#1a1713] sm:p-4 md:p-5"
+                >
+                  <section className={questFormSectionClass}>
+                    <div className="mb-2 flex flex-col gap-1.5">
+                      <h3 className={sectionTitleClass}>Wallet Address</h3>
+                      <p className="text-[0.78rem] leading-[1.28] text-[#5c5142]">
+                        Paste your EVM wallet address or your `.mega` domain below.
+                      </p>
+                    </div>
+                    <div className="relative">
+                      <Wallet className="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 text-[#5c5142]" size={16} />
+                      <input
+                        type="text"
+                        placeholder="Example: 0x1234...abcd or yourname.mega"
+                        value={checkerWallet}
+                        onChange={(e) => {
+                          setCheckerWallet(e.target.value);
+                          setCheckerFeedback(null);
+                          setCheckerResult(null);
+                        }}
+                        className={`${inputClass} pl-10`}
+                      />
+                    </div>
+                    {renderFieldError(checkerErrors.wallet)}
+                    {renderFieldSuccess("Wallet format looks good.", Boolean(checkerWallet && !checkerErrors.wallet))}
+                  </section>
+
+                  <section className={questFormSectionClass}>
+                    <h3 className={sectionTitleClass}>What You Will See</h3>
+                    <div className="mt-3 grid gap-2 text-[0.8rem] text-[#4e4438] sm:grid-cols-2">
+                      <div className="rounded-lg border-2 border-[#1a1713] bg-[#fff8eb] px-3 py-3 shadow-[0_2px_0_rgba(26,23,19,0.14)]">
+                        If your wallet is eligible, we will show the phase it belongs to.
+                      </div>
+                      <div className="rounded-lg border-2 border-[#1a1713] bg-[#fff8eb] px-3 py-3 shadow-[0_2px_0_rgba(26,23,19,0.14)]">
+                        If your wallet is not listed, we will let you know right away in the popup.
+                      </div>
+                    </div>
+                  </section>
+
+                  <motion.button
+                    type="submit"
+                    whileHover={{ y: -2 }}
+                    whileTap={{ y: 1 }}
+                    className={`inline-flex min-h-12 items-center justify-center gap-3 rounded-[0.9rem] border-[3px] border-[#181410] bg-[#a23a2f] px-5 text-[0.88rem] uppercase tracking-[0.05em] text-[#fff2d8] shadow-[0_5px_0_#181410] transition hover:brightness-105 ${isCheckingEligibility ? "cursor-not-allowed opacity-60" : ""}`}
+                    disabled={isCheckingEligibility}
+                  >
+                    {isCheckingEligibility ? "Checking..." : "Check My Eligibility"}
+                  </motion.button>
+
+                  {checkerFeedback ? (
+                    <div
+                      className={`rounded-[1rem] border-[3px] px-4 py-3 text-[0.82rem] uppercase leading-[1.35] tracking-[0.04em] shadow-[0_4px_0_rgba(26,23,19,0.18)] ${
+                        checkerFeedback.tone === "error"
+                          ? "border-[#7f2620] bg-[#f4d8d2] text-[#7f2620]"
+                          : checkerFeedback.tone === "success"
+                            ? "border-[#35583a] bg-[#deeadf] text-[#35583a]"
+                            : "border-[#7d6a38] bg-[#f0e5bf] text-[#695624]"
+                      }`}
+                    >
+                      {checkerFeedback.message}
+                    </div>
+                  ) : null}
+                </form>
+              </div>
+            </section>
+
+            <aside className="flex max-h-[calc(100vh-20px)] flex-col gap-5 overflow-auto rounded-[1rem] border-[3px] border-[#1a1713] bg-[#efe6cf] p-4 shadow-[0_6px_0_#1a1713] lg:p-[1.05rem]">
+              <button
+                onClick={() => setStep("loading")}
+                className="inline-flex min-h-11 items-center justify-center gap-2 rounded-lg border-2 border-[#181410] bg-[linear-gradient(180deg,#b44636_0%,#8f2f24_100%)] px-4 text-[0.92rem] uppercase tracking-[0.06em] text-[#fff2d8] shadow-[0_4px_0_#181410] transition hover:-translate-y-0.5 hover:brightness-105"
+              >
+                <ArrowLeft size={16} />
+                Back to Home
+              </button>
+
+              <div className="rounded-[1rem] border-2 border-[#1a1713] bg-[#f8f0dc]/75 px-4 py-4 shadow-[0_4px_0_#1a1713]">
+                <h2 className="text-[1.26rem] uppercase leading-[0.95] tracking-[0.04em]">Before You Check</h2>
+                <div className="mt-3 border-t border-dashed border-[#1a1713] pt-3">
+                  <p className="max-w-[31ch] text-[0.76rem] leading-[1.28] text-[#4e4438]">
+                    Make sure you enter the same wallet you plan to use during mint.
+                  </p>
+                </div>
+              </div>
+
+              <div className={`${sectionCardClass} p-[0.95rem]`}>
+                <h3 className="mb-1 text-[1.42rem] uppercase leading-[0.94]">Helpful Tips</h3>
+                <div className="mt-3 border-t border-dashed border-[#1a1713] pt-3">
+                  <ul className="space-y-2 text-[0.8rem] leading-[1.24] text-[#4e4438]">
+                    <li>1. Paste your wallet exactly as you use it for minting.</li>
+                    <li>2. If you use a `.mega` name, double-check the spelling.</li>
+                    <li>3. GTD and FCFS are checked automatically, so you only need one search.</li>
+                    <li>4. If your wallet is not found, try again carefully before contacting support.</li>
+                  </ul>
+                </div>
+              </div>
+            </aside>
+          </motion.main>
         )}
       </AnimatePresence>
 
       <AnimatePresence>
+        {checkerResult ? (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[100] flex items-center justify-center bg-[rgba(20,17,13,0.72)] p-4 backdrop-blur-sm"
+          >
+            <motion.div
+              initial={{ scale: 0.92, y: 14 }}
+              animate={{ scale: 1, y: 0 }}
+              exit={{ scale: 0.96, y: 10 }}
+              className={`relative w-full max-w-2xl overflow-hidden rounded-[1.75rem] border-[4px] border-[#1a1713] p-5 shadow-[0_10px_0_#1a1713] sm:p-6 md:p-8 ${
+                checkerResult.eligible ? "bg-[#e7efde]" : "bg-[#f1dfd8]"
+              }`}
+            >
+              <div
+                aria-hidden="true"
+                className={`absolute inset-x-0 top-0 h-5 ${
+                  checkerResult.eligible
+                    ? "bg-[repeating-linear-gradient(90deg,#6d8f5d_0,#6d8f5d_18px,#dfe9d5_18px,#dfe9d5_36px)]"
+                    : "bg-[repeating-linear-gradient(90deg,#b45043_0,#b45043_18px,#f0d6cf_18px,#f0d6cf_36px)]"
+                }`}
+              />
+              <div
+                aria-hidden="true"
+                className={`pointer-events-none absolute -right-10 top-10 h-28 w-28 rounded-full blur-2xl ${
+                  checkerResult.eligible ? "bg-[#cfe2bf]/80" : "bg-[#efc0b4]/80"
+                }`}
+              />
+              <div
+                aria-hidden="true"
+                className={`pointer-events-none absolute -left-10 bottom-8 h-24 w-24 rounded-full blur-2xl ${
+                  checkerResult.eligible ? "bg-[#f6fbef]/75" : "bg-[#f8e9e3]/75"
+                }`}
+              />
+
+              <div className="relative pt-3">
+              <p className={`text-[0.82rem] uppercase tracking-[0.22em] sm:text-sm ${
+                checkerResult.eligible ? "text-[#56704b]" : "text-[#8c4a40]"
+              }`}>Wallet Check Result</p>
+              <h2 className={`mt-3 max-w-[12ch] text-[2.2rem] uppercase leading-[0.92] sm:text-[2.8rem] md:text-[3.4rem] ${
+                checkerResult.eligible ? "text-[#24331f]" : "text-[#4f221a]"
+              }`}>
+                {checkerResult.eligible ? "Congratulations!" : "Sorry, Not Eligible"}
+              </h2>
+              <p className={`mt-4 max-w-[34rem] text-[0.98rem] leading-[1.45] md:text-[1.02rem] ${
+                checkerResult.eligible ? "text-[#42543b]" : "text-[#6f4036]"
+              }`}>
+                {checkerResult.eligible
+                  ? `Your wallet has been successfully detected in the ${String(checkerResult.phase || "").toUpperCase()} phase. You are eligible to participate in this mint access.`
+                  : "We could not find this wallet in the current eligibility list. Please make sure you entered the correct wallet address."}
+              </p>
+
+              {checkerResult.phase ? (
+                <div className={`mt-5 inline-flex items-center rounded-full border-[3px] px-4 py-2 text-[0.84rem] uppercase tracking-[0.08em] shadow-[0_4px_0_#181410] ${
+                  checkerResult.eligible
+                    ? "border-[#181410] bg-[#f5f8ef] text-[#24331f]"
+                    : "border-[#181410] bg-[#fbf0eb] text-[#4f221a]"
+                }`}>
+                  <span className={checkerResult.eligible ? "text-[#56704b]" : "text-[#8c4a40]"}>Phase</span>
+                  <span className="mx-2 h-1.5 w-1.5 rounded-full bg-[#1a1713]" />
+                  <span>{checkerResult.phase.toUpperCase()}</span>
+                </div>
+              ) : (
+                <div className={`mt-5 inline-flex items-center rounded-full border-[3px] px-4 py-2 text-[0.84rem] uppercase tracking-[0.08em] shadow-[0_4px_0_#181410] ${
+                  checkerResult.eligible
+                    ? "border-[#181410] bg-[#f5f8ef] text-[#24331f]"
+                    : "border-[#181410] bg-[#fbf0eb] text-[#4f221a]"
+                }`}>
+                  <span className={checkerResult.eligible ? "text-[#56704b]" : "text-[#8c4a40]"}>Status</span>
+                  <span className="mx-2 h-1.5 w-1.5 rounded-full bg-[#1a1713]" />
+                  <span>{checkerResult.eligible ? "Eligible" : "Not Listed"}</span>
+                </div>
+              )}
+
+              <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+                <button
+                  onClick={() => setCheckerResult(null)}
+                  className={`inline-flex min-h-12 items-center justify-center rounded-lg border-[3px] px-5 text-[0.9rem] uppercase tracking-[0.05em] shadow-[0_4px_0_#181410] sm:min-w-[140px] ${
+                    checkerResult.eligible
+                      ? "border-[#181410] bg-[#6d8f5d] text-[#f8f6ea]"
+                      : "border-[#181410] bg-[#b45043] text-[#fff2d8]"
+                  }`}
+                >
+                  Close
+                </button>
+                <button
+                  onClick={() => {
+                    setCheckerResult(null);
+                    setCheckerWallet("");
+                    setCheckerFeedback(null);
+                    setCheckerErrors({});
+                  }}
+                  className={`inline-flex min-h-12 items-center justify-center rounded-lg border-[3px] px-5 text-[0.9rem] uppercase tracking-[0.05em] shadow-[0_4px_0_#181410] sm:min-w-[240px] ${
+                    checkerResult.eligible
+                      ? "border-[#181410] bg-[#f5f8ef] text-[#24331f]"
+                      : "border-[#181410] bg-[#fbf0eb] text-[#4f221a]"
+                  }`}
+                >
+                  Check Another Wallet
+                </button>
+              </div>
+              </div>
+            </motion.div>
+          </motion.div>
+        ) : null}
+
         {submitted ? (
           <motion.div
             initial={{ opacity: 0 }}
