@@ -17,6 +17,7 @@ type CheckerResult = {
   phase: string | null;
   status: string;
 };
+const eligibilityCheckerEnabled = false;
 
 const sectionTitleClass = "text-[0.88rem] md:text-[1rem] uppercase tracking-[0.035em] leading-none";
 const taskActionClass =
@@ -499,11 +500,22 @@ export default function App() {
                   <motion.button
                     whileHover={{ y: -2 }}
                     whileTap={{ y: 1 }}
-                    onClick={() => setStep("checker")}
-                    className="inline-flex min-h-[72px] w-full max-w-[340px] flex-1 basis-[300px] items-center justify-center gap-3 rounded-[0.9rem] border-[3px] border-[#181410] bg-[#f3ead2] px-5 py-4 text-[0.9rem] uppercase tracking-[0.03em] text-[#1a1713] shadow-[0_5px_0_#181410] transition hover:bg-[#fff8ec] md:text-[0.98rem]"
+                    onClick={() => {
+                      if (eligibilityCheckerEnabled) {
+                        setStep("checker");
+                      }
+                    }}
+                    disabled={!eligibilityCheckerEnabled}
+                    className={`inline-flex min-h-[72px] w-full max-w-[340px] flex-1 basis-[300px] items-center justify-center gap-3 rounded-[0.9rem] border-[3px] border-[#181410] px-5 py-4 text-[0.9rem] uppercase tracking-[0.03em] shadow-[0_5px_0_#181410] transition md:text-[0.98rem] ${
+                      eligibilityCheckerEnabled
+                        ? "bg-[#f3ead2] text-[#1a1713] hover:bg-[#fff8ec]"
+                        : "cursor-not-allowed bg-[#e5dcc3] text-[#6f6252] opacity-80"
+                    }`}
                   >
                     <Wallet size={18} />
-                    <span className="whitespace-nowrap">Check Wallet Eligibility</span>
+                    <span className="whitespace-nowrap">
+                      {eligibilityCheckerEnabled ? "Check Wallet Eligibility" : "Check Wallet Eligibility Soon"}
+                    </span>
                   </motion.button>
                 </div>
               </div>
