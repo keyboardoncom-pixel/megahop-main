@@ -2959,6 +2959,1094 @@ VALUES
   ('0xb39920bbd87b0214029cd5f295d4f5a8da308aac', 'gtd', 'eligible'),
   ('0x2d1611fbf5d24f6f1127c41cbe8feb7ddc212c47', 'gtd', 'eligible'),
   ('0xe504bfd55b1d5e9a66610b8534212d880705d97e', 'gtd', 'eligible'),
+  ('0xa67952c04135b371a79d107e46b735799e27931e', 'gtd', 'eligible'),
+  ('0xc24402744631f00b65e8303c0c9a7dabed61e71c', 'gtd', 'eligible'),
+  ('0xe9b81266309ba7b76da211635c9822c5ba6fa44f', 'gtd', 'eligible'),
+  ('0xfdf7a7a9ff5cbac5d1a5db56af059f593b329380', 'gtd', 'eligible'),
+  ('0x40b42e8039538fde1295fd4da415f7514a73d84c', 'gtd', 'eligible'),
+  ('0xfa5dc4a64d47963258a57d9f44249bb47f004adb', 'gtd', 'eligible'),
+  ('0x7a5fb7fed682155dd0fe6af70c0eadd7c3fa5529', 'gtd', 'eligible'),
+  ('0x872c0efe37eedb6a83b25690b690d86769f86c94', 'gtd', 'eligible'),
+  ('0x17c4d7e2d0734d6999c7539ec5c43e5a89040eb9', 'gtd', 'eligible'),
+  ('0x692613bbbdcaf23fde951feb3e3f88b1567cda77', 'gtd', 'eligible'),
+  ('0x1b0785eca753a736db4b556d1fe9ba8cc510d017', 'gtd', 'eligible'),
+  ('0x27a592006f275a7d0c4f3d2c59c6da1878b33f30', 'gtd', 'eligible'),
+  ('0xec8bc69259dce134a7c31d932d5896b4e3414df1', 'gtd', 'eligible'),
+  ('0x7fa4433166e8d6d789d424becc9c137bf8d830fe', 'gtd', 'eligible'),
+  ('0x8f44314fd1578d3d5a3a22b0cb10b1e70a27dd58', 'gtd', 'eligible'),
+  ('0x93002f668a0538a844b5003b8180f65e3d52ffcb', 'gtd', 'eligible'),
+  ('0xe935e457076383dcfe8e8958225274e0e474dfb6', 'gtd', 'eligible'),
+  ('0xabefc08efa42f327656d548245353936fdf7095b', 'gtd', 'eligible'),
+  ('0x933aa1ab59ce0cf66d248ebdc293a56514318d9c', 'gtd', 'eligible'),
+  ('0x12063092acbf10fa6ce3a405f4457cb80a7fd73d', 'gtd', 'eligible'),
+  ('0x51f74dece16659b49ba897c44db39cca06a037ab', 'gtd', 'eligible'),
+  ('0x502ceaecfbdf1997f67d284b288e98c3fbbd1ea6', 'gtd', 'eligible'),
+  ('0xb1654b8a3f8af959cc0f641f72ac6371ec0f450e', 'gtd', 'eligible'),
+  ('0x3766306e7ef58faa8ec2dae53648c4b6d604cc17', 'gtd', 'eligible'),
+  ('0x6a05082bf8c1994d54a4af8594d7480670f61d01', 'gtd', 'eligible'),
+  ('0xd0554b66ae81c54a90c7fd3db13a266955e89b49', 'gtd', 'eligible'),
+  ('0xf96fd6f445dc6b20af87bd805c362e3b503ebc49', 'gtd', 'eligible'),
+  ('0x057331cbc2c386469de129a9fe3b226182fe84c3', 'gtd', 'eligible'),
+  ('0x03d6e820325b0cf0ed0cf3a8d920887d5e265f46', 'gtd', 'eligible'),
+  ('0xee4d9f25cacc40d2aa7482218b502fc370112459', 'gtd', 'eligible'),
+  ('0xd3f45c5f782ceaa5783e387355d8d20fe1cc8e7a', 'gtd', 'eligible'),
+  ('0x00321e421259e9ad7c2d3d9ec78d1be89dd4c6f0', 'gtd', 'eligible'),
+  ('0x52eff600e9a0317981c1e3ee882c4b6d6e053f5d', 'gtd', 'eligible'),
+  ('0xda1def098c78920611293e8ae605c2a3a56a39a3', 'gtd', 'eligible'),
+  ('0x0524c4f4d89c5f436ecf2515e43c55755cef5322', 'gtd', 'eligible'),
+  ('0x0b2db4050ffbfd1374294583d68ee64617cc279f', 'gtd', 'eligible'),
+  ('0x83cb51f1ac95e0da46866f7a5454f9a72ecafcd7', 'gtd', 'eligible'),
+  ('0x790564b161d741e5a1a1458a7c77e80176ac5571', 'gtd', 'eligible'),
+  ('0x5ea81d295b826a1038ce8e2a11d1a6502bd7ff6d', 'gtd', 'eligible'),
+  ('0x8975236bc79b34339785cfffd5ac8aa4232c701b', 'gtd', 'eligible'),
+  ('0xb9519d99aaa3ef7ee07a01477bbcb928dd1e6f98', 'gtd', 'eligible'),
+  ('0x85945a6a5dd82c93a81d5bf7d4b5883567439aae', 'gtd', 'eligible'),
+  ('0xc6cbcf602f3c15f47d407e08a0e5e18fbc7cadfe', 'gtd', 'eligible'),
+  ('0x31f890cd1e6bf1c04356b9409b7f5c109f25b46a', 'gtd', 'eligible'),
+  ('0xceb01052561638c25480fd63340d4d85da2f4228', 'gtd', 'eligible'),
+  ('0x777cdb465c12e490e369d8efeb74e122a39c60b9', 'gtd', 'eligible'),
+  ('0xd249642f587e7ef69ce6652ba714c0687f9dc76a', 'gtd', 'eligible'),
+  ('0x4b172129d817df0aa91bd2003a89b278ae251029', 'gtd', 'eligible'),
+  ('0xaad5d5dc6f3eaee02e7e097829d3107d46bf844f', 'gtd', 'eligible'),
+  ('0x28d187ad7998efaae153864eb3392ca39915fa41', 'gtd', 'eligible'),
+  ('0x4b2f964fe6f094d5774a2100139c6c91c9023f87', 'gtd', 'eligible'),
+  ('0xa816a185105ddfcd6aa9ccfe9e7db9a77e73b734', 'gtd', 'eligible'),
+  ('0x853b3a0faec5e9f21297461fa243d38414ebf978', 'gtd', 'eligible'),
+  ('0x180d5ab033096df1062c89dc46e88432d0bb90a0', 'gtd', 'eligible'),
+  ('0xc89138c175640e19a740ee3f38b7130204649da9', 'gtd', 'eligible'),
+  ('0x9e2382653e1947280116aff9cd154df69dd6cdce', 'gtd', 'eligible'),
+  ('0x555be5343185cf44bf314c5acc9777810ab3ee4f', 'gtd', 'eligible'),
+  ('0xdb5df77973d383cdd8873def4e89dc779aa36c85', 'gtd', 'eligible'),
+  ('0x694907c6aeeef4c3cd3fbfff0e92e6741a68467c', 'gtd', 'eligible'),
+  ('0x83c138caf6c727b398bcc94d35be9038bce78969', 'gtd', 'eligible'),
+  ('0x9b82ccb4b000e3023d7bfc90d04e415a68b4fc5a', 'gtd', 'eligible'),
+  ('0xeb3ee7956ea8532260d0d5f57462808ae5a08f0a', 'gtd', 'eligible'),
+  ('0xbb06408125f51e161aa5b5b426e4c6501158d745', 'gtd', 'eligible'),
+  ('0x635321be7093303fabd35227048c8d2645983dd2', 'gtd', 'eligible'),
+  ('0x4f448afd551c061326e256242cd6c82a5375f5a0', 'gtd', 'eligible'),
+  ('0xf059d5376cd81d859102a7e05cb443d4c1499fa3', 'gtd', 'eligible'),
+  ('0x396ce02f2c55abcf70cec3197123cb237949554e', 'gtd', 'eligible'),
+  ('0xa4adc8abe09cf3c06f353576c2e9886eef815ebe', 'gtd', 'eligible'),
+  ('0x4e5c0a2ec0422e4443fb254bf936f0954928aa53', 'gtd', 'eligible'),
+  ('0x67087ad5cca4dd3bbed11a9865ef88f4cd55d0d2', 'gtd', 'eligible'),
+  ('0x151654a589abcd2d7fdce037851d12911559517a', 'gtd', 'eligible'),
+  ('0x9bf9c29d4f2cc27e42e95ae6cbf2b9cfad752dd1', 'gtd', 'eligible'),
+  ('0xcdb94856bc6df035599ef0a4e5b38ccb44b473fd', 'gtd', 'eligible'),
+  ('0x36e007ccb09dbfd2bcb57cfe90e2ff82db8d0407', 'gtd', 'eligible'),
+  ('0x518e8bcf60edd14b531da6f97eaf1e4efb301a0b', 'gtd', 'eligible'),
+  ('0xd469ccfcf90845f7dccf43e7b29dfa6312380a69', 'gtd', 'eligible'),
+  ('0xa165b3760030099bdcc5d5d54630e5016e042789', 'gtd', 'eligible'),
+  ('0x1ca9e81373f0b6108c81d4f946d82345cffa7fe0', 'gtd', 'eligible'),
+  ('0xf5bfed2c571d071afddfe2f4c02f64dffd9780af', 'gtd', 'eligible'),
+  ('0x08081f1eeadf6e2aae60ba89f80b030538d0d3a3', 'gtd', 'eligible'),
+  ('0x9c857f92ec9625e9a1162d84cd17ac311f619a49', 'gtd', 'eligible'),
+  ('0x453625a52becd874b38ee8e87408f3e70a0e3240', 'gtd', 'eligible'),
+  ('0xbb6f4cfc66356b64bb6b05ac5e36b1ff76471054', 'gtd', 'eligible'),
+  ('0xc1f09292646a0ea37e7f654a9b3e1fd6b78c1a05', 'gtd', 'eligible'),
+  ('0x2a88746f7328349010e9a9bd338d2c8cb7df753e', 'gtd', 'eligible'),
+  ('0xa2866f186a64f191eae0346b2730c043616e6bc3', 'gtd', 'eligible'),
+  ('0x8f1e4b2f640f65f5c9ea49febd5813bdd6d3c4be', 'gtd', 'eligible'),
+  ('0x66f9fe50f68f35233cf55f5f201388f717091a8a', 'gtd', 'eligible'),
+  ('0xb9b55938c62c0085f5c9dff35bdf7f97f090f189', 'gtd', 'eligible'),
+  ('0x4872595d87d97b82410ce39700b0165764c68458', 'gtd', 'eligible'),
+  ('0x39d47adc0684d373295ae96df932556192a9091a', 'gtd', 'eligible'),
+  ('0x929e5eede72d2191035d9c0942914b46af895297', 'gtd', 'eligible'),
+  ('0xc07893a2a6bf66e91d737233297a89fce937ddbd', 'gtd', 'eligible'),
+  ('0x4941d159e8f538afc72f259abf21482e8372921a', 'gtd', 'eligible'),
+  ('0x332c002b1870ae05d00053b335c88b73c280711d', 'gtd', 'eligible'),
+  ('0x026eb3aa2cf8b14bce5bb77872191c19f46865a1', 'gtd', 'eligible'),
+  ('0x25e97876aefabf66f69c9ce0630c84f66bfd81c1', 'gtd', 'eligible'),
+  ('0x79104e5c535b9220925209be8e963d29fa76ae69', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0xdcf737d9cf10ae5365f68cc281936ff25e560196', 'gtd', 'eligible'),
+  ('0x73d2a51ba95f1e05fb271b3f4140617c2bd9c691', 'gtd', 'eligible'),
+  ('0x17602ed61a0adda1e0cd4b4e0e9ae1c327e330e6', 'gtd', 'eligible'),
+  ('0x5b1758435e7e763958f285d8fea72bf71fe5c63c', 'gtd', 'eligible'),
+  ('0xf8c5fe54627322a3a5e152898373588745c2e0c0', 'gtd', 'eligible'),
+  ('0x6bd3633fe6ebf580c393716a88f4115c30ed9a2e', 'gtd', 'eligible'),
+  ('0xd4c7a8356e700c094754d049f40a9151f123b982', 'gtd', 'eligible'),
+  ('0x40041cb9e3bafef6cca30debbef56fa9648c6cdb', 'gtd', 'eligible'),
+  ('0x5a15d797ff77244ac40d4bf497035ff9672e7242', 'gtd', 'eligible'),
+  ('0x75944f9320a1f3a65ba042cacc11a5b41e0494b9', 'gtd', 'eligible'),
+  ('0x656e4e6f40bd0d176b35b2b178ef6e440f8129db', 'gtd', 'eligible'),
+  ('0x28d210b3219987ee4a9e270addffbb85e9cd3aa0', 'gtd', 'eligible'),
+  ('0x1cbf3b005a908891ff209386381a1e3d97e2978d', 'gtd', 'eligible'),
+  ('0x089c6634ba6754f6406be19eda335f2d86553d28', 'gtd', 'eligible'),
+  ('0x5b6f101d25e5932f435015e8982eebbb8e28ddf3', 'gtd', 'eligible'),
+  ('0x24d3d66a0f4f0b27b2742c0ec77e2550a55279d7', 'gtd', 'eligible'),
+  ('0xb0937b05b74cfaab8bb006368958f2fbd48262a6', 'gtd', 'eligible'),
+  ('0x2edf67577443c32647934f0563eb982a6c06f35b', 'gtd', 'eligible'),
+  ('0x4a4a2094c789c9288aa87d366793aa6adb5e6df5', 'gtd', 'eligible'),
+  ('0xa37bd1fceac474d2b62a2ac60452c8ddff85b206', 'gtd', 'eligible'),
+  ('0x334f44825f34ad903aee1c0547fe75f7caa02cea', 'gtd', 'eligible'),
+  ('0x6913ded59d9888b88f655d53615d4e4cc5ba6103', 'gtd', 'eligible'),
+  ('0x7206b799c6cfaeca8f00688e32aa69e23f2cd4d9', 'gtd', 'eligible'),
+  ('0xf17d0e4dea1049ac74cdd958551527354f81afa0', 'gtd', 'eligible'),
+  ('0x8de56b04baef00ce01db57af9847717a4617906f', 'gtd', 'eligible'),
+  ('0xa3641e171e79bc6c93c63e9ce457cfde258caa6b', 'gtd', 'eligible'),
+  ('0xf3e5c9fa2d281b92b257d14688301d9934ab712e', 'gtd', 'eligible'),
+  ('0x94e5f0938c18f825a06e6cd3bc040922632b3a4d', 'gtd', 'eligible'),
+  ('0xd69916355bfa03d31da5b3b19b95518f0f1f6140', 'gtd', 'eligible'),
+  ('0xcd4a15e8409a77608c76128bbd5f2d28a5a478d2', 'gtd', 'eligible'),
+  ('0x6e370f2d1668412787cfa6fae1e81494c181f362', 'gtd', 'eligible'),
+  ('0xf731ff78d0b7a7c7ab3c28723779026eef58ab97', 'gtd', 'eligible'),
+  ('0xe9f902fee28755cffb56efefef34f7f75dad824a', 'gtd', 'eligible'),
+  ('0x415dc439498152c199043a39118cb86ed18cadbf', 'gtd', 'eligible'),
+  ('0xb7e6f10f98d6d6eab8cfb59fe627ff43cb2d6888', 'gtd', 'eligible'),
+  ('0x13da506753f536fb9e89b5c3e1a7ce4d8b96b062', 'gtd', 'eligible'),
+  ('0xda4745a63496696718a687bc1faba95bc94f86f8', 'gtd', 'eligible'),
+  ('0x54714294a2905e101d28ff29c9ea3ac098922fea', 'gtd', 'eligible'),
+  ('0x69d703036948044d5c3b0c494296ab4823500b26', 'gtd', 'eligible'),
+  ('0x82a7539c600d7388e99df42730a2e7c7d5c20753', 'gtd', 'eligible'),
+  ('0x5c38122477939219499fb007a1174962c47c16e1', 'gtd', 'eligible'),
+  ('0x0ad824e21aa511f033a2827cebd84c373812ec19', 'gtd', 'eligible'),
+  ('0xfef0669cb38d749d6f9433de52e89afc4f3d3618', 'gtd', 'eligible'),
+  ('0xbae802ef535287e64ecf8dda693fb40177eb3f43', 'gtd', 'eligible'),
+  ('0xdc5285692465eb84569294191530a47b7608e3a0', 'gtd', 'eligible'),
+  ('0xd215cdb7b9e6ad1923cb2d5989726be5ddbac8d5', 'gtd', 'eligible'),
+  ('0xc407d28ed33e31a66ce6a3b15aa0b36aaa47f6a1', 'gtd', 'eligible'),
+  ('0xc5ef4be4942ef891aa78cf80377aa238e902e6e3', 'gtd', 'eligible'),
+  ('0x44312bc6a4e17a662c2dae8230ed679ce5ff223a', 'gtd', 'eligible'),
+  ('0x4963859d8910c7f290bf7f8e8812dbbec121e280', 'gtd', 'eligible'),
+  ('0xe50f962ebaf78297ddf56b951d4802dda5f6f838', 'gtd', 'eligible'),
+  ('0x7a5a8a56064d0ed53ea7d2257bc00b45360e09b4', 'gtd', 'eligible'),
+  ('0xf62ae59c34c8933df283cb1ba03c31519e08aeef', 'gtd', 'eligible'),
+  ('0xe8b40ede3860f736943ac422424abe02659cbecf', 'gtd', 'eligible'),
+  ('0x4d078a6a693be10c5e8228fb2ef432d09289b9b2', 'gtd', 'eligible'),
+  ('0xa9bcde97726534b6b0c0d9035a777e327e279138', 'gtd', 'eligible'),
+  ('0xc343deb6f40c0381a49c7b4be5227e4cf6bc0892', 'gtd', 'eligible'),
+  ('0xb02dd6ef3c0b4a40e869fd3778a010701ff4f04d', 'gtd', 'eligible'),
+  ('0x44d206d469646561e17b4c3033466925f8577225', 'gtd', 'eligible'),
+  ('0x61af348ab62d0a4e1fdde7363b6518d3865ff1ab', 'gtd', 'eligible'),
+  ('0x0c35fae40ab2a6cadd6fa12e328df1f6ccdea303', 'gtd', 'eligible'),
+  ('0xa798895f44e8f22d8163b3d0b75db19116f25714', 'gtd', 'eligible'),
+  ('0x3d2e4ff5041adcba0fae0125ed1c2dd2085bcfa9', 'gtd', 'eligible'),
+  ('0x6329d4a63e9c698eb295351de3f9e0a9c6791775', 'gtd', 'eligible'),
+  ('0x6a14588d869e0b11dd8bca209ab982315036fab0', 'gtd', 'eligible'),
+  ('0x25e8d91072e3547492a72e58f90c5234ef379b60', 'gtd', 'eligible'),
+  ('0x77e15f84d08cfc7c72c02521320bf2e4da9f3d00', 'gtd', 'eligible'),
+  ('0x69bd0b8835b96fd54ea4ca65bb51d5e08cdcfddc', 'gtd', 'eligible'),
+  ('0xcc036e2b63cda75db3c26da16204462655d892c9', 'gtd', 'eligible'),
+  ('0x0e355760423bb7decea6871b9bfb96035a7190c4', 'gtd', 'eligible'),
+  ('0x8f596f04046aff8a48b6aabc5b78e18a127ef367', 'gtd', 'eligible'),
+  ('0xdddac4014aa26e2460dd531d952f000b2eb9665f', 'gtd', 'eligible'),
+  ('0x90ecd5e26b9a0da61cd2b1c1446373baa59865fd', 'gtd', 'eligible'),
+  ('0x12acc1d7320896952a41d5f26d53f60426438c16', 'gtd', 'eligible'),
+  ('0x59bf70f45981bbe676b30ca5b94e3c41008c31c7', 'gtd', 'eligible'),
+  ('0x44921390883dffacb5318154608318903a548907', 'gtd', 'eligible'),
+  ('0xef9cb2f26d948f465a90e887bc36009d60d2c538', 'gtd', 'eligible'),
+  ('0xa13f78db2db79c5accabf09110ca81ea853598aa', 'gtd', 'eligible'),
+  ('0xb9b4080ee5e800e041e9d2983b027affc0a18ee5', 'gtd', 'eligible'),
+  ('0x0cef7feff37208e1295ac6537445a9b5bc566fd5', 'gtd', 'eligible'),
+  ('0x1f38fa918c8e565f3065fca9882723fbc2c92c38', 'gtd', 'eligible'),
+  ('0x3235aecbc86cc6116ed046651ff280c5dc26999c', 'gtd', 'eligible'),
+  ('0xe4c751436c25cec98bdff2c3dc253a5687e669ac', 'gtd', 'eligible'),
+  ('0x1063e278ad236de545001b5459a3e5da6b200f38', 'gtd', 'eligible'),
+  ('0x3d94917e1012851061a54b4cd71c786349dca0fa', 'gtd', 'eligible'),
+  ('0xad8e00afb2456b8362af4193796e6e542cddc3ab', 'gtd', 'eligible'),
+  ('0x6cbdc5a7ea58b2dd44b90c38892aede4c0fe5ca7', 'gtd', 'eligible'),
+  ('0x3c0fd3279c2b714141aa731519b68bd428454073', 'gtd', 'eligible'),
+  ('0xe05761a6a5f465d8d3c75bd4548998dee142b068', 'gtd', 'eligible'),
+  ('0x48f31182dba415e31c7737436335effa745acec7', 'gtd', 'eligible'),
+  ('0x66e3f52c05f6f26e6c0e9668bda620e33a93e784', 'gtd', 'eligible'),
+  ('0xdd99a2d57376b28ad876b6f63ef8c3cc0522f831', 'gtd', 'eligible'),
+  ('0xd677e6458c75f3a875aa98822cb6543f4ecf1177', 'gtd', 'eligible'),
+  ('0x98f278aa4c1f35c40197fca9a0a65225a3009246', 'gtd', 'eligible'),
+  ('0x4bec102fc0ded9e5f934f570bed6de1a8bcefdf6', 'gtd', 'eligible'),
+  ('0x9115e6b0c416e31a47c3e67da4be1da87227cda0', 'gtd', 'eligible'),
+  ('0x17815ee1189c479e092f376ba716705244779468', 'gtd', 'eligible'),
+  ('0xdd263ef4dd4a8f653df3ded36946a907a6aa9bed', 'gtd', 'eligible'),
+  ('0xe48e8370c365a21c5c080c04e887b93e1c628054', 'gtd', 'eligible'),
+  ('0xd5e872fb57bb48a6e04036315a567bbe8c53324c', 'gtd', 'eligible'),
+  ('0x40a7b64a904379ef2e0497f536207d7b34d3b67c', 'gtd', 'eligible'),
+  ('0x8d60e632ad3abff88b4c621a1b3ef575123f95ee', 'gtd', 'eligible'),
+  ('0xbb25ce10b49693ea72cd92fdee3b94c2de0d6ef1', 'gtd', 'eligible'),
+  ('0x370c6de8488b06820e33dbc708cc120b1213928d', 'gtd', 'eligible'),
+  ('0xdfcdc88f1198155eaa21af7382811ba4d96afbe8', 'gtd', 'eligible'),
+  ('0xc924bdcd7d65973001e5c7309674c54148ea6242', 'gtd', 'eligible'),
+  ('0x8f3b763c9a34a83e98b56c21df1d6ebfdfb31148', 'gtd', 'eligible'),
+  ('0x861bce071131f87d5578dc896e72506c929b441d', 'gtd', 'eligible'),
+  ('0x45cd3ca06b15b8cb674582616d5e45546258408f', 'gtd', 'eligible'),
+  ('0x91056bdcfe420fdc766812630c5f06a6369ddaff', 'gtd', 'eligible'),
+  ('0xa10053ee97db440fb878e9b157e49e3d61244c68', 'gtd', 'eligible'),
+  ('0xe4cf192abe4fe9bf1ded1971151e5f5d17c03303', 'gtd', 'eligible'),
+  ('0xf45698b3f2f2079afd175543864dfbdb1778663f', 'gtd', 'eligible'),
+  ('0x43765c5fbe90ececc3ee824b6754b810703712c2', 'gtd', 'eligible'),
+  ('0xc7292e3808c01798afe90c891ad331cba4464b4e', 'gtd', 'eligible'),
+  ('0xcdc738a0b85f9fe7ed6ee91ea6e8f5421984f5ab', 'gtd', 'eligible'),
+  ('0x32472f59200a766a3adbe6e1e095ff284a954abb', 'gtd', 'eligible'),
+  ('0x8024788297dd7ee2ac57471e788f872919219da3', 'gtd', 'eligible'),
+  ('0xf26a6138face7f9d0260cc414b93b0a60af11125', 'gtd', 'eligible'),
+  ('0x0a75f164a221207fbb97e99b9fd581fcf64c099e', 'gtd', 'eligible'),
+  ('0x404228e811f669e311c420449f835d907b320ccf', 'gtd', 'eligible'),
+  ('0xb65857587d8573094febf8766bf037f534aed42a', 'gtd', 'eligible'),
+  ('0x6a258a7be45068effdd96222adbabb57ff5aff3e', 'gtd', 'eligible'),
+  ('0x2a58d6cd082f864bfe9c6661421537843a6f6410', 'gtd', 'eligible'),
+  ('0x620d22dc759b1c3c00d9795606e937bdc85a908d', 'gtd', 'eligible'),
+  ('0x538919ab455ffa7b87123d12d6c78582cf047c1c', 'gtd', 'eligible'),
+  ('0x85c495c2698441db80ee605fc4037196e758e0da', 'gtd', 'eligible'),
+  ('0x61b65fa10537b0099e138c521050addea62d533a', 'gtd', 'eligible'),
+  ('0x483723ebf19ea89292c7ce88bf2ff90fe5070aee', 'gtd', 'eligible'),
+  ('0xcf1e4680f8b3061e15e1703529ef5b9f313291b2', 'gtd', 'eligible'),
+  ('0xf9f3420495f61c74011d8092d8f54bf5a0dc1769', 'gtd', 'eligible'),
+  ('0xfcab58fad8cb56b405f3e82d7e12c68747f69c89', 'gtd', 'eligible'),
+  ('0xec82708c311b1023eaf9b04f49cf71a3838b1234', 'gtd', 'eligible'),
+  ('0x5659bafca4f05a79574c749071cf063582496f84', 'gtd', 'eligible'),
+  ('0xf830f2aed0d9fdd079f1d92df986fa760edca4a8', 'gtd', 'eligible'),
+  ('0xcebd3c5e0c9632323630659a65130198d7299981', 'gtd', 'eligible'),
+  ('0x59439b802aed46d51f800aed36b11902ab63b1b7', 'gtd', 'eligible'),
+  ('0x12a58962d284d96b0ee5ac72b00a767a7db3d152', 'gtd', 'eligible'),
+  ('0x609bf1be033d108de032d01a31d9d37bef45aae3', 'gtd', 'eligible'),
+  ('0xfca0abfca844ce26a9ef0f441d61d3daf4b31dff', 'gtd', 'eligible'),
+  ('0x3d0ba48bb296fe5fa6ac37fe34c93787dd25f286', 'gtd', 'eligible'),
+  ('0xf46ca436f9bfa6bc33761254df2dfcaf870f99ba', 'gtd', 'eligible'),
+  ('0x68dfa6bfb7cf3d3145b19199990eeddc4e5c7477', 'gtd', 'eligible'),
+  ('0x541133fa0df82c39e866c850518b2996e622564e', 'gtd', 'eligible'),
+  ('0x974c029b19e470334ad203f4086ae01acc24bd0e', 'gtd', 'eligible'),
+  ('0x8624b963f29ef919ce7130d926509cb12afe6900', 'gtd', 'eligible'),
+  ('0x542c04baed79fc6da49dfb3085bf9dcc4eaec2d4', 'gtd', 'eligible'),
+  ('0xe441ec3471804f4df029c54177d0cd7b205e5102', 'gtd', 'eligible'),
+  ('0x7255bd062e6a12cf90857fa619eee6e2d27ccbf8', 'gtd', 'eligible'),
+  ('0x18466858606b051e64563ff8f198871d12e3d7e8', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0xb54a40a50d0dfd42912d79996ca293cd1e188c15', 'gtd', 'eligible'),
+  ('0x6a13ab0433ae1eb16a6a56fecf66cbf787ad0eb9', 'gtd', 'eligible'),
+  ('0xb29f1f07ace700d53fe37536e2cc55b8f76d41c8', 'gtd', 'eligible'),
+  ('0x5c41df203fc526a054242adb64ea50ea60064461', 'gtd', 'eligible'),
+  ('0x975045eb23ece5f963d70c676541544f8fec12b6', 'gtd', 'eligible'),
+  ('0x80f1be5cf3479b7270bc0e1bf5e6b84d4b073058', 'gtd', 'eligible'),
+  ('0x16ea3ecd5f011c538b2047359ce0629a4fa24765', 'gtd', 'eligible'),
+  ('0x2b520650674b7d80746c5d369750e67686de865c', 'gtd', 'eligible'),
+  ('0x3add3c689ae11a17c0b61e73fbc75c7ca9681743', 'gtd', 'eligible'),
+  ('0xd5645ea2a34993031fedf5da6bb455b821b59151', 'gtd', 'eligible'),
+  ('0x46b0fa2fe215dc9615faf8163e395a5f5049ae80', 'gtd', 'eligible'),
+  ('0xe81622ba1e1a1aa595d5a96f31c978d8b10f879b', 'gtd', 'eligible'),
+  ('0x4339e641dac0015808f1d83750697f72115fc4e7', 'gtd', 'eligible'),
+  ('0x1effc111272d27eb083bc5ac6b0f5beaf9873bfd', 'gtd', 'eligible'),
+  ('0xbcf86ff23c17c69c4e9e47ab951beca82af11246', 'gtd', 'eligible'),
+  ('0x5f8eff81db30d2461b2ea8d4641401f6d19860d2', 'gtd', 'eligible'),
+  ('0x4d69c349b2841af485dd29130e12e92e7e59a025', 'gtd', 'eligible'),
+  ('0xf94dc26b23c05c0409ea78dca7ba558fdeb3733b', 'gtd', 'eligible'),
+  ('0x6596213675cdd46af2bb7ad23a4168ee34339b0e', 'gtd', 'eligible'),
+  ('0xd687dfed456386d305bf74e438b8c402e3c99111', 'gtd', 'eligible'),
+  ('0x7332368d6b9212f530640738f4895e33b1fd6542', 'gtd', 'eligible'),
+  ('0x370fefcc7a992d27df067b1fb4e72a962f649fc0', 'gtd', 'eligible'),
+  ('0x9d4e8521d741cc5771925ab701681ea0f053f9a8', 'gtd', 'eligible'),
+  ('0xc4e60e7d1f20ffa76017a80f1c015c43378b4fac', 'gtd', 'eligible'),
+  ('0x9c7ba6a00524300073b1037879e57e6030cfa130', 'gtd', 'eligible'),
+  ('0xbb73cb3643d4160862d1badfacdfeb25e19e9539', 'gtd', 'eligible'),
+  ('0xb1545c65b95d34e82e680b24fd19c698780cf175', 'gtd', 'eligible'),
+  ('0x4bda82a7a9b0ece76f9c5f0982f68904be4584c1', 'gtd', 'eligible'),
+  ('0x6391877f2084b86c55f85cc59e57219a97fd6add', 'gtd', 'eligible'),
+  ('0xf5f690adaf0038e6257c53aecc01fdee55ae7427', 'gtd', 'eligible'),
+  ('0x8ccaef07e9f84007529b981f77a6d881306a90dc', 'gtd', 'eligible'),
+  ('0x4dfa3b411b29533cd7c5886bef40218079c3ef57', 'gtd', 'eligible'),
+  ('0x5b35e7e3e1b277ef5d27d8d7316c147b2405c4d5', 'gtd', 'eligible'),
+  ('0xe5028f6d7f77017fd5d2820d9c49c4c100673698', 'gtd', 'eligible'),
+  ('0x1bfb564583f2f5db50c1bffb86cab5ae859961c2', 'gtd', 'eligible'),
+  ('0x8d3692b27e1b86ad76f5afba3f3ce75b840bc7b4', 'gtd', 'eligible'),
+  ('0xf0150f8df098376d4687d2ec2944cda80756e2c2', 'gtd', 'eligible'),
+  ('0x47b8980a80c58a9e550f19e7ff7ab8bb5224ea73', 'gtd', 'eligible'),
+  ('0x81bf2557b7ae612771e9dd811b85c1609ac98be0', 'gtd', 'eligible'),
+  ('0xd6fa965bdf5c0d6ac8051a50283d24ba2d534199', 'gtd', 'eligible'),
+  ('0x91204fe86db743f95b25b7bf40c1b633e21ce54a', 'gtd', 'eligible'),
+  ('0xffcb89e896b1f1cb2c2d0137bf85f957a0740526', 'gtd', 'eligible'),
+  ('0xac90897efe286b7b1cf00438248dc83604d7a57e', 'gtd', 'eligible'),
+  ('0x6ca8c91e3d5105d3891d64aed9fee9fbc39f3b3b', 'gtd', 'eligible'),
+  ('0x49f68ab8c83603ee540ee242947c44675f8b64a3', 'gtd', 'eligible'),
+  ('0xd39dd12b1ee28435b58b8dd05bc9ab581d8710db', 'gtd', 'eligible'),
+  ('0x4bff21f134486993f479beccfa22797835b8b8df', 'gtd', 'eligible'),
+  ('0xbedd5c6afa83c2bcff9dd54ea23019d79737c1fa', 'gtd', 'eligible'),
+  ('0x5e3629b02c2b7ddb9092d188c5807f46da77afa3', 'gtd', 'eligible'),
+  ('0x708ec142a02209972ba2f92ce1494caab11aadad', 'gtd', 'eligible'),
+  ('0x3decf0edbf0e1555f7967eb76a55d7d9b09de190', 'gtd', 'eligible'),
+  ('0x7acac3a386ba677a7a24b4d0d9c9d11a86b315d4', 'gtd', 'eligible'),
+  ('0x2ffa07e072e30d2f495d8c64990931d3421ce560', 'gtd', 'eligible'),
+  ('0x081dd9ff10284c082cd2bc05d711d24f22c16224', 'gtd', 'eligible'),
+  ('0xc42517260eca26e667736293563f61575dfc1863', 'gtd', 'eligible'),
+  ('0xf28778bf05c6008b1b819b0145c86d6ba9959f26', 'gtd', 'eligible'),
+  ('0x67109249ae87cac946e62b41302c0e8c8ecaac45', 'gtd', 'eligible'),
+  ('0x8fd6a59b1e022ac0f497f36644c11d4bac5e3839', 'gtd', 'eligible'),
+  ('0x4aee43045de13bfae91cffb603f2e80fdea838dd', 'gtd', 'eligible'),
+  ('0x748a8e51845451ecff88756a8a5fb2963bc953e6', 'gtd', 'eligible'),
+  ('0xe661124149912594e7680ce0f660dec4685372a7', 'gtd', 'eligible'),
+  ('0xb00ed6ef2902cd7596bad9cfb3727e5d9f6d18d5', 'gtd', 'eligible'),
+  ('0x82b812c09dede4ae2d440b56cd4c4727c5c5c92a', 'gtd', 'eligible'),
+  ('0xbef296d0f587dfe01d61eef5e489ec38e752eaea', 'gtd', 'eligible'),
+  ('0xbd4917f2f0cbf4c4895ceea6a26440ab6a7e8176', 'gtd', 'eligible'),
+  ('0x45421c3e3c879bf3697aed70a2f7fc9865a96361', 'gtd', 'eligible'),
+  ('0xbf91d42c910175ddb02fa0b8ea3552e8ac95708d', 'gtd', 'eligible'),
+  ('0x6510ede28a39b47822fbbd15739943058a5a1e6a', 'gtd', 'eligible'),
+  ('0xd2062f7264ffa51ae0f7e0bd98ffae32fbd94c10', 'gtd', 'eligible'),
+  ('0xbdb86bae118a0fee0e5abf1706e02cce10275e12', 'gtd', 'eligible'),
+  ('0x7e0e5b6fb569e3d0dd0eb9053ad685843b1ca9a6', 'gtd', 'eligible'),
+  ('0x72b9e5709b054b640572047cd3bb1be72f408d0a', 'gtd', 'eligible'),
+  ('0x963d46e20425a95a47058e1e93ea1cd0142a3ed5', 'gtd', 'eligible'),
+  ('0x963b739256b786a376f70f2acbea9023fd4d1f86', 'gtd', 'eligible'),
+  ('0x81930aba5196c8a42b964db767c9b83eb5045454', 'gtd', 'eligible'),
+  ('0xd81112d2a5ded1cfaacb4c6b75dbe6d43a5aef78', 'gtd', 'eligible'),
+  ('0x9dbcb1a387004ea5963084de7487875cb60483e2', 'gtd', 'eligible'),
+  ('0x9247fbe5f495d3585d469fac871174304a2ca41c', 'gtd', 'eligible'),
+  ('0xc9c625db97149bfc1aaff3e5545fb9d511c33824', 'gtd', 'eligible'),
+  ('0xfccf62c13e25ec15bc950318470cd81904b69b03', 'gtd', 'eligible'),
+  ('0xa1a0892fe419e571f20174be328f7edd4c73382d', 'gtd', 'eligible'),
+  ('0xed1f4bc358aa91097f423eee3b33822337696d1a', 'gtd', 'eligible'),
+  ('0x47e6c719393a1b2bf809215d0ad1f688879db23c', 'gtd', 'eligible'),
+  ('0x2c39440a53d27290405ce7e55a3f27a8f863c824', 'gtd', 'eligible'),
+  ('0x091dd013241e17f346ebc0c72eaac7c12e5f1426', 'gtd', 'eligible'),
+  ('0x3bcc84988e504fd82d558a594f0455e1a1398377', 'gtd', 'eligible'),
+  ('0xb88d7ce4018e3020ae37221ad1c9764c37d9468f', 'gtd', 'eligible'),
+  ('0x76a76d20c3524b31f4f0b20c974c71f4546cb617', 'gtd', 'eligible'),
+  ('0x211b25a4ed2cb5bbf8c36cc7872a13a1d00ca840', 'gtd', 'eligible'),
+  ('0x87e2de0d4314ef9f93709f4812d0646abf459b71', 'gtd', 'eligible'),
+  ('0x7dff99649a3a6b9ccaa8edf44e649b14000544b5', 'gtd', 'eligible'),
+  ('0x81de753126fbd15dd555068e786848617889ee3e', 'gtd', 'eligible'),
+  ('0x68bda6577044cf7319295b4eee86f3ee288f2abc', 'gtd', 'eligible'),
+  ('0x0bcd59bbfc18b379eaf7f92f91d95ab3f9900871', 'gtd', 'eligible'),
+  ('0x69c142ef98f6c26c3bc8e617837e8bba33cf9c53', 'gtd', 'eligible'),
+  ('0xc17574e33fb30b0ff265685d691de921fd227f9e', 'gtd', 'eligible'),
+  ('0xcc6c1eb94ce85338f7ad91f776b17396966d6269', 'gtd', 'eligible'),
+  ('0x4699bce386db00ce4b10a68d0426e21ac67bbc0f', 'gtd', 'eligible'),
+  ('0xfb80fdc5a7e54f5009093ad86cdf3106b48d2d6d', 'gtd', 'eligible'),
+  ('0x7605e4c1544b927deaf034116a1a5b1f1d27d7ff', 'gtd', 'eligible'),
+  ('0x6a326e4686b951e69b5d7aa99b65ba32e0315327', 'gtd', 'eligible'),
+  ('0x27639844e0393f13dfa0dd8c3eeefd60dd2af761', 'gtd', 'eligible'),
+  ('0x704be327036e8d7c1074edb2ac16792f07943878', 'gtd', 'eligible'),
+  ('0x1ff97a0a488189474a724b83f070f6519b242f06', 'gtd', 'eligible'),
+  ('0x2f267f89188f136df0e023c2ca4d6b049426b2f3', 'gtd', 'eligible'),
+  ('0x3c5e35433bec2eb15ef5c6ad18fb3b0024035f88', 'gtd', 'eligible'),
+  ('0x9b061b79f1992a14455ab70cb304b4fcf69baa03', 'gtd', 'eligible'),
+  ('0x8081c9883fd216ab6d16dc133bde84f99bbf1b01', 'gtd', 'eligible'),
+  ('0x75f795b898505896aa4c46df691c0ea8208ddb75', 'gtd', 'eligible'),
+  ('0xd7c2c69144708aa61fd8ee78d4560ec79d35ee16', 'gtd', 'eligible'),
+  ('0x7f756ac0b0e636ddded2d74ece94b7174e3f4212', 'gtd', 'eligible'),
+  ('0x4dfa5ede8e9706f68868620e9bed03b6603090a4', 'gtd', 'eligible'),
+  ('0xc2a99d0ac8649553f85cde31b910d534dbfd8131', 'gtd', 'eligible'),
+  ('0x87d4cc869efcd479e0f28dedf3245971f3e37044', 'gtd', 'eligible'),
+  ('0x51bc0e5650e36b9655696a680e1f8ba48e4ba4af', 'gtd', 'eligible'),
+  ('0x5bf1dfcba311245eda0c61231caec19cb0e44f28', 'gtd', 'eligible'),
+  ('0x60990a5c8c35bde226bef5f0d5bb4a72d0cfeaf4', 'gtd', 'eligible'),
+  ('0x6ca8ed1c3f3a6a72fc11c99675ca745f773f47ff', 'gtd', 'eligible'),
+  ('0x7000575f00eabd5b6e47f9232a7ad40a683e46f6', 'gtd', 'eligible'),
+  ('0x0dc4e133ab5ab1dbc5ccd0f9e69b693aed09ec25', 'gtd', 'eligible'),
+  ('0x14dbe88bc9f27c6ba23751b9b4d6c6d2d30fbf04', 'gtd', 'eligible'),
+  ('0x38057f371c0956b2c3fa7388055553cd887c9e35', 'gtd', 'eligible'),
+  ('0xcd3284239cb072a301b24b8220cb32c132867086', 'gtd', 'eligible'),
+  ('0xe3a9cfadd34b01cd8237a5768a7cf7c006bbb2e9', 'gtd', 'eligible'),
+  ('0x1798743e74253d05d256031769159156b02957ab', 'gtd', 'eligible'),
+  ('0xaf5b2c2228e371ad03bfca3c69b6b9d26329483b', 'gtd', 'eligible'),
+  ('0xd7679827e22d579aa6ca8d6f783c9ce86550fda1', 'gtd', 'eligible'),
+  ('0x52b1884f5aa774569a942ba329a411078a4a9ec8', 'gtd', 'eligible'),
+  ('0x07d5a2c889e751c015496eda5b305d91b84495da', 'gtd', 'eligible'),
+  ('0x1bfaf8a0dcfc2c5cf3acb06d0f085fbefeeb245f', 'gtd', 'eligible'),
+  ('0xc6c4e1fdf6a21b050dd79cd1f14fa3973e54d3cb', 'gtd', 'eligible'),
+  ('0xb92ac63f00838c89eb4966fb9c947790b223b110', 'gtd', 'eligible'),
+  ('0xfc9a766c58a04b4af90a6c3b1069dbc662afaa17', 'gtd', 'eligible'),
+  ('0x8312111996603e3371eeb49ef61532889abdd4db', 'gtd', 'eligible'),
+  ('0xde5effef35b45c1cde7bfc73b8233bc45f3e0159', 'gtd', 'eligible'),
+  ('0x90947eae537493cd5294a627b7dee01936e7486f', 'gtd', 'eligible'),
+  ('0xe8f7abc1cb5b5fa11b2af886f7ffd1c4614f2444', 'gtd', 'eligible'),
+  ('0x4b208aa3c939d99790ac09db89c79ba1244360ff', 'gtd', 'eligible'),
+  ('0xd03848cb9135bda47487cf69fac50d401b06267b', 'gtd', 'eligible'),
+  ('0x1bc12fc5d70b89239ae72fbab201bb89c7146bdd', 'gtd', 'eligible'),
+  ('0xdc4562a340021c42f4863917c2a83726f7dddfad', 'gtd', 'eligible'),
+  ('0x09eecf5ee753f77c3bcfdceaff279d88c470aba9', 'gtd', 'eligible'),
+  ('0xe9c801c06e1e3556c4b3c93424c91bb1163338a2', 'gtd', 'eligible'),
+  ('0x8be02897807220ac4de1ac3f7c172cc533b14182', 'gtd', 'eligible'),
+  ('0xb28ed729b193fe9f4bf9c407e92f7927400c10fa', 'gtd', 'eligible'),
+  ('0x99b6019c5a3d95ba8060f56f8b36f1b3a2a1bda3', 'gtd', 'eligible'),
+  ('0xac38218b74c09d351a8bd484ded54e104447c6e1', 'gtd', 'eligible'),
+  ('0x6ec9f60e9f81f26aa564cff3f1738ba463d700f2', 'gtd', 'eligible'),
+  ('0xe82b31c96a7686fd2121b39fb5149c8f8b605a04', 'gtd', 'eligible'),
+  ('0x447299f9374e615f9f2f727abfc4de3832af929e', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0x758db65e35c3091f999d33a6448a31867df8a482', 'gtd', 'eligible'),
+  ('0x0f972db2fdee96c8b07950247c5b49a21f63611e', 'gtd', 'eligible'),
+  ('0x27ba15fa3e051a3a4693b42b061382066b88fb2f', 'gtd', 'eligible'),
+  ('0xf64cb47a1ec66bf895e34c76f2ad61b13331f25a', 'gtd', 'eligible'),
+  ('0x697208c7dfca0f3df53d998f3673e6654e9d9f6b', 'gtd', 'eligible'),
+  ('0x0f5a6cc3bb3c60ce7b67509eac29b3824d2463f6', 'gtd', 'eligible'),
+  ('0xb76ff238e970bb3a5fc92add142b0727f8e16c46', 'gtd', 'eligible'),
+  ('0xf35623952c852c3b0ef8561d3326ea56c4bb4790', 'gtd', 'eligible'),
+  ('0x7bf2e4deb8d679bdf8d06de7f6cb7b20ce4993d1', 'gtd', 'eligible'),
+  ('0x42262da2bbdc726190113c81b8b0ca2341792a0f', 'gtd', 'eligible'),
+  ('0x86fd7af9a660841fa983c7b4d856ce51e022cf8f', 'gtd', 'eligible'),
+  ('0xc268fc236d564dbf2112a5ef2189147577bdb321', 'gtd', 'eligible'),
+  ('0x3f6a2bdf96fdbf758bbb98e467ae77a1ac700719', 'gtd', 'eligible'),
+  ('0x37b57a5f0b18986323494ed4a9a28e3aa149df63', 'gtd', 'eligible'),
+  ('0x605446c35f860314419c7a68be03ff89d7e9318f', 'gtd', 'eligible'),
+  ('0xc9157fb18d0e8630641f67e010f5b754244a2b4a', 'gtd', 'eligible'),
+  ('0xf77ff5deeddc09997cc5526c3d2c2d8be7835eec', 'gtd', 'eligible'),
+  ('0xec57ea1d3b4475fb43ee3a539df9d794bb98e9ba', 'gtd', 'eligible'),
+  ('0x3c39cd093d2e21a28e3962717c8bb9f6053cd66a', 'gtd', 'eligible'),
+  ('0x9442ab8d854c9c3b8c65a345d1d416c502578b91', 'gtd', 'eligible'),
+  ('0x079bdaa5f7a73d84f6756d4a7c93c3ce0607d93c', 'gtd', 'eligible'),
+  ('0x8401bb681370e684ece3c2e561e8f7e1c9eca012', 'gtd', 'eligible'),
+  ('0x6b60046b3f204b6626cbbc61ee6b1fc46bcf0f00', 'gtd', 'eligible'),
+  ('0x52c65e81fd72009afb0f941ebe74200293e038ff', 'gtd', 'eligible'),
+  ('0xa6eb63f17bc5691c01cc0fb2764a60ff60430643', 'gtd', 'eligible'),
+  ('0xf8ff7f06d6981f2b298d75f11585042e4fb49275', 'gtd', 'eligible'),
+  ('0x6a666eb8b8ac2cd22b4f363763165bd4f788892c', 'gtd', 'eligible'),
+  ('0xbb5d63fee6efafcc3c31074f81da7fd833316423', 'gtd', 'eligible'),
+  ('0x16dbcf344056ce876c17be1de5069fc637853981', 'gtd', 'eligible'),
+  ('0xe5d9a8ae5033c9d0d13bfebbcd59cf0e5da654e5', 'gtd', 'eligible'),
+  ('0x38c5839389306ffed1f83920722d304790a8514b', 'gtd', 'eligible'),
+  ('0x80a4c6f5e446c1b81c10cc1b2c835661eeadb35c', 'gtd', 'eligible'),
+  ('0x11a114b1a716bcefaeab60fc7e95116286b99502', 'gtd', 'eligible'),
+  ('0xe1c3cd58b441ae6a6081dcf1647aeba1d72c0e6c', 'gtd', 'eligible'),
+  ('0xf2bddaadfeae0ead37702e846a872e9c7a88a4aa', 'gtd', 'eligible'),
+  ('0x433340b9835d7f229860e956aa31285a04bdcd05', 'gtd', 'eligible'),
+  ('0xf4f6c488bc08c5ffc14c52f38e0eb60c02be2bc5', 'gtd', 'eligible'),
+  ('0x88f572e2150442d9fa4edca8edbc5fad3f2ab4c4', 'gtd', 'eligible'),
+  ('0xc346cfcc570b31a6bb5b265ae93e4f4afcb4258b', 'gtd', 'eligible'),
+  ('0x3a21fa7f80aa5580acfa43706a837e437213da3c', 'gtd', 'eligible'),
+  ('0x3e5f2648b3a43b85fc041c4e30690804b29f47a2', 'gtd', 'eligible'),
+  ('0x23f4d1303b208adf3f93eeea053411b97328b260', 'gtd', 'eligible'),
+  ('0xf2948022a4ff53736ea4b4984d6cff90520d0a99', 'gtd', 'eligible'),
+  ('0x5a6327f924f8d728eada981a1692d0553b1aacf8', 'gtd', 'eligible'),
+  ('0xd1c60b6f00bb9b344b9b5a3ebdf784bb5ba6d118', 'gtd', 'eligible'),
+  ('0x4658324e7fb4e1c3d59a4805617f9ef4be73182d', 'gtd', 'eligible'),
+  ('0x5e220210a0e8bffa058ae127869e2133c2b5ad7d', 'gtd', 'eligible'),
+  ('0x16f25ffca6c1438531339f74400d7031ccbbb8b1', 'gtd', 'eligible'),
+  ('0x376d9bf507129795e2a7247866637ab544c2809f', 'gtd', 'eligible'),
+  ('0x0f78e0da01ba7a353b4cf63d426486f86649b18d', 'gtd', 'eligible'),
+  ('0xebfb061111bdf8424bf30c804377331a32f869b9', 'gtd', 'eligible'),
+  ('0x6c1e3c3de491eb8bf1e78b3856730c016ccd78ce', 'gtd', 'eligible'),
+  ('0x94239d8d5fbd9466d7f1b8efcf1c0e5b3cc512c9', 'gtd', 'eligible'),
+  ('0x26e8e2278bb1bb1489c5289363f626e6249751d0', 'gtd', 'eligible'),
+  ('0x83ba32cee3198d77cd5160ee419023017e9c7545', 'gtd', 'eligible'),
+  ('0x67bacc8b328774fae1ce63cee8667f3bafabf277', 'gtd', 'eligible'),
+  ('0xb1f1dfcc9d5f45a3db08d8bdc42b5a1debdc4191', 'gtd', 'eligible'),
+  ('0x548531061faba97d6898b1ac613336b42402b43f', 'gtd', 'eligible'),
+  ('0xd74a3a7645ad3f259b103c015de45f4dacea85e5', 'gtd', 'eligible'),
+  ('0xbcadc3f27e11e2a009950c8044098d391631d5be', 'gtd', 'eligible'),
+  ('0x3003a896fb8c920a6274bb232d81bc6c4675407d', 'gtd', 'eligible'),
+  ('0x8a9dd78f4fb42d34f44ee3cd77ca8e021cb16d46', 'gtd', 'eligible'),
+  ('0x3b6365904e5b155e41ca1092b51ef4a2f203e64e', 'gtd', 'eligible'),
+  ('0xaf29ab7418516cc3f22e609dc783d75864ab545a', 'gtd', 'eligible'),
+  ('0x57e766997ed89ec496fdf3fa315d12bc2ae87e63', 'gtd', 'eligible'),
+  ('0x68b22aae6e01050ca135c893d192e6ef2735a9c8', 'gtd', 'eligible'),
+  ('0x79b4b1cabea754114c5c8d41c7f7cdbf5b18b193', 'gtd', 'eligible'),
+  ('0x4aaf3820235dd6f02ad3b586ebfe31987f1d9bb5', 'gtd', 'eligible'),
+  ('0xd1fad074908e2e8c081660f7f002016b440b72bc', 'gtd', 'eligible'),
+  ('0x0f196e2cd3bb7e61d900ee63f398cc229423117c', 'gtd', 'eligible'),
+  ('0x51fad0b7767c7a0f6d25a90f321a5173d389d6b2', 'gtd', 'eligible'),
+  ('0xdfbe3fc08f1e84af35e54a8a661a178b66f42db9', 'gtd', 'eligible'),
+  ('0x4b95f69a5375e7bb15a9e74412082dce283bd497', 'gtd', 'eligible'),
+  ('0xa0773bde44af2eff638bc79b9e43bca2598f2b0e', 'gtd', 'eligible'),
+  ('0x19c89a0d57b6e8dbf5a781d3d91782597ad78c4f', 'gtd', 'eligible'),
+  ('0x17ebe208078c7a05fc99673e0f44cc9cf1646187', 'gtd', 'eligible'),
+  ('0x4c313ed0e91f8941280d5470a087467b50c86f65', 'gtd', 'eligible'),
+  ('0xf61eddfa3ebf49d8e6d6f7e48da7f1a08c203cb6', 'gtd', 'eligible'),
+  ('0x00856f4a425bec67da643a5bcc6b798c1534e1f1', 'gtd', 'eligible'),
+  ('0x5dab7773caea1bc721ce09f5a8bd2446900e1274', 'gtd', 'eligible'),
+  ('0xb963cca14039429d1769d2407a4ca3f7e93487fb', 'gtd', 'eligible'),
+  ('0x5070a10bbc9b70b513a41a7de1dca96bf9e148e3', 'gtd', 'eligible'),
+  ('0xa74d47fa6e05aef2e1a2ac035113c21db582998b', 'gtd', 'eligible'),
+  ('0x283b2cb69f49655ac270765a67f6084ff3a6d290', 'gtd', 'eligible'),
+  ('0x302c8bd995e08c2fbf5ad1a83651ce3870286c95', 'gtd', 'eligible'),
+  ('0xf59abdfa270f8ad920d2149cd73c15286d75e931', 'gtd', 'eligible'),
+  ('0x81054597d26c67873a41f854c74d850681341127', 'gtd', 'eligible'),
+  ('0xe06f98c5d65ae12d7bb3e7a788eff3e48a6ada7e', 'gtd', 'eligible'),
+  ('0x27f571c48cf35b2f76efb489d4ab93b4b81ef413', 'gtd', 'eligible'),
+  ('0xb7ad8d2108ede6d625c4098591a2f71a49476dd4', 'gtd', 'eligible'),
+  ('0x30e1a00ff0fe1799a19eef878a8cbbab7dc5b011', 'gtd', 'eligible'),
+  ('0x4c56f75984ee58373ce17435cbb6718dc5475444', 'gtd', 'eligible'),
+  ('0x3eb046d680efc860cc100df9e732c72be7b9a205', 'gtd', 'eligible'),
+  ('0xb2d63a49a6959526b4b15fb0705e15af7ad89386', 'gtd', 'eligible'),
+  ('0x6d0fdfa55c7c2eab0fac4a45fb47c92d69dd757b', 'gtd', 'eligible'),
+  ('0xc655f249c467f4a796871e3c6484aed3dbcd564d', 'gtd', 'eligible'),
+  ('0xf548291f51fe9d57542f240481137a407a27722a', 'gtd', 'eligible'),
+  ('0xa50c61b63002e78c39ef7480555b6fe6e9eb3c4d', 'gtd', 'eligible'),
+  ('0x341bec5d71827a92253a91e928e97312c182b87f', 'gtd', 'eligible'),
+  ('0x52257e4e402dc182494f32b98fee204dbd1b061e', 'gtd', 'eligible'),
+  ('0x6bbf1af467e55cfe985c9edda1f4a5409abac1ce', 'gtd', 'eligible'),
+  ('0xee8479aa85372a8508b3e87a83c9293d4b382a8e', 'gtd', 'eligible'),
+  ('0x78c274893e177f505cc1646cb5d8f080970715a6', 'gtd', 'eligible'),
+  ('0xb0567ebb4a191cfbd9732fca9bcc3c65b188aaca', 'gtd', 'eligible'),
+  ('0xc837b9410735503bebb46f86c40c134799b1860c', 'gtd', 'eligible'),
+  ('0x1599c36ac4070d326dadc053fbe518b715e8ff5a', 'gtd', 'eligible'),
+  ('0xc36825e430987972f9deaffdc51e02f06384101b', 'gtd', 'eligible'),
+  ('0xa5ac97875e3edaf269456902abc699d7eee79bac', 'gtd', 'eligible'),
+  ('0xec9e83cf7450cbdaf0a5fbeed64cf4d3d12ec4e0', 'gtd', 'eligible'),
+  ('0xf4e2f6f73ba2a73f88966589208217fe32acc82d', 'gtd', 'eligible'),
+  ('0xe836d140bbca6aedb055c09acc860e771ecbefb2', 'gtd', 'eligible'),
+  ('0x117ff1d4e60821c22db21559154f23a74eb12a3a', 'gtd', 'eligible'),
+  ('0xdc58f8dfe4b18522636588c1fa49c2994290b694', 'gtd', 'eligible'),
+  ('0x96e9c84aa040f6408504c1f757729ef248f71562', 'gtd', 'eligible'),
+  ('0x203958197a22409f1ffd9e9ee5ac783ed86b72c3', 'gtd', 'eligible'),
+  ('0x438c8e423bbbedaae87c4e671ac2e7d5af302e9e', 'gtd', 'eligible'),
+  ('0x2f7287aa90284263228c41d9649c7157602f374c', 'gtd', 'eligible'),
+  ('0xdb2c229a6c8eb69bd26f497313c76b5a8fcbc28c', 'gtd', 'eligible'),
+  ('0xd2cf25c28d4e037c03ac34a955b931089b1ba54b', 'gtd', 'eligible'),
+  ('0xe1cb16eacb61b2a16a0bb9e3459df7fed807d2e3', 'gtd', 'eligible'),
+  ('0x0ab01533870fd99c24f2edb9e02e02f529415547', 'gtd', 'eligible'),
+  ('0xf471cbefd59116474e3bbd06229fe7017c2021c4', 'gtd', 'eligible'),
+  ('0xf6d3d873bcd61a6b834fc3bc6b9c4b48fb04a0c4', 'gtd', 'eligible'),
+  ('0x44e9a83e1faa1805197e8e0d46b863cd70b74aef', 'gtd', 'eligible'),
+  ('0x36e715a73bf6c6c8fffb4319c326fad56b7f6c90', 'gtd', 'eligible'),
+  ('0x0275e45929393b10cbfadaf6755a0ec493e58213', 'gtd', 'eligible'),
+  ('0x02361e9a88ea4addbb2ac8189605222c5aef7dc1', 'gtd', 'eligible'),
+  ('0x1c0bf59af66003f66a844d849daa35177747ec6a', 'gtd', 'eligible'),
+  ('0xf80aae0a202ec7057f541209cffd689a4701acb0', 'gtd', 'eligible'),
+  ('0x7587c897058152a1a8eff8fafe29378d6887a462', 'gtd', 'eligible'),
+  ('0x2eb00e2ef22f931b67963bf23378b043df1a1aa7', 'gtd', 'eligible'),
+  ('0x1163e662f34e5904b75d61e0a120b9a8aff0250f', 'gtd', 'eligible'),
+  ('0x36a4d5770d7b1c0e577ca31abe3f162b5f63b7a8', 'gtd', 'eligible'),
+  ('0xd57983b24e79831e2570f4ae53ba72cc63f0344e', 'gtd', 'eligible'),
+  ('0xc9358e988c4fbe42fd43d44521133fc42333162c', 'gtd', 'eligible'),
+  ('0xcaeaa093dcdd30a5f0fe0c3f6a01e216350241f6', 'gtd', 'eligible'),
+  ('0x30923241e7057b4a215581c736d3c1647d261820', 'gtd', 'eligible'),
+  ('0xb05774da14fd455ce969288e063343e87b2afac3', 'gtd', 'eligible'),
+  ('0xdecd6169e9c8f3535502cfdff24ae4e0e0d37311', 'gtd', 'eligible'),
+  ('0x25475e523a9c7909ee7b375a4d8c81baaff73d67', 'gtd', 'eligible'),
+  ('0xf74bea74c3c8cd098484bed69271db63edda4338', 'gtd', 'eligible'),
+  ('0xa78456d70bed1938fb26e6106922b2f370960b61', 'gtd', 'eligible'),
+  ('0xf160ebb63bd7e94fd07b25c60c2121019d54575b', 'gtd', 'eligible'),
+  ('0xe03bfea5056cf5bdea4431e0c40a72d433086cae', 'gtd', 'eligible'),
+  ('0x5236a5d86a97b024c0cf0378c1b7aa818654440f', 'gtd', 'eligible'),
+  ('0xc0fbbb08ea157684726cfd4fae9b5155a2b43157', 'gtd', 'eligible'),
+  ('0x05bf6921b9606184bfd6df7bfc568645b2aecc85', 'gtd', 'eligible'),
+  ('0x1bf3e9661c3fa38cec148ace2f0a5e1e8ddfbaed', 'gtd', 'eligible'),
+  ('0x59b81079979e339b7263f5236ad620dec00abd3d', 'gtd', 'eligible'),
+  ('0x3f843e903b06cab191b6144a4f9c5bda1022baff', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0xefecfcd22960880d60a0b128b3b2e20ba24b8a6f', 'gtd', 'eligible'),
+  ('0x9340765860fae06ec9c7a3f07467d94fca60df6a', 'gtd', 'eligible'),
+  ('0xae8aa8eaaed3a71aeb948d870c2a5bf58d662d6f', 'gtd', 'eligible'),
+  ('0x95219850ab2198088747031f0ba833577545eaf4', 'gtd', 'eligible'),
+  ('0x60626e3e5d89fb0548744fc5d0b03042ba033a5c', 'gtd', 'eligible'),
+  ('0xd49984ef1d5b70875feb3ab5d253f10bcace56f4', 'gtd', 'eligible'),
+  ('0xeec0e80b3ad83563b84f41fb6e4f5b4b9a5e7ed0', 'gtd', 'eligible'),
+  ('0x7444345d4dc72438183bf449c428c89e1ae69492', 'gtd', 'eligible'),
+  ('0x7103b989096de0795ae8dd3cb1c360feea92acf4', 'gtd', 'eligible'),
+  ('0x444ccf7d10c755bf15fb3b1c7e0d002479906642', 'gtd', 'eligible'),
+  ('0x6a12e3b266bb99b066595f94f037e44a0a52f0e7', 'gtd', 'eligible'),
+  ('0xfce309b0d1ed15069be75e8350938e787ec2ac90', 'gtd', 'eligible'),
+  ('0x94d1ca09f2f5dccf887f23a4c5176720181b3de4', 'gtd', 'eligible'),
+  ('0x3a0eab8b5e58bcc72aad44f5b4f8be71a428add9', 'gtd', 'eligible'),
+  ('0x7d0223e2f3cc6f0ba1a7d3362979824d0569a3d9', 'gtd', 'eligible'),
+  ('0xe7ebfb09c36e253f562a7865e3cc6ee478b6419a', 'gtd', 'eligible'),
+  ('0x0ac7852f72f1ff1e4085cbd74a92f779ba11652b', 'gtd', 'eligible'),
+  ('0xfb1eeb8798adafb44f1d2e0a250f825d42f5057a', 'gtd', 'eligible'),
+  ('0xee304e058f817dde97cf38c5e9c844eba9a21bc5', 'gtd', 'eligible'),
+  ('0x3c8a28d73012fff9004ed714a9b667be3f5b13ed', 'gtd', 'eligible'),
+  ('0x62afea37bb25fb4f3205a3dbcebcb0c31a06dcd8', 'gtd', 'eligible'),
+  ('0x2e51b5ecc406c2e6c65ff2da1a213254f8671272', 'gtd', 'eligible'),
+  ('0xbdb969a121d3bd526d90996d426e815c1e88652b', 'gtd', 'eligible'),
+  ('0xa85ad5e8be9ea10d6fad513230a903678bce3089', 'gtd', 'eligible'),
+  ('0x917fe47fdf3f32f18ea887d05dab6a8a85369080', 'gtd', 'eligible'),
+  ('0x313762c108b11e9013d3d19782f9242e1d8c0149', 'gtd', 'eligible'),
+  ('0x9bf12a0280dd6db2d7af5864a67a9e0cede3bdee', 'gtd', 'eligible'),
+  ('0xb351c98d864b83b58b620f04bf5afc4c1e1a0245', 'gtd', 'eligible'),
+  ('0x1973fb662de2ab391bae7f5f15cae84af6167ac0', 'gtd', 'eligible'),
+  ('0x9ccb778d4807f29c1963699cb546455965df6c15', 'gtd', 'eligible'),
+  ('0x10944f987f878e6105a04798af9663d377e73ea0', 'gtd', 'eligible'),
+  ('0x015a5225920db1bdf5d6a3b6ba92a39c76c1c795', 'gtd', 'eligible'),
+  ('0xe7b693a01b2ccfb8ca8a249cbccf4c8a26e0f956', 'gtd', 'eligible'),
+  ('0x48ee8899d631b778132c7b434f53751e1ca05077', 'gtd', 'eligible'),
+  ('0x0b9580c35db43c1df34096795c7434dca2069e9c', 'gtd', 'eligible'),
+  ('0xab5577b4bdcefd18b579dfeebf895e5bfef6be11', 'gtd', 'eligible'),
+  ('0x4f1ec7470100f404d710ec7f97620ccb95b4234f', 'gtd', 'eligible'),
+  ('0xe6e788abecfcb7976c86386ede65ccef5d1bbea9', 'gtd', 'eligible'),
+  ('0x13e2966ec857201080839fc8a1f919c17353293c', 'gtd', 'eligible'),
+  ('0x6de8bdd19cd76b89ea2eb1ab6d9b245433652ef9', 'gtd', 'eligible'),
+  ('0xc1c8ffa1826e629959a65e9f0abc11d52926ef3e', 'gtd', 'eligible'),
+  ('0x3faf643a19d936ceadf0d6c80e23bb5242c855c4', 'gtd', 'eligible'),
+  ('0x70f5dbd98c4a183a6d95a474f6d6a433bb21b4b1', 'gtd', 'eligible'),
+  ('0x77371e63bb2de84f85922e03b0b62026547b6a35', 'gtd', 'eligible'),
+  ('0x2c0b8ff77afa05638d7c2ffdac6255d504edd801', 'gtd', 'eligible'),
+  ('0x81dd71d2addc2e5a2aae51354632af3e652c017c', 'gtd', 'eligible'),
+  ('0x3c5b4906b90bc508fee96a4bfe54227ffba7f194', 'gtd', 'eligible'),
+  ('0x137a9a903d931b64be4974a94ac68a59d962ec41', 'gtd', 'eligible'),
+  ('0xbe9d3a7a828ed83e0e7b0aaf87562f0e51cf8811', 'gtd', 'eligible'),
+  ('0x8908e3530640493be3906c1553d7fbd8c71a9d15', 'gtd', 'eligible'),
+  ('0x85a59f19d23e9894c7e2e5c3b49540c2bb63883c', 'gtd', 'eligible'),
+  ('0x0a2e4ada748de60434bd1e0144ee31ef4e0b09f3', 'gtd', 'eligible'),
+  ('0x4ce3902b19d4eeb55cf1875308437787d3a20370', 'gtd', 'eligible'),
+  ('0xe95d109fdb6ad09929fc9cd9df9c8417f109cb4b', 'gtd', 'eligible'),
+  ('0x9f859226f859fc75ed1a8b9218eeaf85a79f3135', 'gtd', 'eligible'),
+  ('0xecbec44ceac1a4d1df795df7d31b24343a07c352', 'gtd', 'eligible'),
+  ('0xd38d057f68c20965f870811e8ef935ffa66ceecc', 'gtd', 'eligible'),
+  ('0x4668023abed04cd58c39e1df667fd4ce2c217151', 'gtd', 'eligible'),
+  ('0xbbf55be9c800747a26b8ca125f9e17966c1a76c9', 'gtd', 'eligible'),
+  ('0x3f431f23a6159158f70bcf2e519a432616a8d656', 'gtd', 'eligible'),
+  ('0xdfd75d4b85eb0d18441762c35d4fdba352b09d59', 'gtd', 'eligible'),
+  ('0x4f3d75cc9d90ac84aa0441bc25c5d4711b3985d2', 'gtd', 'eligible'),
+  ('0x2f17a83a18dd988979752048ec32acd4d183cd0b', 'gtd', 'eligible'),
+  ('0xd5e2b1efd30e660bb8ec50c90417d93c12dff58e', 'gtd', 'eligible'),
+  ('0x6cc48ece82f7c514344da28ab0cb2cc695b81b3f', 'gtd', 'eligible'),
+  ('0x6f257f7551b15d00a5789eb77a95d13e5aa98e0f', 'gtd', 'eligible'),
+  ('0xbbac671fb7504b683f2ed6f38995ede7547ec4f8', 'gtd', 'eligible'),
+  ('0x5dbd6ed9b681dd8889277c23601fac64e0aebd01', 'gtd', 'eligible'),
+  ('0x619f10882820f10fc5f1bf06cddcb2db3fdc51e8', 'gtd', 'eligible'),
+  ('0xd70a41e8ef3b44e0cd95b81cfcf79a7116e3c6f0', 'gtd', 'eligible'),
+  ('0xfd823997647d8b4bc38e36ae1c4958a55b45f069', 'gtd', 'eligible'),
+  ('0x99772a186f024ecf601cfd27368125624c0d830a', 'gtd', 'eligible'),
+  ('0x12c3ba455a74dce40aa5ed968b9978d78395964b', 'gtd', 'eligible'),
+  ('0x6d4c852fe3607e17ae2ef8103ee16644198949fd', 'gtd', 'eligible'),
+  ('0x80f9592ea5be198264a35cb0c925a3be4c2460c8', 'gtd', 'eligible'),
+  ('0xac94a2df6550d96d8bb2bf2f85d6c9ead48bc343', 'gtd', 'eligible'),
+  ('0x2a7601509987d1880635546d610cf55ca3bcff90', 'gtd', 'eligible'),
+  ('0xaca0161f1058651356a14c7acb2a82151b860d77', 'gtd', 'eligible'),
+  ('0xe62fc878e45429e72713c2fa6af774cfbb8345fa', 'gtd', 'eligible'),
+  ('0x2c25c462e00a00e9177520a86a6bebc4275ecb9b', 'gtd', 'eligible'),
+  ('0x70e11482225d83f1a794957f64657fe3597dbab4', 'gtd', 'eligible'),
+  ('0x6ed333317571b90be5f8bede8a5540a4ae9595d5', 'gtd', 'eligible'),
+  ('0x00eb08495c734453075fc333bb013fac3ca596e5', 'gtd', 'eligible'),
+  ('0xe3996f0e6c729caaef1f38b619ecd32127811bce', 'gtd', 'eligible'),
+  ('0x8a868d3044c1c7eaf414290082f818157cc4b700', 'gtd', 'eligible'),
+  ('0x5e8be1b11c6a63c0fb353d8d3e64c39c5ccc9479', 'gtd', 'eligible'),
+  ('0x291d1e35a08942f36c66d4868fc09bb003496d3e', 'gtd', 'eligible'),
+  ('0x3d8f02628508e0576df63f1b7f4e9e367cc67400', 'gtd', 'eligible'),
+  ('0xf61bf460e198d919b4d9baa315913846a3d83762', 'gtd', 'eligible'),
+  ('0x820ed0908d344fbb73ac878341c7fe78c4f246cd', 'gtd', 'eligible'),
+  ('0xab802577ca51ef7bc0063a96ab7e1fcabef19488', 'gtd', 'eligible'),
+  ('0x71e1aba1d9f2ccee85c033f40ac634207a9d42bf', 'gtd', 'eligible'),
+  ('0xd31451a557b7703bcc50b7ad93627b90efb2d721', 'gtd', 'eligible'),
+  ('0x9af737fe1e8ccf9418e5e6dcbb444a3f1df1df2b', 'gtd', 'eligible'),
+  ('0xe67e6ba90ad638a397c0bce30efadcfeeb533449', 'gtd', 'eligible'),
+  ('0x1b326eae9cd6c0ccf6a5edb5a04b8117de6b3633', 'gtd', 'eligible'),
+  ('0xa63b2b78dec8af30ac376a8dde1c2af491b4a334', 'gtd', 'eligible'),
+  ('0x304590ae3c2b0b23cf87469fed49fe356de16499', 'gtd', 'eligible'),
+  ('0xc768685679cafdf747272853303ab184cf8a1116', 'gtd', 'eligible'),
+  ('0xac2511b6817813411d7cc8669eebf4c998e4320e', 'gtd', 'eligible'),
+  ('0xb20bb72a4f4df655adc631998ea3199358853e7d', 'gtd', 'eligible'),
+  ('0x8ebb71eb6f8ad5f5d785c0ebfcc4769644304bb2', 'gtd', 'eligible'),
+  ('0x38da13f93b0ca2b2b771f569925511176836abdc', 'gtd', 'eligible'),
+  ('0xcd4aa0d75c36f15fdc9328ff4424ef9a22b755fe', 'gtd', 'eligible'),
+  ('0x8db60c485936135dc51ba197e2b2597026d18af5', 'gtd', 'eligible'),
+  ('0x7700539f6d793c08f6c729f8235b9a59da46d1cb', 'gtd', 'eligible'),
+  ('0xcbbf41aec31d782939d113e0365cd4780663d1ee', 'gtd', 'eligible'),
+  ('0xc784c16bfafc794f4a7c8f5cb664ebecb10a5bc8', 'gtd', 'eligible'),
+  ('0x08db27ee769aa9e2fe49f86b90ec3e7440f95067', 'gtd', 'eligible'),
+  ('0x964e1e21daeb6033a51c404882f47d572350ed4d', 'gtd', 'eligible'),
+  ('0xb79471960002cd984d516fe4d3fe5c5a7a2ae4a8', 'gtd', 'eligible'),
+  ('0xb49ad0a36eab5f8d31b6346d8499b56cc71fd0f1', 'gtd', 'eligible'),
+  ('0xfb3fef4c96ecdbbc0426992d16006ea5e3d02f86', 'gtd', 'eligible'),
+  ('0x25062c30e879e0309888b5aae87efe12350b51da', 'gtd', 'eligible'),
+  ('0xf2f519e17f25a78630ab7262e34ffa8b6c408e34', 'gtd', 'eligible'),
+  ('0x28feeb620b6f24fc1b0cf6eff0bfe91546ef75e7', 'gtd', 'eligible'),
+  ('0xaf23f24c9dd887c5138e8691a25f154dfb6c8166', 'gtd', 'eligible'),
+  ('0x68c4320e3013789e3b3ab1edbdaac675b455cc08', 'gtd', 'eligible'),
+  ('0xc90f1916faa85927a36c939d7b265195356545b4', 'gtd', 'eligible'),
+  ('0x220d0c46a22a55342207f1ff5f0e7686785f669b', 'gtd', 'eligible'),
+  ('0x26365e4576ad3dbc2a48041148ca7b6dd86f1fe5', 'gtd', 'eligible'),
+  ('0x69247c71a3642732cc0420745db096ffb436c37a', 'gtd', 'eligible'),
+  ('0x9560797232f84f96e6fd8f3bd8af748febfed94c', 'gtd', 'eligible'),
+  ('0x2bc5972b2c3d455394e0d0ee17f8d0594607d789', 'gtd', 'eligible'),
+  ('0xa6ee0a2dd04ee5b1c86d103ef628dd7d68fafac4', 'gtd', 'eligible'),
+  ('0x67502786ffe5f77480090fa184b4645f021183a6', 'gtd', 'eligible'),
+  ('0x77f46516c4fdedf0f1040a85e33d3d1ca4a63885', 'gtd', 'eligible'),
+  ('0xa83af5dd63a6b11b9ca812a62f29aa1bf7a6a610', 'gtd', 'eligible'),
+  ('0xd163d8a5bb8d7062454c85c67e89f824fd710294', 'gtd', 'eligible'),
+  ('0xf318505c4a574cee038ec202bc53dca54434eb70', 'gtd', 'eligible'),
+  ('0x99df88e11b77287d851b0ace836242ef5e77a8ab', 'gtd', 'eligible'),
+  ('0x303cf90277eb7a4ad22b8c0944618acb839ef5e0', 'gtd', 'eligible'),
+  ('0x6511c567d378a7dfbf20e46aa79e7d7e0b53263a', 'gtd', 'eligible'),
+  ('0xf68f755bbe85d7eb7d8301a29ffe78eacd4fe187', 'gtd', 'eligible'),
+  ('0xb4474ec6d560e213f5fabd39062e70577302ed6f', 'gtd', 'eligible'),
+  ('0x2a62f892a62a820e90338a4528c05fd769bcf697', 'gtd', 'eligible'),
+  ('0xd39be5729ef22a52014f7fceeb1d34e0f6d1fd8e', 'gtd', 'eligible'),
+  ('0x870c32173781c4796c376ea94e27484f79ae64c1', 'gtd', 'eligible'),
+  ('0x3c676c28ef5af19d051057dce07dbe676a89cb9a', 'gtd', 'eligible'),
+  ('0x5628d1721ecdef8163c2f496f918f5f9b8c1b9b1', 'gtd', 'eligible'),
+  ('0xb8256b7dba6a83bed28d32e5c1a2e8753776fbfe', 'gtd', 'eligible'),
+  ('0x5b2442b0ac3148a498570869ddef0792e839214f', 'gtd', 'eligible'),
+  ('0x92a41926b9ec9ba43c92a51531d17183f22e1d8d', 'gtd', 'eligible'),
+  ('0xc8005eb5e0991d643f3ddc4ff83c40eae056c8a5', 'gtd', 'eligible'),
+  ('0x21ae68dd06d9ac2dc85153a593fae43df5e37d1d', 'gtd', 'eligible'),
+  ('0x21ddf34a97920380c723d22d161fcde269130437', 'gtd', 'eligible'),
+  ('0x14acfd003ddd3fcef759d6943b788150718f97d4', 'gtd', 'eligible'),
+  ('0xa4b166934bb58c3c88f533153b82852ecde80a3d', 'gtd', 'eligible'),
+  ('0xf73fe9baefb06c6411862fcda39866fbdaf98f6e', 'gtd', 'eligible'),
+  ('0xe2560df15390b2f8fef59126fcbfeb6f3c43bbf8', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0xd624df88bb95501d3d7717747fc28f58af86a706', 'gtd', 'eligible'),
+  ('0x2c3c8454f7ad9e8bd3cb485f085b3a343fd58c77', 'gtd', 'eligible'),
+  ('0xb8816d16ed83d2a7a72f8dc3389dd77bec3c6e57', 'gtd', 'eligible'),
+  ('0x437376f0daa3136f7cb1e1980e9322e88b789bda', 'gtd', 'eligible'),
+  ('0x0227fab34cff45c613da9e5ac263431e31f50ebd', 'gtd', 'eligible'),
+  ('0xf3355a6ba5722fbcf407b4d47d0d12c935a5645f', 'gtd', 'eligible'),
+  ('0x12047354cc1cea4b44666bd57d8b18a8b9f85d00', 'gtd', 'eligible'),
+  ('0xeeac846f922d63d1f516c031565f51db49f011b1', 'gtd', 'eligible'),
+  ('0xb0d02ef2715fd50446ffb81ec24135d2f0320ebf', 'gtd', 'eligible'),
+  ('0x75191bde759eeffd40e13c7471d88d3bbc69de6d', 'gtd', 'eligible'),
+  ('0x0781805dda168b008fd82d9b685eab84853f886b', 'gtd', 'eligible'),
+  ('0xe7f4395e04f14be1edc6da41576d79a255c5e3c6', 'gtd', 'eligible'),
+  ('0xbd6a5b680f768dfe18d9fcdb814c00d74b8688e3', 'gtd', 'eligible'),
+  ('0x65e2ff8e90e03488fced47818149a76352089e97', 'gtd', 'eligible'),
+  ('0xa8df36cd29e2bdda6fb21653dc843330db0272a9', 'gtd', 'eligible'),
+  ('0x7c5b3c80896606ef49581c4aacebc5394145b894', 'gtd', 'eligible'),
+  ('0x46468d0b037c1ee15345c90a81276dd08ebcd5b1', 'gtd', 'eligible'),
+  ('0x6ca359cd4f9f4ca51af746443a01b83c28030b24', 'gtd', 'eligible'),
+  ('0x9a627dc415abc757b1fdeddffe51fa6d9bad4561', 'gtd', 'eligible'),
+  ('0xef602db5d5b1db2afb363aa8dcceba96c3705cb0', 'gtd', 'eligible'),
+  ('0xe52edeba2665498c4285c922e43c6a46c8510e66', 'gtd', 'eligible'),
+  ('0x25636a6c1ccbab48866eea2da7e52d9a6da15221', 'gtd', 'eligible'),
+  ('0x7d09ec012f8b072807be6bb2a9e536192b702c5f', 'gtd', 'eligible'),
+  ('0xdd25b254404d9cd70d7e4bb11dff72d4f16a5c9d', 'gtd', 'eligible'),
+  ('0x9c3d940c99ff85fd34dc47e942e24235c2074066', 'gtd', 'eligible'),
+  ('0x2573f050d80eaed97f3fec669dee332c58a2ac2a', 'gtd', 'eligible'),
+  ('0x5b7f7c6385e5a39f87c245622aa538a71514fd53', 'gtd', 'eligible'),
+  ('0xf5d284887e1b443dd2c48a6d0b9a5277eacc247f', 'gtd', 'eligible'),
+  ('0xe9015f9785b44d00770050064bcd69cfee87eb3e', 'gtd', 'eligible'),
+  ('0x8bbce7402d8e6c5ceb21482c40ecbb061f03383b', 'gtd', 'eligible'),
+  ('0x5a1d687183f14688e0ddb3bd56c0296af64976e7', 'gtd', 'eligible'),
+  ('0x1cf633decb7f9e7f36c4ee07230e2ddc27002470', 'gtd', 'eligible'),
+  ('0xecf00a52beaeb318fa8776ee0a81e651e46ba3b9', 'gtd', 'eligible'),
+  ('0x3788d2168e37573339ec6c88532d29ef451a4ff1', 'gtd', 'eligible'),
+  ('0xa7ad146795a8a0c085ce05c7a0ad0d630f4e42c6', 'gtd', 'eligible'),
+  ('0x447c12b6695de6984721742b29dfcc75f7baa758', 'gtd', 'eligible'),
+  ('0xeab9251d297f137877af88994ea8dda27544443a', 'gtd', 'eligible'),
+  ('0x9dc0031ef93005f07d7c3bd881621c2c797548f6', 'gtd', 'eligible'),
+  ('0x092a095436418848bd8aadb283734f2f6dcbc05c', 'gtd', 'eligible'),
+  ('0x495f8907640f16aab196b84cef863b38642b81f8', 'gtd', 'eligible'),
+  ('0x73c3328119c18d58f6c8f6bee016e5c3a2705576', 'gtd', 'eligible'),
+  ('0x520e6bb1919dd420216bd8aa8f8b25c0f3d42b79', 'gtd', 'eligible'),
+  ('0xf6457b39fda376fe9ac454059f56495842eca7cd', 'gtd', 'eligible'),
+  ('0x79f499e4fc4a58ae92663420313a4914d2e6c2bd', 'gtd', 'eligible'),
+  ('0xb9275977a1ef090ed24d7a62e6f212ca6b2b0245', 'gtd', 'eligible'),
+  ('0x2cce47691e3da5ab702aaacb60afb7ae3fd54953', 'gtd', 'eligible'),
+  ('0x6d3149d22fb87b6992c020e45371ccfd367ee73f', 'gtd', 'eligible'),
+  ('0x978c0c499a1a9bc3124c65a00f3ee25191a370d9', 'gtd', 'eligible'),
+  ('0xb06960760baa58fd85e012b11e32c8a0b17cc7bd', 'gtd', 'eligible'),
+  ('0x269583926709a803c722597be91c611adf6d2f13', 'gtd', 'eligible'),
+  ('0xb15e649ccc7adf864f64c15d86a004f41e383ef4', 'gtd', 'eligible'),
+  ('0x846bb9b785f103fc66d6ecc4403d520057a8b084', 'gtd', 'eligible'),
+  ('0xe5e0fc6bacd10da574a5357eee257b5153125344', 'gtd', 'eligible'),
+  ('0x9eb10b4728610d13cc52d2f8ba093ff209dddce0', 'gtd', 'eligible'),
+  ('0x158af55f3a33adcf9e5bbb91cee7a5d0f28c223a', 'gtd', 'eligible'),
+  ('0x0ca5cc26acfb7d749ecca0ca9b541c8b4cebfd21', 'gtd', 'eligible'),
+  ('0x2218720d4e6cdf088f64e4973de888debcecd6d6', 'gtd', 'eligible'),
+  ('0xaba69969ecba237358a30590812baa5371847e6d', 'gtd', 'eligible'),
+  ('0x75de50d082f9ea7bf31fb08fc087a3c9003f7cde', 'gtd', 'eligible'),
+  ('0x9709767940ab1bf03d9ef86e5f9e8f38835f3a8c', 'gtd', 'eligible'),
+  ('0xac8c6a469524598b8ffb7f2dde048fae972d8e17', 'gtd', 'eligible'),
+  ('0xc89d6057b77bd9e9eba9e4f016a461f878d9a72b', 'gtd', 'eligible'),
+  ('0x07f81c13e2040ddaac4d31a7985a091af5534c7d', 'gtd', 'eligible'),
+  ('0x840fb59d7cd5d58c156f6410840858d35ff04313', 'gtd', 'eligible'),
+  ('0x3b31f89418463bb5d27b3aeaa174047a0ea314bc', 'gtd', 'eligible'),
+  ('0xe7596102f44fd17e9ef36f6e6c1702c24d5edbee', 'gtd', 'eligible'),
+  ('0x3a08c1af56bec743d0838fb2b91a8d9b69d2b2e5', 'gtd', 'eligible'),
+  ('0x24721c075f3774ccf76930c168eb1842136cc8e8', 'gtd', 'eligible'),
+  ('0x727f1f05a3b752a19d429d337efb1bdade23110b', 'gtd', 'eligible'),
+  ('0x8d01bec44ee00e62ad39048cf49cc5b8924567ff', 'gtd', 'eligible'),
+  ('0x4be63061b603106755f3e1280a44d0d1d18857ed', 'gtd', 'eligible'),
+  ('0x2afc178ca8c2e88d27f3cc23d5be22de4535fdaf', 'gtd', 'eligible'),
+  ('0x8b21964e471ef01239dc8181f9bf7daf06b208b3', 'gtd', 'eligible'),
+  ('0x5e1765dd9174010a41c02d2e808166a6a12d6094', 'gtd', 'eligible'),
+  ('0x04e70283749077fb4beac522c8c5dadac77d8ec3', 'gtd', 'eligible'),
+  ('0x5164472505e4ae0eca641e1e72f1c47dd32d1371', 'gtd', 'eligible'),
+  ('0x82a88520a4db938b4a07e45050aaed7359cee4a7', 'gtd', 'eligible'),
+  ('0x5d125447de77b93f40611b41800a766d2e0c19ad', 'gtd', 'eligible'),
+  ('0xd6999b16b82ae0004e89a6b30784b78d3c44423a', 'gtd', 'eligible'),
+  ('0xf44f0beb5f2f5e7b4922be1353dd3d61bd4aa0d0', 'gtd', 'eligible'),
+  ('0xf8b865aff56e46de4e33599b2d1475eef89e5115', 'gtd', 'eligible'),
+  ('0xa5c8fed2fcc94f5a50471d3648e30a166d780a9f', 'gtd', 'eligible'),
+  ('0xf8bb2b5820148c84733d70257da04bdbdd70da9e', 'gtd', 'eligible'),
+  ('0xff9ad743b092f497f608c0f16b24bb9a9b309a42', 'gtd', 'eligible'),
+  ('0x05160aa1033de51360481c67eac5e356dfd54a6a', 'gtd', 'eligible'),
+  ('0x2b0c16cad758dcadd40bb8cecc8ac46e9965f4db', 'gtd', 'eligible'),
+  ('0x9fdc248d3c630165ea2c44fbc4d67b579ee4b074', 'gtd', 'eligible'),
+  ('0x0707d64bc1f9466e15f3abb990e3caa06245f24e', 'gtd', 'eligible'),
+  ('0xb5b0653737c70d90d16abbba8f7ca0d3e0ab2bdf', 'gtd', 'eligible'),
+  ('0x6b1435e23f4ead9adbac0be3804df5f691e75b18', 'gtd', 'eligible'),
+  ('0x1847ef30d047a8ecd1b1adea8b8b4c3bba9a2775', 'gtd', 'eligible'),
+  ('0x1e6a76e0c163fb708d43f5e34c8575a36558ed98', 'gtd', 'eligible'),
+  ('0x904a5a1974726c7840b3f7bc531e713d4c684dab', 'gtd', 'eligible'),
+  ('0x6a70ebecb679c31239a8127e34749040a02cebc8', 'gtd', 'eligible'),
+  ('0xa805e5581ea0a8946c85aae32857d7437583f43f', 'gtd', 'eligible'),
+  ('0xa9ad77ebe57cd4ef5c6df1a2e1a69d0cf95022a8', 'gtd', 'eligible'),
+  ('0xa0ce920cac5e492f09c01e13ec489d6b14667774', 'gtd', 'eligible'),
+  ('0x2fdf0587f86f69a21627d059abfd8aa99fe45fae', 'gtd', 'eligible'),
+  ('0x7a0fbab04825ff9a6e5a427255509052e6da051c', 'gtd', 'eligible'),
+  ('0x44675a6525ab9a7a5115c7306f5ad2f59bf965f5', 'gtd', 'eligible'),
+  ('0x710795833d9fb2392f700a9ee2adae327d733380', 'gtd', 'eligible'),
+  ('0xaea7434c35b03b0dee916d869bb14cb01753fa03', 'gtd', 'eligible'),
+  ('0x1c48abd66fe9a71413c2efcd0fbd582134fcea96', 'gtd', 'eligible'),
+  ('0x728bf77add56222f8aad9f6673cc774921b496d5', 'gtd', 'eligible'),
+  ('0xfcf3ceb5b8fc8b705f9f6d433c241d7ffc5280b1', 'gtd', 'eligible'),
+  ('0xb3cc7fd1755b0248b59cb020a12996ffda5e5450', 'gtd', 'eligible'),
+  ('0x00bdd9b597d46214fb3c400632faebb4d5aa5bd8', 'gtd', 'eligible'),
+  ('0xbf894d1e99e19ca09480f410607dcc01ecb7af0d', 'gtd', 'eligible'),
+  ('0x49040a60d31a81dcdfebe321d4c6ec7cad8f5f83', 'gtd', 'eligible'),
+  ('0x56682587e5e897d4bdb2824486e86f562697dd5a', 'gtd', 'eligible'),
+  ('0x80efaf608d89699705d91413c5d8e2aa7b61e748', 'gtd', 'eligible'),
+  ('0x20d9f7f0592a7680309df5d1ff320d708fdc79e3', 'gtd', 'eligible'),
+  ('0xfc22db1c56e6333c23831ae2adbf0c4ef8f966a3', 'gtd', 'eligible'),
+  ('0x340724c00fa5998a3d94b9c676799a3449c15c04', 'gtd', 'eligible'),
+  ('0x948ee39ed531b07084a7f3b151338b893e76fe64', 'gtd', 'eligible'),
+  ('0x357711542c62d84f8bcbdce23282ee26774d2859', 'gtd', 'eligible'),
+  ('0x0e2a4a33a5df1cb340a1f59bbfaa0f1a8e7f1014', 'gtd', 'eligible'),
+  ('0x595f966cc5fd0c05a07a47b029fcdcb8e4fd3033', 'gtd', 'eligible'),
+  ('0xebfd4eede8638e54971abf65b556f92ac00d1ea9', 'gtd', 'eligible'),
+  ('0xc20e89271a92c0af26204fb63303b3657715c2da', 'gtd', 'eligible'),
+  ('0xeeb50745089866f4d5eceae89491cbab9100df3e', 'gtd', 'eligible'),
+  ('0x4d3bdb093d29f107e10f07393cb09b5c6b9d891d', 'gtd', 'eligible'),
+  ('0xeeda789d8387be59aa12ec6e712ec3ac51ef3a6b', 'gtd', 'eligible'),
+  ('0xcaa7506e0168282b62276dbef7ce1308a0817fab', 'gtd', 'eligible'),
+  ('0x4a72713dac247458299fb7ba9c0883cf31725ac4', 'gtd', 'eligible'),
+  ('0xffee06fa38172f20e0e33d9a2e775765d008eb71', 'gtd', 'eligible'),
+  ('0x1af7742828189ec3f5d832e6ffa1f568dee7cfef', 'gtd', 'eligible'),
+  ('0x3fd3b3f87e3128a7bc72ac200aa7bb44c0724319', 'gtd', 'eligible'),
+  ('0x7c22db532d2e0698e04481137e4a67dbca3a4506', 'gtd', 'eligible'),
+  ('0xa3b2d80254a645ff564c27c047b097cc6e7255b4', 'gtd', 'eligible'),
+  ('0xa444c434a24468b19035f92b771cd0f18b750def', 'gtd', 'eligible'),
+  ('0xc500df98d68ea96fda1d8982187af96bdd9e1801', 'gtd', 'eligible'),
+  ('0x9b74c5980cad88a97c2d1344c8b09112fc7c9840', 'gtd', 'eligible'),
+  ('0x29aa42cbdc381e369e66ace4dba46163120220ee', 'gtd', 'eligible'),
+  ('0x2427af42f2d84a577bc6e7e13cc487ceeaf7668c', 'gtd', 'eligible'),
+  ('0x7cca841e345929aef02d327c65c9b8ffecc9055b', 'gtd', 'eligible'),
+  ('0xd9934cf2cb44679c28f32d0d3cdc72fcc15b1bbb', 'gtd', 'eligible'),
+  ('0xd401da1120140db2234259d4a71ae0ffbb4d2300', 'gtd', 'eligible'),
+  ('0x5006efb9ca090004e6412e65833046107bf62a26', 'gtd', 'eligible'),
+  ('0x60746c378daa26dd0bdba908c4a4480a4c4dc872', 'gtd', 'eligible'),
+  ('0xa60e6eef329673ea354905f8b27921f3bbf6a848', 'gtd', 'eligible'),
+  ('0x1446c80774e6d1d5e5c06fd253dd156520c77c7a', 'gtd', 'eligible'),
+  ('0x45c65aa8ba09188bcd07ae7217bee0afd2fab0b5', 'gtd', 'eligible'),
+  ('0x6d4b29cdf1e4dc02b47961392f5021abca0338cf', 'gtd', 'eligible'),
+  ('0xd2b8fa8838508ae223fd701a2f0849c25fbfe7b3', 'gtd', 'eligible'),
+  ('0x79dc01646aab3da363bf9b42b9d4cdb710693a62', 'gtd', 'eligible'),
+  ('0x0543a86ffdfc6cc4732c698097f8491f0c65dbd7', 'gtd', 'eligible'),
+  ('0xcebe0cbeb6c044277f37225bd76387e7c79d9fa9', 'gtd', 'eligible'),
+  ('0x29f0fb9c2492e737694088bf8e4e6a861c16f22e', 'gtd', 'eligible'),
+  ('0x122fb0de6e6864b7fad6f03beb1f62675f3f8d7a', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0x5802dcbe28c19e357b4d4ff1440ccbd7009a270b', 'gtd', 'eligible'),
+  ('0x0640390cfd85a14c6b84d3021b07a39902a4f65f', 'gtd', 'eligible'),
+  ('0x210f380c2ea08f9ede471b6d8fc6d37ae7eafc58', 'gtd', 'eligible'),
+  ('0x6c5865b3ee4fe144a66b90291dea285b8b077e1b', 'gtd', 'eligible'),
+  ('0x95d75d1bac6c755409a876dde2a52468ed5ec7f3', 'gtd', 'eligible'),
+  ('0x586fa0393b43276a5a418a187d0c81a5aa00a783', 'gtd', 'eligible'),
+  ('0x30f436326cbad096cfff156223ca2318b578dbc2', 'gtd', 'eligible'),
+  ('0xaa0d3d737578d10862673b7a3bcb20398e4c724e', 'gtd', 'eligible'),
+  ('0x80d02a3deef1c4241d02758882496ab918c908e2', 'gtd', 'eligible'),
+  ('0x9f64ef936058aef679c66a0d2b2adda189393b5e', 'gtd', 'eligible'),
+  ('0xc7eb1173b9d499744df1ce7379fc7d2f2809706d', 'gtd', 'eligible'),
+  ('0x165a8a83453855459b29a7ed80909d1cfeb32623', 'gtd', 'eligible'),
+  ('0xdbf72025d770ce2eaa55a2ec6e959bbcc55d222d', 'gtd', 'eligible'),
+  ('0x29460da5d2e4319c6c98043191b19cf39484019f', 'gtd', 'eligible'),
+  ('0xebc82c128a40689b9f3c848e2005c4d674fd94e5', 'gtd', 'eligible'),
+  ('0x2c94df2f5cd2af8cb3b191a9de75337e656f97fb', 'gtd', 'eligible'),
+  ('0x32863e392df51924af98712aa1791c619a2e1175', 'gtd', 'eligible'),
+  ('0x50ba5ef4e6de244d178e90e0e37d3d7ffadc3bb8', 'gtd', 'eligible'),
+  ('0xcaf1ae3320110910e9b149cfacc718c8653debdd', 'gtd', 'eligible'),
+  ('0x2c357fc93e77885462ef95fe3356602e9d2c1b23', 'gtd', 'eligible'),
+  ('0xb5e7dc4c9757e1d9bcb1a0605f771d31369bcd35', 'gtd', 'eligible'),
+  ('0x9c0c1266464a07cad2267c19fb56a6ee5619985a', 'gtd', 'eligible'),
+  ('0xf9a395f2eb86191b66b1384a69894fe1401774c1', 'gtd', 'eligible'),
+  ('0x585ef5ab2e4ed8bffe3f2cc9f59eb41e642e9365', 'gtd', 'eligible'),
+  ('0x4a34de841ea22fab87f8e3c0f6ed8e67700e62e5', 'gtd', 'eligible'),
+  ('0xc862fad6373609e4d5bae140c942b6e5e06feaba', 'gtd', 'eligible'),
+  ('0xda474ffb27a1aeb0d33c3b6bd622e2bedafcac72', 'gtd', 'eligible'),
+  ('0x0fc43cf3ba1dd68c1e54637ce6b7b9b7940c2c1c', 'gtd', 'eligible'),
+  ('0xa8e704dc4b80bf2350e94e52972c6d8c380f5904', 'gtd', 'eligible'),
+  ('0xb754e025c7d9e3904690a8403480e8f392eaa462', 'gtd', 'eligible'),
+  ('0x25f28245a5b4e5000d58c675936d2766f9f37717', 'gtd', 'eligible'),
+  ('0xbf8cb8e6c88386b1c3e263dbeb1ae1e3aab95415', 'gtd', 'eligible'),
+  ('0x4c757581d9f90fdb6582680ebd869e9b08289f92', 'gtd', 'eligible'),
+  ('0x10b265d3e4465e518d871de938897e30965e8cdc', 'gtd', 'eligible'),
+  ('0x33c4b31c5d9544d5c5398093c7edf9683aab5dd7', 'gtd', 'eligible'),
+  ('0x3d40d8459136f94d3de3b7b5006a0f1ab8066fdf', 'gtd', 'eligible'),
+  ('0xdb59dd5a1e02645908746fd4dac69734a8559f6e', 'gtd', 'eligible'),
+  ('0xbc6b68614e902991f3ec4d99e424988b2b8b95ae', 'gtd', 'eligible'),
+  ('0x2272d165ff959498375c54dceb1bc61821208c2c', 'gtd', 'eligible'),
+  ('0x0dbc12b0c547c50db2d99d88db1302bd071838ea', 'gtd', 'eligible'),
+  ('0xbffd244b21e50a7c8e652eecc9acd7501a121f97', 'gtd', 'eligible'),
+  ('0x6f7a00150a2da020faa93adb6359051710c367e7', 'gtd', 'eligible'),
+  ('0xf61a2c173d4b8a794ab0d38e51a4c43f7496b687', 'gtd', 'eligible'),
+  ('0xca8817ba63bff1108f3ec6b7171924893280380b', 'gtd', 'eligible'),
+  ('0x16008297cb179f628472b1278a6b20ffa04c931a', 'gtd', 'eligible'),
+  ('0x1cf6c257c26e2e0b249a53289ab2dc4cd08ed421', 'gtd', 'eligible'),
+  ('0xbea13f877c4f1b94cadaefa7b5ad22b74916b4a0', 'gtd', 'eligible'),
+  ('0x6951df68a0d2d15974724232038330aefb0accab', 'gtd', 'eligible'),
+  ('0x028e69bbde0517f06bfc2885bcdf5d4464ee6974', 'gtd', 'eligible'),
+  ('0xb6d5660b839bdf26e639583efcfa1784c52a0f9b', 'gtd', 'eligible'),
+  ('0xc552f17effac157cb8f73d55713760d02719d034', 'gtd', 'eligible'),
+  ('0x4ff62b20e84221009b2baeb1770fdaacb9ca8207', 'gtd', 'eligible'),
+  ('0x357af2be632caaba8f6151762d1e2c96c36c26b6', 'gtd', 'eligible'),
+  ('0x2fe65e9e8a4276b0910c8b46ab82021b65c644bd', 'gtd', 'eligible'),
+  ('0x6723b210a6406b7395d71650181307b78f6b2098', 'gtd', 'eligible'),
+  ('0x692c12ea91a1029b9ad9c14ba68fdc065f6e6999', 'gtd', 'eligible'),
+  ('0x8a046435ace7827226623c6943b6ad3f627ac3e0', 'gtd', 'eligible'),
+  ('0x87ee8c7375d2e7f18ba6432d4fe8a0ae1b1da70b', 'gtd', 'eligible'),
+  ('0x9a5778f55eddb88855793984cba1fdd05aee104d', 'gtd', 'eligible'),
+  ('0x6f468e1a0ac5a5f7e7c3fa7c0387ab41fcf70904', 'gtd', 'eligible'),
+  ('0x08ee1c19b196da9c55ba8f4f127d810f1b8de53b', 'gtd', 'eligible'),
+  ('0xa5437c88a70dfe0b883a06b15fc68fa50b5da0da', 'gtd', 'eligible'),
+  ('0xa441e6a0287d031e7c7851c3544e80a9dd8904cd', 'gtd', 'eligible'),
+  ('0xc91d602240756a9f2c33ca0a9901883860339ada', 'gtd', 'eligible'),
+  ('0xfe3bc1eb469c70bfb462a9e208826e990bb078c0', 'gtd', 'eligible'),
+  ('0xccd7569f3197cd74116d01433e6e7673b6dcf30f', 'gtd', 'eligible'),
+  ('0xf29eb87656704d58871d01fa1932aa7c8adbab4e', 'gtd', 'eligible'),
+  ('0xd8a2510afc08ff6ac6f904791ebad59dd66004bc', 'gtd', 'eligible'),
+  ('0x14b9176424a4ecbca337f91493b2c2b2760ad2d6', 'gtd', 'eligible'),
+  ('0xc891a082a2e04e7d3440d45b4a297378065492ad', 'gtd', 'eligible'),
+  ('0xe2473a02415428c1486b066f79df07e3f3715cd2', 'gtd', 'eligible'),
+  ('0x8321a7d99ec1e37d6e7987173793ec5f3ebeb2e0', 'gtd', 'eligible'),
+  ('0x8d8e3a16e9a9d33f1e130aea3f71a055d9f448fe', 'gtd', 'eligible'),
+  ('0x1dc13f531d314ee1818a6331b23f4502eaf714f1', 'gtd', 'eligible'),
+  ('0x5972eaf974b9d1de2c75b9a9770f4a6e72b8f4bc', 'gtd', 'eligible'),
+  ('0x0011147f8751a3fdc128f244c94d6316cc74c708', 'gtd', 'eligible'),
+  ('0x0ad4596645381b70387b465c0a5f00b1c5c5f8b6', 'gtd', 'eligible'),
+  ('0x8c716a5af05651a6cc3699dc96f9d92f9b9dae48', 'gtd', 'eligible'),
+  ('0xf878505e7da96232c8b111747dcd2585b8b5cbb4', 'gtd', 'eligible'),
+  ('0xfea207616ff1859e9a7812ee37422bd4400ab58f', 'gtd', 'eligible'),
+  ('0x074bff34b65b2689c9e191b3f1b6b296aa6b7354', 'gtd', 'eligible'),
+  ('0x97a8983374da641b7c1161d713289a777ea5226c', 'gtd', 'eligible'),
+  ('0x56015aeec38798a124ca46cc2d78f37e187c41ae', 'gtd', 'eligible'),
+  ('0x575da9dee74f61336663723f8fe6689f9614e134', 'gtd', 'eligible'),
+  ('0x49fbef81bdb560bc2243ec10bbcbbdd4ea3dd554', 'gtd', 'eligible'),
+  ('0x7b2d0ec970cafd268f70d67ba7d5553a020c0895', 'gtd', 'eligible'),
+  ('0xc9497a37db9eb026bcad5e0b2bb2bdb59f35d747', 'gtd', 'eligible'),
+  ('0x42741b17e6bfc656c934773dc09387b0f0133d5d', 'gtd', 'eligible'),
+  ('0xeb66a844fdb39dc91eb9bd26ba8b6f27aaed2df8', 'gtd', 'eligible'),
+  ('0x069377b4c61768faeca68dac1aeb349eb17587d0', 'gtd', 'eligible'),
+  ('0x2000516eafd3a0d2833faf72c7d13a4a132968fd', 'gtd', 'eligible'),
+  ('0xdfdd8f1548a242323d3de7c8ab5fdcf2582d0b09', 'gtd', 'eligible'),
+  ('0xf01cc8531943fbc83a0dbc3c137b56454e859f9f', 'gtd', 'eligible'),
+  ('0xaff84763613b3aa0561ed49a496b81aa18dde506', 'gtd', 'eligible'),
+  ('0x4c0a85050fdbb22f2bc72d7b10685cd02eeef399', 'gtd', 'eligible'),
+  ('0x7967f5b8611ee98fa290f2cbaa48317f4549f290', 'gtd', 'eligible'),
+  ('0x9599e5fde544632e6f5affb9eba1304d89df0beb', 'gtd', 'eligible'),
+  ('0x3577fd028c1ed445c91ba7e61f9d086209c59528', 'gtd', 'eligible'),
+  ('0x41ae7e2d723691e0176834df106c8cceabe4f84f', 'gtd', 'eligible'),
+  ('0xc2784b279c9a1df39e6a4cbb5b986311a85ff6d8', 'gtd', 'eligible'),
+  ('0x51a4ca92f69c8ef32939bb4655cec8756164883c', 'gtd', 'eligible'),
+  ('0x2866c86a846f41d39f1d18e6b17be0c7dce16198', 'gtd', 'eligible'),
+  ('0xf91677a7b04f997d040d67e10fa3677fe3c9a2d0', 'gtd', 'eligible'),
+  ('0xf6253cc6753320271f0093a4e57a37d31fc7c24c', 'gtd', 'eligible'),
+  ('0x0f4b7a71af514be323893f382626d209d0ce66ea', 'gtd', 'eligible'),
+  ('0xb5b976d268674a0eab3219e91b14997cb1d688a5', 'gtd', 'eligible'),
+  ('0x43f6122cddef4eacd7d9df7f9c6d247582d3c024', 'gtd', 'eligible'),
+  ('0xf4c34175eb091291268b1d633b20d6439a637f47', 'gtd', 'eligible'),
+  ('0x924b4adadc56a5029b36f319f35482e46b430c68', 'gtd', 'eligible'),
+  ('0x8724c9bca42d99eef9483d5166e25ecc932bf54e', 'gtd', 'eligible'),
+  ('0x939db5888c9198a8b0cc5be1acd16156580d5072', 'gtd', 'eligible'),
+  ('0x3227aac209c4c1318d560829e62f6527e1ffe76b', 'gtd', 'eligible'),
+  ('0x76649cf8727557be47a3107fe0c12f4e133662c7', 'gtd', 'eligible'),
+  ('0x801a1bf2800b45acb71890d04d6525f454aef7bb', 'gtd', 'eligible'),
+  ('0x791281754891fa273e1bc83ac8aa2f889bb6233c', 'gtd', 'eligible'),
+  ('0x442b083ccfb8f8694128661647dc750a389b9415', 'gtd', 'eligible'),
+  ('0x39d27b7dafc44c408460dc7199d7eff9e717e3a3', 'gtd', 'eligible'),
+  ('0x00a42f2c03cfcbc1aacdc4085a53884a3b3267a8', 'gtd', 'eligible'),
+  ('0x000bc589440ae740286f1bd2c5ac68ae78e05f9c', 'gtd', 'eligible'),
+  ('0x3233aa09398e3c6a678fbc942908f7fd5b1eb5d3', 'gtd', 'eligible'),
+  ('0xe40e5c35eda06a8f5819ccef27df89721dcc5bdc', 'gtd', 'eligible'),
+  ('0x80cfa4b30671a66cc05e35cd9920bba878d6c773', 'gtd', 'eligible'),
+  ('0x581fdad6fc100a5029da540d58a787fbf4c5b5b2', 'gtd', 'eligible'),
+  ('0x5b8a9b7e61a8bbc24218e6b173b8bb5df33ef8cf', 'gtd', 'eligible'),
+  ('0xeb87db53c6307acf931fef3f4fa7e14f23129621', 'gtd', 'eligible'),
+  ('0xdc936ae3515ad53bae11a58fab74d246d98020eb', 'gtd', 'eligible'),
+  ('0xe55df86558341d939b7c7efc4bf3925c38325bb9', 'gtd', 'eligible'),
+  ('0x537c78ada72f8f8049861f63498b6b3094736d4b', 'gtd', 'eligible'),
+  ('0x88b44e70a48219faf4b841183ee4d8f08c350f0e', 'gtd', 'eligible'),
+  ('0xf691acd40a438f36781f697b0f7a742979408604', 'gtd', 'eligible'),
+  ('0x59afc4508c7519b7aa976ac202d16b244dcb83d4', 'gtd', 'eligible'),
+  ('0x4b82324f146647fa5f65c4ff27515bd740adca2c', 'gtd', 'eligible'),
+  ('0x7266c8077b0ebd168b4533331f735b9b7ad9592a', 'gtd', 'eligible'),
+  ('0x885432e61d5beb5233912fadbbfe32a4e044f334', 'gtd', 'eligible'),
+  ('0xf6ca4207faa274a8e7258b117e0c2c981264cde2', 'gtd', 'eligible'),
+  ('0x5505f68e400a63ec2a8f24c2ee2b98dabad13e29', 'gtd', 'eligible'),
+  ('0xc3a0178234bb7eb55f18efb2de2d49e19567b30e', 'gtd', 'eligible'),
+  ('0xff68fbfc5887a9783c1c9196696e08be7285d211', 'gtd', 'eligible'),
+  ('0x448c1d47826b9608ef2b43f8e5aeced3592cc04f', 'gtd', 'eligible'),
+  ('0x25d7c11319cecde2877d0d0c3ed7ab605bb48ec0', 'gtd', 'eligible'),
+  ('0xcd204651ea1977722d66de58984774b39ae5c95e', 'gtd', 'eligible'),
+  ('0x5912088c7d19add449ab125a8235a587282a2ac7', 'gtd', 'eligible'),
+  ('0x8cd4fc20cc3933126a2b8882cd950af21e416235', 'gtd', 'eligible'),
+  ('0x7843bb279266c113844ba790f5b87b80f7c22204', 'gtd', 'eligible'),
+  ('0x945cd3be876cd3807000b06a47d1cbe527cac34f', 'gtd', 'eligible'),
+  ('0xb6bf40819b35df323b6376a29f5d467b97c9adf9', 'gtd', 'eligible'),
+  ('0x5fb74496131e7441edc515ed6ad1181badefd938', 'gtd', 'eligible'),
+  ('0x5aabe9afe17cc5112daee3dd11ef2c0a81e4ef28', 'gtd', 'eligible'),
+  ('0x6a10a6ded6aca06dcee622a54260c9f077242d10', 'gtd', 'eligible'),
+  ('0x8fe42ddaeb4d475f8df1f9c578c3f3707c838e17', 'gtd', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
+  ('0x9dcc878d0b8af3a759f95be73cbdabadd0c9d96a', 'gtd', 'eligible'),
+  ('0x7a5f67452799af98f6db3a5886b3cf6df48f328c', 'gtd', 'eligible'),
+  ('0x30bf6873028bac51f17dd0b44cb83d3f91c26b49', 'gtd', 'eligible'),
+  ('0xdb9c1116c70b478c10aee06a73db749303fb2cae', 'gtd', 'eligible'),
+  ('0x8599bda60364a61c5775b0eb230b24b37ff2f187', 'gtd', 'eligible'),
+  ('0x683979d7c46feace87c95a85c37066d17c3f0989', 'gtd', 'eligible'),
+  ('0x0a71ff99d991682368bb14a54f7ebdcb413f56e0', 'gtd', 'eligible'),
+  ('0x17edd786c6bd3e351492b0d61b876b1025d57873', 'gtd', 'eligible'),
+  ('0xa3c7b9efdbb3b226efb62f5e570302e28f906616', 'gtd', 'eligible'),
+  ('0x29105bd47f3820e8e4077e10bb99947d2a5c7dd8', 'gtd', 'eligible'),
+  ('0x627dc87b468728e0e72d848a49696f5c6f1c9611', 'gtd', 'eligible'),
+  ('0xe0443ebefb70c9df0a6f2e1741cc2294df65b65e', 'gtd', 'eligible'),
+  ('0x240d14d890985a8cf4c6387736d5a09c8b6dd1b7', 'gtd', 'eligible'),
+  ('0xdb800a9cde7fe83a8fbf401bb4547448fd4d47b8', 'gtd', 'eligible'),
+  ('0x6c67fb6cce96c48ba484ff6d5a7ddc9d0a275010', 'gtd', 'eligible'),
+  ('0xc6f86b392c918011707db8f10a11cce5a6ce52de', 'gtd', 'eligible'),
+  ('0xf80caf68e40d9d68a16697ed636e98ab3fc17f52', 'gtd', 'eligible'),
+  ('0xec0188f815d6bd1534d487c322e48531f5608f0e', 'gtd', 'eligible'),
+  ('0xad83a251d805446040b4add476f167724d3f444a', 'gtd', 'eligible'),
+  ('0x95904122436e327987f0a6049b57ef39bd1b914c', 'gtd', 'eligible'),
+  ('0x8fd7dc7c1036fce00d9f3082f1ace5dbd3e64fe4', 'gtd', 'eligible'),
+  ('0xfe4a1d85b3a2661b276568ea609492d1e81c9541', 'gtd', 'eligible'),
+  ('0xcaa0335b19c05cc424fe60de6c01fb5863f68db1', 'gtd', 'eligible'),
+  ('0x65559c124b9873c5733c779262fbac9b85b3a43a', 'gtd', 'eligible'),
+  ('0x4a226e26a5e3c34ee1f499e6d23239916afbc983', 'gtd', 'eligible'),
+  ('0xf5c00a5a626f6de3ef2da39e41fab33eea880451', 'gtd', 'eligible'),
+  ('0x77f8f0c87a3f8144bc71edeb98e79cdba0dd5124', 'gtd', 'eligible'),
+  ('0x7ab7196d4d9569aa9ddd95720eb63e06aa2071f4', 'gtd', 'eligible'),
+  ('0xa71710de0426f5fba6e9e63e61f426070735fe75', 'gtd', 'eligible'),
+  ('0x2e24a143c06aa02974ff37754bd140fd4db1095e', 'gtd', 'eligible'),
+  ('0x53a984a852a9a8e8f3df6ae060c93a38b11ca9ac', 'gtd', 'eligible'),
+  ('0x9887ede7099780085c844b4bb756df149fe1c791', 'gtd', 'eligible'),
+  ('0xdbe1cbee07aa2d849fbb492a8e15182c2ce40f62', 'gtd', 'eligible'),
+  ('0xc7e98f9027a971f63880fead7191074c8bcacccd', 'gtd', 'eligible'),
+  ('0x83ce49daca3e19e12e1d1112d1501e4369665c24', 'gtd', 'eligible'),
+  ('0xd28e9f698067d60e60235d29d4d221a470252691', 'gtd', 'eligible'),
+  ('0x9867f6192ebae2a6e03c627e13c52e35e8a154af', 'gtd', 'eligible'),
+  ('0xba5cbcaef3d9bc3296aeef9efc1c63d16351f93e', 'gtd', 'eligible'),
+  ('0xf9cfbb505f9213bde70ea2b31dd07f47f94ecf82', 'gtd', 'eligible'),
+  ('0x5d2ce532e2fd26749238625a64c95c4a42123bc2', 'gtd', 'eligible'),
+  ('0x3f0f20e86564d3c66252355f8d8ca7f329fe7a00', 'gtd', 'eligible'),
+  ('0x6c284d3c5f73a8d5b0772f217abcad6eab8492db', 'gtd', 'eligible'),
+  ('0x4f40e5fdbfb15890b24cb95f4559119f6d2edc84', 'gtd', 'eligible'),
+  ('0xe3de3e2c6ce559dfc08ac99b4bbf24d12a27ec91', 'gtd', 'eligible'),
+  ('0x036c65c472c4519271972273c0954d692b94538c', 'gtd', 'eligible'),
+  ('0x11a685fd4628525553c273c57a64acdec3babf11', 'gtd', 'eligible'),
+  ('0x2e19b317352d936105f55638a9eb6c1cb723dde7', 'gtd', 'eligible'),
+  ('0x99db44a434089abf7d5238f9683394405119572e', 'gtd', 'eligible'),
+  ('0xaa92eea9843a6c63873b0956ce3ca61fbb85037b', 'gtd', 'eligible'),
+  ('0x53ff5d3f3bb9c8a87bebce2636cc56b7e4fe08a2', 'gtd', 'eligible'),
+  ('0x2a64303b7da4f8daccf23383f2e11d1678483d09', 'gtd', 'eligible'),
+  ('0xb538dd31ddd4533e8865e7a821d58b9c6ca780fb', 'gtd', 'eligible'),
+  ('0xa5a2a23649f847704ccf0427fa9399a6a7c60cdd', 'gtd', 'eligible'),
+  ('0xe612b14bfcb6820abccfb5f6f9683778e0ec3cdd', 'gtd', 'eligible'),
+  ('0xb31f8662b8fc171f07a50bfa7a7f4b74400f61a4', 'gtd', 'eligible'),
+  ('0xa335b46d5f3d6d6763072268fc95a8a1d9a48266', 'gtd', 'eligible'),
+  ('0x5add636fc3883704cc3833dfdb662630f71bf687', 'gtd', 'eligible'),
+  ('0xadec6fffbfff4f682d253ccc4eb495e11dae9e33', 'gtd', 'eligible'),
+  ('0x17a7e71b3aab9569c23141d83630a83fad8df0c5', 'gtd', 'eligible'),
+  ('0x6dbfce3eca3233ff9c6d64ba65b1774ca7651aed', 'gtd', 'eligible'),
+  ('0x29093ae470cf48f593c08e25cc58399fdc646a8e', 'gtd', 'eligible'),
+  ('0x198a0a2fa5b012e4646e7240ddfb16529967d72b', 'gtd', 'eligible'),
+  ('0xdcce8284ff40653b33753ffb88c4b71e01819540', 'gtd', 'eligible'),
+  ('0xfee22f29916aafaefa9bda9a1373a3088b22ba2f', 'gtd', 'eligible'),
+  ('0x24753170837d6a18af0ec8d2237d38797d0d830e', 'gtd', 'eligible'),
+  ('0x883aaea6a737d97877ca0fc8dab999b33838a052', 'gtd', 'eligible'),
+  ('0x6ff7d4a10956416ee4b69db2cf2b560f4a6fbd47', 'gtd', 'eligible'),
+  ('0xed9835a623f9e919949a7be155c686d9706431be', 'gtd', 'eligible'),
+  ('0x4e22a8aa0fc070e9828547794db9c788eaf0ad1e', 'gtd', 'eligible'),
   ('0xb751bde3e4b2252572d44abf660cd2378b7f772b', 'fcfs', 'eligible'),
   ('0x6dbfce3eca3233ff9c6d64ba65b1774ca7651aed', 'fcfs', 'eligible'),
   ('0x991a584f5a40d5834c2170adb23d740b16337c95', 'fcfs', 'eligible'),
@@ -3039,7 +4127,10 @@ VALUES
   ('0x9dcdfb5c69c1f88b27f4256ff1abbbb887135d7e', 'fcfs', 'eligible'),
   ('0xbe1da9701344b6f7f0a79f88b9d17405c986a438', 'fcfs', 'eligible'),
   ('0xe298372e79d0b2164a93c8277393e4d938b5aa1a', 'fcfs', 'eligible'),
-  ('0x4cc0db0e69da9c2d555785bd430ed5384ecda4a6', 'fcfs', 'eligible'),
+  ('0x4cc0db0e69da9c2d555785bd430ed5384ecda4a6', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x6a99029a1ba07b91f9d88e9968b466c139bc844d', 'fcfs', 'eligible'),
   ('0x32f430bf55ef1823e918db413e9dde77521bdc99', 'fcfs', 'eligible'),
   ('0x580679ce1ac54c4a3c7e5b3e2d22944b41658f76', 'fcfs', 'eligible'),
@@ -3056,10 +4147,7 @@ VALUES
   ('0xdfe28dbf153358b300407382aa9783bada92b132', 'fcfs', 'eligible'),
   ('0xb29e7e3331513c9d59155605a71903ae20654a0b', 'fcfs', 'eligible'),
   ('0x240359d356a44d3dc4957263fbe06ea3705f6bc1', 'fcfs', 'eligible'),
-  ('0x3b31dbf95af25732a60de3128f3ced787bb6fe97', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x3b31dbf95af25732a60de3128f3ced787bb6fe97', 'fcfs', 'eligible'),
   ('0x7226d74968a655d5db4c606f0757acbb5c67c331', 'fcfs', 'eligible'),
   ('0xc6913a49ab304a8b99a1634a42e6d054f4f7b29f', 'fcfs', 'eligible'),
   ('0x20277264be2a8e4c0e58e23af03a1ef8fc314aed', 'fcfs', 'eligible'),
@@ -3192,7 +4280,10 @@ VALUES
   ('0x7313c8ab09dd35c6f2f5253d818e0566bd96fd82', 'fcfs', 'eligible'),
   ('0x0f19d5d5e6ac1b8814e38abca64677ca28c4b5fa', 'fcfs', 'eligible'),
   ('0x3a7b3bdbbf1fc55f3863655a3ca1baf574e655eb', 'fcfs', 'eligible'),
-  ('0x4a7766ce67e9b8954efd38e2c7ad86a06b9ff056', 'fcfs', 'eligible'),
+  ('0x4a7766ce67e9b8954efd38e2c7ad86a06b9ff056', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x1e737ca77efaca0b943c6e4a57863fadc891c048', 'fcfs', 'eligible'),
   ('0x01ba5eb4d6e36739f58ac718e98b008d2cf5a93c', 'fcfs', 'eligible'),
   ('0xb6fa95dc8b3e04a6abd355851608ad06193f27bb', 'fcfs', 'eligible'),
@@ -3209,10 +4300,7 @@ VALUES
   ('0xf3e0a4b42e6acbffea4417b05409c8b22ad48a97', 'fcfs', 'eligible'),
   ('0x3217815f33322b1ad0b1b4defe6f34608d85ba5a', 'fcfs', 'eligible'),
   ('0x9b0f21751040b801ac86b94c837b0fb201b89c66', 'fcfs', 'eligible'),
-  ('0xd186f4a0a626d54bcf83db1e0d52b08edcc04371', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xd186f4a0a626d54bcf83db1e0d52b08edcc04371', 'fcfs', 'eligible'),
   ('0xb545dc9ac66516ebd1f7d1aa460c11e95958cc2c', 'fcfs', 'eligible'),
   ('0xdd93be3cbdfbc3b5db8824fc10d3f36636a285bd', 'fcfs', 'eligible'),
   ('0xda6fa46df0d51b14188928fac8c98a299cd1f6fe', 'fcfs', 'eligible'),
@@ -3345,7 +4433,10 @@ VALUES
   ('0x1d8564a26222ebeb9c8e7f55d39efce90e3767f4', 'fcfs', 'eligible'),
   ('0xf3d26ad80484cd99de8ccc90f58f780c62d73623', 'fcfs', 'eligible'),
   ('0x33a2a159334b903e7b03cda735ee94aec30ba77d', 'fcfs', 'eligible'),
-  ('0xdffb34e61890c5674fd302cb34f73afab9328d0a', 'fcfs', 'eligible'),
+  ('0xdffb34e61890c5674fd302cb34f73afab9328d0a', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xf22d7ae7a3352c03336febe7984c6429c056b3c2', 'fcfs', 'eligible'),
   ('0x3a84903bd1b2a0f13663e02265749c006073392c', 'fcfs', 'eligible'),
   ('0xf0f6717dba0d06ba81ce83769342d55f6873bef5', 'fcfs', 'eligible'),
@@ -3362,10 +4453,7 @@ VALUES
   ('0xcc8cfceab808945266f8c3a981bb0c3facccbe45', 'fcfs', 'eligible'),
   ('0x60136aedbef38821837559aadd718dfe1a41fc95', 'fcfs', 'eligible'),
   ('0xa8c0e290b492b13cc2239f41eac3077753bb3951', 'fcfs', 'eligible'),
-  ('0xe7c327d92207f538c8f0c8e22da463f27b506881', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xe7c327d92207f538c8f0c8e22da463f27b506881', 'fcfs', 'eligible'),
   ('0x613cb5eaf514a1a56c6f7361f2bcda10cd0964cb', 'fcfs', 'eligible'),
   ('0xb195bac8a8832e03e5ed5ba7d8d8cc40b1b8fc3d', 'fcfs', 'eligible'),
   ('0x021e72bfa28110bc67ac034982d68aef5ce7d6c1', 'fcfs', 'eligible'),
@@ -3498,7 +4586,10 @@ VALUES
   ('0x382ce183d71747de7b51bb82b747d06fe222f677', 'fcfs', 'eligible'),
   ('0xebd91ae452ad13648b1d63700e4751c2471bda7e', 'fcfs', 'eligible'),
   ('0x6d99ef7d4103d791d4bf208e68149fd7848a5971', 'fcfs', 'eligible'),
-  ('0x49856a67d60b2263e85de1cba1d51f0a4453e57f', 'fcfs', 'eligible'),
+  ('0x49856a67d60b2263e85de1cba1d51f0a4453e57f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x494cd80406c8b2651097ddc78bd8886b021e02bd', 'fcfs', 'eligible'),
   ('0x72e66b785427e0cde2f08869b7b8a548aba0a2ed', 'fcfs', 'eligible'),
   ('0xcf52825cf906ce51721f7704684e7ea927656bbc', 'fcfs', 'eligible'),
@@ -3515,10 +4606,7 @@ VALUES
   ('0x84fe683569da926c5ac3a87c04ccd7c4e2b4f9f7', 'fcfs', 'eligible'),
   ('0xed3c45e49c038c68b589f9bc2f1b5a36d4fdd8c9', 'fcfs', 'eligible'),
   ('0x3054284acbb60397d5e9c120e1c4573ab03fcc64', 'fcfs', 'eligible'),
-  ('0x10a4ed690059732c2d77f639e561cf40547a4f35', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x10a4ed690059732c2d77f639e561cf40547a4f35', 'fcfs', 'eligible'),
   ('0x073d01e5409b3d4dc8c8124224e1e13439f501bc', 'fcfs', 'eligible'),
   ('0x53348b859eb54b74de17a45e78ce969edfcaf89d', 'fcfs', 'eligible'),
   ('0xeed48d46b49826fc80db98a6da766c60cf835230', 'fcfs', 'eligible'),
@@ -3651,7 +4739,10 @@ VALUES
   ('0x8beee0f8f1d09f399c62ce2f1500c6df9a34925c', 'fcfs', 'eligible'),
   ('0x3ac485a241c469b5498907b027af8e7f258de58f', 'fcfs', 'eligible'),
   ('0x682f34b489b706e686bc030c1f892a6517ee60f0', 'fcfs', 'eligible'),
-  ('0x47f88083925a21539a454d2a28792b1bf2830728', 'fcfs', 'eligible'),
+  ('0x47f88083925a21539a454d2a28792b1bf2830728', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xb6c1e02264b3d4c39e7e0e3e47539d010dcb4305', 'fcfs', 'eligible'),
   ('0x566dbf33753f960ba7c488bbc5e948b243710602', 'fcfs', 'eligible'),
   ('0xad26fb1d6b705e3c05d693a4c51756f2e544565a', 'fcfs', 'eligible'),
@@ -3668,10 +4759,7 @@ VALUES
   ('0x86c284b25b1bfa77bd9aaf4552b14b21cbd92dad', 'fcfs', 'eligible'),
   ('0xb65059ce2e3d264a256fe2fd34eb505c1acb6642', 'fcfs', 'eligible'),
   ('0x5f99d336e834d60445a95aac618cef1bfe1d9fa9', 'fcfs', 'eligible'),
-  ('0xa802c717584bdb238970109093bb18ce4e23b7b5', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa802c717584bdb238970109093bb18ce4e23b7b5', 'fcfs', 'eligible'),
   ('0x139596b32a66b87dd2f3de2fa47faf747bb6e60c', 'fcfs', 'eligible'),
   ('0xf722f6c29ca5661a899335f1330df080a1960468', 'fcfs', 'eligible'),
   ('0x8ae140449608b32c028eeb7ebe89ffe52f9d726b', 'fcfs', 'eligible'),
@@ -3804,7 +4892,10 @@ VALUES
   ('0x6225909d958451d5f4e7ebd172d7e55b41b4fb00', 'fcfs', 'eligible'),
   ('0x33d8bde01734f1318ef6f483cd5e65495dd757cc', 'fcfs', 'eligible'),
   ('0x885025ec02e43e53cd048245a1f22c40e3fa3098', 'fcfs', 'eligible'),
-  ('0x9eedbfcc7f678556e81cc09515aa8abbe00d6fde', 'fcfs', 'eligible'),
+  ('0x9eedbfcc7f678556e81cc09515aa8abbe00d6fde', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x11a20bff36a0a9617a0cfc3b63061f63e8186b92', 'fcfs', 'eligible'),
   ('0xbb13042353b80b95787e7448603266b496835043', 'fcfs', 'eligible'),
   ('0x2c7798db65240532700ed92410c63f82b6bcd69a', 'fcfs', 'eligible'),
@@ -3821,10 +4912,7 @@ VALUES
   ('0xb38a34e320f6b1efcffc35d5e03bbb3fe75dd06a', 'fcfs', 'eligible'),
   ('0x1211f411160e6cf726e54aff4ffab3e246311f7e', 'fcfs', 'eligible'),
   ('0x559d5638de4df5ce06dfb9fe12951a829f3651e0', 'fcfs', 'eligible'),
-  ('0xd3a4aefa6b7fc3b96a72a5cde01b423f1c6dd894', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xd3a4aefa6b7fc3b96a72a5cde01b423f1c6dd894', 'fcfs', 'eligible'),
   ('0xe97681a5e54b73f3daf407b8c484f5de718cb1d5', 'fcfs', 'eligible'),
   ('0xa6c95558aebe50513a561ee6e87efd110c0f90a2', 'fcfs', 'eligible'),
   ('0xc25a6c00be6b8bad2a5d604b15ec2f91db4a7fdb', 'fcfs', 'eligible'),
@@ -3957,7 +5045,10 @@ VALUES
   ('0x3d7e69f06274b8b7743c7abef0f58c2d6787d98a', 'fcfs', 'eligible'),
   ('0x32f3475fe3314343f18c467d4d576c951d24256a', 'fcfs', 'eligible'),
   ('0x9dd58e204ea65bc4c41e2d58521fb0da685bb5ff', 'fcfs', 'eligible'),
-  ('0x6f4ec46b07344c16e76e3dcaba161583dbfb5e65', 'fcfs', 'eligible'),
+  ('0x6f4ec46b07344c16e76e3dcaba161583dbfb5e65', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x5b98bc2b0085e9bbc678b1a24a4f524beb190907', 'fcfs', 'eligible'),
   ('0xb8127adb22b84ab2a5291421c2b3c467a6930b09', 'fcfs', 'eligible'),
   ('0x8c6f82e1eadeafd19334778f5dd02e77ddbe1367', 'fcfs', 'eligible'),
@@ -3974,10 +5065,7 @@ VALUES
   ('0x94f52a506b5cea5aedb1a748536e955a1fe7ced6', 'fcfs', 'eligible'),
   ('0x0fbb276675369f3aaa1c655ce024f25a7539c0df', 'fcfs', 'eligible'),
   ('0xc16eab975ff883706a7dd9d57c55698df4d56413', 'fcfs', 'eligible'),
-  ('0x9f73790c5164ec9951c10c51fc1a0c70289924d1', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x9f73790c5164ec9951c10c51fc1a0c70289924d1', 'fcfs', 'eligible'),
   ('0x8b2a93ef731a72c4c83f1c8770636dd43d78bf41', 'fcfs', 'eligible'),
   ('0x607aac94ddc363a2090c48e04c5a4d649b0bde32', 'fcfs', 'eligible'),
   ('0xca11656ae91e656542ee0b3d39a234c6af558769', 'fcfs', 'eligible'),
@@ -4110,7 +5198,10 @@ VALUES
   ('0x0844259d35c682e93d91c1469b5cd2bd1dd1a443', 'fcfs', 'eligible'),
   ('0x374d0a3de6ee6f8eb03c15ec1aa56dea78add479', 'fcfs', 'eligible'),
   ('0x99e2bba93d5d9a23092351581e3715a3467c2acf', 'fcfs', 'eligible'),
-  ('0xde887357e832f44997b4ef5f46c64eb9ef622d45', 'fcfs', 'eligible'),
+  ('0xde887357e832f44997b4ef5f46c64eb9ef622d45', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x6ad5adf876c35849f6fa9b22f4fe95098d7a3ad2', 'fcfs', 'eligible'),
   ('0x1b530a70c2be64df0156f97b64379b2f7f9e870a', 'fcfs', 'eligible'),
   ('0x71cba8519d51492e4ab71d3432664d7e94f355bc', 'fcfs', 'eligible'),
@@ -4127,10 +5218,7 @@ VALUES
   ('0xdf9ce4973c902f03fb348cc4c13e0e2c5e90ebae', 'fcfs', 'eligible'),
   ('0x091967a8f2063d4eed7684cde5ae9ca317cd7556', 'fcfs', 'eligible'),
   ('0x17e7b1de050d55a52aa3d543ffc528055823930c', 'fcfs', 'eligible'),
-  ('0x77fd0cdd3b52398e04455dc67e35827c56736727', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x77fd0cdd3b52398e04455dc67e35827c56736727', 'fcfs', 'eligible'),
   ('0xc0357bb6bcc9c8c841b3369b498d47504da13d63', 'fcfs', 'eligible'),
   ('0xe0fa6fab1b488a0315ff89687c6870511fe792ec', 'fcfs', 'eligible'),
   ('0x34d617d3630d4dd6d61cfc34f65a1ab86d75004c', 'fcfs', 'eligible'),
@@ -4263,7 +5351,10 @@ VALUES
   ('0x018899801b93ebc6a3d8a17b21d5012c4f4a701a', 'fcfs', 'eligible'),
   ('0xdbe7209ceb717f8d87dac6589b10743650516968', 'fcfs', 'eligible'),
   ('0xc1e7734d7f913b8f45344d72538f6ecc022ddd0c', 'fcfs', 'eligible'),
-  ('0x91006386fd5313647d7ba2339fc8682ad3b7495b', 'fcfs', 'eligible'),
+  ('0x91006386fd5313647d7ba2339fc8682ad3b7495b', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x3eb3b643e0f086ed276a55c27b8983528b3ac03e', 'fcfs', 'eligible'),
   ('0x930bdfb7352f1cfba9097b3664d27543b449c801', 'fcfs', 'eligible'),
   ('0xdb537fb69e526f08d69b80a5e56d56ae4aaeeb2d', 'fcfs', 'eligible'),
@@ -4280,10 +5371,7 @@ VALUES
   ('0x44505b22a92667a236b8ed339060f221b7f3d6d7', 'fcfs', 'eligible'),
   ('0x8119608a776a0ce4f4ad305019ef1c52e766ead3', 'fcfs', 'eligible'),
   ('0xc362e5b6ba45dadc560f6da5a3ba18cbc049c1f7', 'fcfs', 'eligible'),
-  ('0xe1ef10c49102b3a4a9cd6fb5f9878d247fbbbe86', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xe1ef10c49102b3a4a9cd6fb5f9878d247fbbbe86', 'fcfs', 'eligible'),
   ('0x81af5daf1f8ed37ea240146a5715898a705ff680', 'fcfs', 'eligible'),
   ('0x9c9397e42bdf3f52d380ec3619581cae0243dd2c', 'fcfs', 'eligible'),
   ('0x8dce99101c9fd98635a6f9746ef540491d3d6933', 'fcfs', 'eligible'),
@@ -4416,7 +5504,10 @@ VALUES
   ('0x71a7db1bca52272eddf3723927836d139f116987', 'fcfs', 'eligible'),
   ('0x5f01fdbc08b05a12c9108d69bc07d70b0adf56eb', 'fcfs', 'eligible'),
   ('0x1e7682d150125577291b057cb25684c0bd060d1d', 'fcfs', 'eligible'),
-  ('0xf5d5f73b33744e08585a056f90417ecb937db855', 'fcfs', 'eligible'),
+  ('0xf5d5f73b33744e08585a056f90417ecb937db855', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x1685e48d9d121b6382b150d79c135ca9e9ab7638', 'fcfs', 'eligible'),
   ('0x1ff85ce2373145050856a0805e07bc666cd64b63', 'fcfs', 'eligible'),
   ('0xaccfdc80f2586a2a3a61aa6dda6c3e693f72d56e', 'fcfs', 'eligible'),
@@ -4433,10 +5524,7 @@ VALUES
   ('0xa71e40a29d158178a0475e1fdda70e117a1ea8b4', 'fcfs', 'eligible'),
   ('0x38d57752ad3a435f99b1f665287089b520be086f', 'fcfs', 'eligible'),
   ('0x20304e9c7689046861ff839fc5eba76e029983ae', 'fcfs', 'eligible'),
-  ('0x097600910338b4b9a18fec1a0dd57415772c9822', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x097600910338b4b9a18fec1a0dd57415772c9822', 'fcfs', 'eligible'),
   ('0xe23273d1003e1dbebfc31174e08ba3f0d0f249d6', 'fcfs', 'eligible'),
   ('0x0f98e2502ee42a4b5cba8e6db57f161e813f61c2', 'fcfs', 'eligible'),
   ('0x0ccb72cea095f0e7a5770f342326dccdfcb5b927', 'fcfs', 'eligible'),
@@ -4569,7 +5657,10 @@ VALUES
   ('0xedaf9dd172d69c56591fe0881a22160a448420d4', 'fcfs', 'eligible'),
   ('0x737e2da2d1e3700894529b1b3f7d8d4880b13d5d', 'fcfs', 'eligible'),
   ('0x67b8bb594bcf7a146c33f49e7873d8c9b867cbfe', 'fcfs', 'eligible'),
-  ('0x33eeab5690a907b6a4cf7cb0ee913e6632cff921', 'fcfs', 'eligible'),
+  ('0x33eeab5690a907b6a4cf7cb0ee913e6632cff921', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x804159b019244072bab1a6cd82384418de1fa00a', 'fcfs', 'eligible'),
   ('0x00d60eb35a2f891c029cc271f8a5c00da35a113d', 'fcfs', 'eligible'),
   ('0xdcb5c31df3c15e6fc4cf0db31c0f8dbd88f39197', 'fcfs', 'eligible'),
@@ -4586,10 +5677,7 @@ VALUES
   ('0x7c238206028fbc0fe51e5ddf0db7e884f1520f8d', 'fcfs', 'eligible'),
   ('0x16bc61f8a2dd15dfdfbcac854bd9b1735c48dc85', 'fcfs', 'eligible'),
   ('0x7d821b9e48cf27be41c2271392389288ceb68dfd', 'fcfs', 'eligible'),
-  ('0xaf9fff6585f98c54fc418a8aa258d683e13be458', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xaf9fff6585f98c54fc418a8aa258d683e13be458', 'fcfs', 'eligible'),
   ('0x3ea2efbc7f1dee5abc32239b63c2c9303872ff52', 'fcfs', 'eligible'),
   ('0x1c2dd36c5779e08b8721846732521dfa658873b1', 'fcfs', 'eligible'),
   ('0x2505246cefaa44109a5608c35039feca66af2e44', 'fcfs', 'eligible'),
@@ -4722,7 +5810,10 @@ VALUES
   ('0x4c5287115d53c6b90f8b324f2caae818d21d3cc7', 'fcfs', 'eligible'),
   ('0x7204d1def0197c1dc5cfe5f11173e308c3912b07', 'fcfs', 'eligible'),
   ('0xb364185382e5b9d684e03d0c8d9698687ed3ff32', 'fcfs', 'eligible'),
-  ('0x482f8b1ce46f84cbb9fe83d88833c7305b3320c0', 'fcfs', 'eligible'),
+  ('0x482f8b1ce46f84cbb9fe83d88833c7305b3320c0', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x4bf890ab72e625eea5045a8e051361007b81fa21', 'fcfs', 'eligible'),
   ('0x3070583172da78c14cc7d12aa6d54606b8c4c2c6', 'fcfs', 'eligible'),
   ('0x54fffcff5258829b6b14655ea5493029567aa3ef', 'fcfs', 'eligible'),
@@ -4739,10 +5830,7 @@ VALUES
   ('0xa1c0ab2b2e47a1479f78f7ab29fe9023649a4901', 'fcfs', 'eligible'),
   ('0xbb7bd4a0e787a4df99ac6681f2d91a1a143822ad', 'fcfs', 'eligible'),
   ('0x64706ee12bb49bf4f9f2e4a70df207ea7821b7e0', 'fcfs', 'eligible'),
-  ('0xdbac6903b95e1686636ecd9f7508ae6b2305a354', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xdbac6903b95e1686636ecd9f7508ae6b2305a354', 'fcfs', 'eligible'),
   ('0xe659a332358c409ad40aea0cab03874ef5bb8d51', 'fcfs', 'eligible'),
   ('0x7061a3309e8eccb6dc91cc416386cfc8dd2a4bb8', 'fcfs', 'eligible'),
   ('0x61daf4642e35f7d2f7fb1ee12b6bae01106260b5', 'fcfs', 'eligible'),
@@ -4875,7 +5963,10 @@ VALUES
   ('0x86d08566c4be8516fee3686f05a743d2e12d85ec', 'fcfs', 'eligible'),
   ('0xc1c0d98d6cfed23d75f418f9b1d0e67f681c940e', 'fcfs', 'eligible'),
   ('0x9490e9d448514351c553cc473b821135ea687085', 'fcfs', 'eligible'),
-  ('0x102b828b2b60911ea3dd9f5db5e4942ee3b8f87c', 'fcfs', 'eligible'),
+  ('0x102b828b2b60911ea3dd9f5db5e4942ee3b8f87c', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xa0811e4fdb7bd4879a3f1dd5a4be11f02dac5a32', 'fcfs', 'eligible'),
   ('0x7b60da340da8350cb2525779e62e1bc9b726002d', 'fcfs', 'eligible'),
   ('0x479cb8b5f6c49638275cb5821f8bc36edfe52e9f', 'fcfs', 'eligible'),
@@ -4892,10 +5983,7 @@ VALUES
   ('0xca7b3ab3d2674938cb1740c63cc50d39956830c1', 'fcfs', 'eligible'),
   ('0xfe3c5ba7850a82573bf5dcebecb72ae5e469e90e', 'fcfs', 'eligible'),
   ('0xdb84621bed36ec175d3cd86507cc5a324a4409cb', 'fcfs', 'eligible'),
-  ('0x66ada2d4f608e25c0313cf5c3515ce9b4d46a32a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x66ada2d4f608e25c0313cf5c3515ce9b4d46a32a', 'fcfs', 'eligible'),
   ('0x8039d91c6a5b9809590818f94a2e0170d1a61191', 'fcfs', 'eligible'),
   ('0x13167ff6f66371146dcb42c3765a702d9a9ecb3b', 'fcfs', 'eligible'),
   ('0x3d5c1b48d84fc50359d88ef65217762e66779b9f', 'fcfs', 'eligible'),
@@ -5028,7 +6116,10 @@ VALUES
   ('0xa8139813d1d18014de23b64fec4aac025cc5ffe1', 'fcfs', 'eligible'),
   ('0xfb5647999d76660b12a9be46175412981c499983', 'fcfs', 'eligible'),
   ('0xc3c3e494dcc65535feae7027dac91ae5041333ef', 'fcfs', 'eligible'),
-  ('0x5e5f0c841699e0c1c6420e3c6aad11d8fe46b9e1', 'fcfs', 'eligible'),
+  ('0x5e5f0c841699e0c1c6420e3c6aad11d8fe46b9e1', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x34217ff5aeaf4e8c82111fc741c2991782b6bea1', 'fcfs', 'eligible'),
   ('0x02728fd562971fb64e7cea90aa92c755e8bbd9ab', 'fcfs', 'eligible'),
   ('0xaa770844ecfe87709295d2ac08a226906cb39375', 'fcfs', 'eligible'),
@@ -5045,10 +6136,7 @@ VALUES
   ('0x4c0f108261cce4527cd4c9c960d1796bf8e82987', 'fcfs', 'eligible'),
   ('0xa40d9ef704febce1aaad7cbe0df7fc5aa5ca182f', 'fcfs', 'eligible'),
   ('0xbfa7801ae49e4d26ae6e398a591d66bd28fda428', 'fcfs', 'eligible'),
-  ('0x67307c87c3fee76ac8b4b8d5cdb504a92c9c5a88', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x67307c87c3fee76ac8b4b8d5cdb504a92c9c5a88', 'fcfs', 'eligible'),
   ('0x5c4fc1cd9b98f48b367fb52681b88a04dbd55f01', 'fcfs', 'eligible'),
   ('0x7a38e492327711c8ce586869721cf5a7def4999a', 'fcfs', 'eligible'),
   ('0x09165e3e1aa607fdfc35a9d0781a1011133c7fca', 'fcfs', 'eligible'),
@@ -5181,7 +6269,10 @@ VALUES
   ('0x90b46e80ad607ec9fb0bd8061a367858a2fa74ee', 'fcfs', 'eligible'),
   ('0x18f8d2ce21d2597212f831cfc044e7fb70d09006', 'fcfs', 'eligible'),
   ('0x902b92fcaad3f93aa73d4d0d4bba3d381eec567f', 'fcfs', 'eligible'),
-  ('0x6dd801ffa8367d0d494f77310efe7f0f793ae3d4', 'fcfs', 'eligible'),
+  ('0x6dd801ffa8367d0d494f77310efe7f0f793ae3d4', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x275617d9800e86b4c70aac4692d690f8d34cd3e6', 'fcfs', 'eligible'),
   ('0x356821a22f10fa737aebc23b864549e75543f581', 'fcfs', 'eligible'),
   ('0x92f9e48a75435d006bb42bc35b70bc243c6fb83b', 'fcfs', 'eligible'),
@@ -5198,10 +6289,7 @@ VALUES
   ('0xfe17081ea24354a1e13968b080f70860393a8f52', 'fcfs', 'eligible'),
   ('0x7ec33778f1b8d011c3460593dcc687356bddaca0', 'fcfs', 'eligible'),
   ('0xba906da46f23063e95303f6aaf8aa86d969a8db7', 'fcfs', 'eligible'),
-  ('0xa5069a05ebb885418a154e865b6da2992408471a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa5069a05ebb885418a154e865b6da2992408471a', 'fcfs', 'eligible'),
   ('0x3bf59c893cded5f8c78bc8001755c6633a1f338d', 'fcfs', 'eligible'),
   ('0xa3c518c5a2a317b4bb013a8d74ce6ee7fdff7f3f', 'fcfs', 'eligible'),
   ('0xba279553a66253f55a0f4dd30ce7f5bacf832f8b', 'fcfs', 'eligible'),
@@ -5334,7 +6422,10 @@ VALUES
   ('0x8e3350a8e192f3cfd3f96fca5f17ad340a69cce5', 'fcfs', 'eligible'),
   ('0xc3539fde7aae3a4c57d9f549061574179a27ea67', 'fcfs', 'eligible'),
   ('0x52912fba2e24d83a90d0fe49f3708026082717e5', 'fcfs', 'eligible'),
-  ('0xd5cbf46a7966726a084679f1d2d438ace13272f1', 'fcfs', 'eligible'),
+  ('0xd5cbf46a7966726a084679f1d2d438ace13272f1', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x993989dd3c0e8c9157f0cba561518aeed543298f', 'fcfs', 'eligible'),
   ('0xa87ec13301e7b9d0412f718c373f8a22307a7e0a', 'fcfs', 'eligible'),
   ('0xce62c7dea0222a2137710e8df63c961eb4950ec6', 'fcfs', 'eligible'),
@@ -5351,10 +6442,7 @@ VALUES
   ('0x12bceb6ecd8f118e3b42c3f050e1d2912f479862', 'fcfs', 'eligible'),
   ('0xf175ff99641929ad8d7f931ba42d23633e673221', 'fcfs', 'eligible'),
   ('0x4227e2581ec746bc91fddb258c7a29f9e06a9316', 'fcfs', 'eligible'),
-  ('0x2be708c35d3dbfc09c8f80fcb85468129708479c', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x2be708c35d3dbfc09c8f80fcb85468129708479c', 'fcfs', 'eligible'),
   ('0xd47adba198c5c76cef69c8d91cc2a7279bc79511', 'fcfs', 'eligible'),
   ('0x1805077c296f00e5fb38c27ca0b12f8fbd1bf6b6', 'fcfs', 'eligible'),
   ('0xc07a7584378cdc6cf3e763c03df9f174cc086a5f', 'fcfs', 'eligible'),
@@ -5487,7 +6575,10 @@ VALUES
   ('0x4721976fa0c8be7a2f83762867a4def625bbe40d', 'fcfs', 'eligible'),
   ('0x567406a5ed5d9b82234057f3f50bf1bbc6a9a8f2', 'fcfs', 'eligible'),
   ('0xe31f32d1ebe71b7b5e4e768c1d7dda3a4638a385', 'fcfs', 'eligible'),
-  ('0xda467f6043acc6acbfa3127ecdc3eb4dbddbeee1', 'fcfs', 'eligible'),
+  ('0xda467f6043acc6acbfa3127ecdc3eb4dbddbeee1', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xd07101ac5d30197a35fcb6fe273e7930db0e0451', 'fcfs', 'eligible'),
   ('0x0379c6494da473f0ec307fa6b0be4b578f97ba13', 'fcfs', 'eligible'),
   ('0xff335b2f93e9b50f025f1672b5751c87651bfb89', 'fcfs', 'eligible'),
@@ -5504,10 +6595,7 @@ VALUES
   ('0x6b1cf0970df32b562e69f1422361e4ae351aeca3', 'fcfs', 'eligible'),
   ('0xffd4723d4e7915a50c64970571d073e9ebe8f58a', 'fcfs', 'eligible'),
   ('0x16a16344a2191b4cc9df0d0c662316af9130e50e', 'fcfs', 'eligible'),
-  ('0xfb3d4738895fb2dc94d324800ad46e09db5af839', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xfb3d4738895fb2dc94d324800ad46e09db5af839', 'fcfs', 'eligible'),
   ('0x94f89a02ddee4804d8977b39f19851305e6ad898', 'fcfs', 'eligible'),
   ('0x268d346ce3b926131768062405f08f582d508a1b', 'fcfs', 'eligible'),
   ('0x926f069a76c863de736002aa3b485686269be5f2', 'fcfs', 'eligible'),
@@ -5640,7 +6728,10 @@ VALUES
   ('0x90bb9f40094f30c8d2a9a72c82b4d35c8096196a', 'fcfs', 'eligible'),
   ('0x8514adc0b1e0b080772c25d0d2b578285b185d7e', 'fcfs', 'eligible'),
   ('0x0ec43414bc1e505baecf37772393d0a5d5ec0de9', 'fcfs', 'eligible'),
-  ('0xf8d28af2fa69fb9c08425da45b0db3347de36b97', 'fcfs', 'eligible'),
+  ('0xf8d28af2fa69fb9c08425da45b0db3347de36b97', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xa9951bb89431af33d302b3dd4e9f470f34d6e4d2', 'fcfs', 'eligible'),
   ('0xc65394747cccfc5e5ded39da191bc1c3f9fdb3a2', 'fcfs', 'eligible'),
   ('0x0b06c7ccf93a5c5f514f2b9a25932ed4909bad11', 'fcfs', 'eligible'),
@@ -5657,10 +6748,7 @@ VALUES
   ('0x178173627aa2f703e1a4adb549791acee019b283', 'fcfs', 'eligible'),
   ('0x308850cce84fe79f040e1c85543c8bbe618e3f6f', 'fcfs', 'eligible'),
   ('0xe2325f930e08464b4adec25a3e37c686df5e7d9f', 'fcfs', 'eligible'),
-  ('0x18f2554dd75cee00e9afffb05dba2fb0cf2f1cbc', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x18f2554dd75cee00e9afffb05dba2fb0cf2f1cbc', 'fcfs', 'eligible'),
   ('0xf6c0d92a82397c7e4bdcd8ad03b33ab7752eb68a', 'fcfs', 'eligible'),
   ('0x92140d6a47e3bb3e3ef27ea193672e1289ac5f4e', 'fcfs', 'eligible'),
   ('0x73be1eca797b1bcf232129ccb469e489e03c8c60', 'fcfs', 'eligible'),
@@ -5793,7 +6881,10 @@ VALUES
   ('0xde70d232716065336f2524ec8007d701551c5fb5', 'fcfs', 'eligible'),
   ('0xcfd3d4942a2e3d0ce6ac4f16db11cd404d77f956', 'fcfs', 'eligible'),
   ('0x2fbc9316dcaeb074ea02835d71dbf082b2cc5cb6', 'fcfs', 'eligible'),
-  ('0x889e861062b11471be109ad1a4e3a5751e69903c', 'fcfs', 'eligible'),
+  ('0x889e861062b11471be109ad1a4e3a5751e69903c', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xc5cef7c8cf8bbde3fa8f611600c244302146b2e7', 'fcfs', 'eligible'),
   ('0x476d27abe0705dbb0a8deec82014693bd957cbe4', 'fcfs', 'eligible'),
   ('0x18097a45a3b95d4d7ea58fad6b3a3e2c3df8a065', 'fcfs', 'eligible'),
@@ -5810,10 +6901,7 @@ VALUES
   ('0x0020640ec8537073c1b698e9642f74232ce55d69', 'fcfs', 'eligible'),
   ('0x54519ed654648bfb5c9fc191d7e93a1e72831014', 'fcfs', 'eligible'),
   ('0xf2f25dac7c9fe3314747d761ac4d43bdf4fcd38f', 'fcfs', 'eligible'),
-  ('0x0c4f6df71580de5a8009a7a88789ce58930fe834', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0c4f6df71580de5a8009a7a88789ce58930fe834', 'fcfs', 'eligible'),
   ('0x7267d3fec0d7e92d9d09a35614d5e6cd9b289e3f', 'fcfs', 'eligible'),
   ('0x76e37b76feebb298afde708f8d2582c4d5156f6e', 'fcfs', 'eligible'),
   ('0x391dab1c452bc3b0a0fccc75704ab06c2d5d32e8', 'fcfs', 'eligible'),
@@ -5946,7 +7034,10 @@ VALUES
   ('0x64482c5e60958b89d8c4a2b8faa87af544b7e168', 'fcfs', 'eligible'),
   ('0x31bf5793976c10aed933787896c394e158271fdf', 'fcfs', 'eligible'),
   ('0xad8abd9c83ee43482194f976480f396e188b2578', 'fcfs', 'eligible'),
-  ('0xabee1b0ec0fc342d7162caa8a137dbe51289045d', 'fcfs', 'eligible'),
+  ('0xabee1b0ec0fc342d7162caa8a137dbe51289045d', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x647a01aa1b9a97b6da59a47da3250fdcd2bfccc6', 'fcfs', 'eligible'),
   ('0x03a6f05001f366771d80b68ea324e422511ae4db', 'fcfs', 'eligible'),
   ('0xcf630b7a7c506cb915969f3bc2c7a192ed3cdb2b', 'fcfs', 'eligible'),
@@ -5963,10 +7054,7 @@ VALUES
   ('0x842fe77e98c0e2f2b786fcc5b259a54ee2111ca0', 'fcfs', 'eligible'),
   ('0x76b75527aba273207802cda02c9d21deec2face7', 'fcfs', 'eligible'),
   ('0x7d8fe5016442f277956f112078786fdc67ead42e', 'fcfs', 'eligible'),
-  ('0x09353338c906bfa50a011dfb0b08ee63373b3751', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x09353338c906bfa50a011dfb0b08ee63373b3751', 'fcfs', 'eligible'),
   ('0xb2bab398b9772e0aa7230042a1d39a0694bd7fba', 'fcfs', 'eligible'),
   ('0x729907ef8d6355111d506e09241d7c774d5db617', 'fcfs', 'eligible'),
   ('0x73089ceb2104d6b90bbe6378462b5f27f9b261ad', 'fcfs', 'eligible'),
@@ -6099,7 +7187,10 @@ VALUES
   ('0xd5667129f64fb25078ed18fffc7412598bfa8b47', 'fcfs', 'eligible'),
   ('0xfb4cfabdfdc5a5410e65c18c524877718bf8c3c3', 'fcfs', 'eligible'),
   ('0x119e6c885f1a2e21d0a225b3302a6fddf1f58fe1', 'fcfs', 'eligible'),
-  ('0xfbba27b550f9e9f33eb41458560e6915e9142451', 'fcfs', 'eligible'),
+  ('0xfbba27b550f9e9f33eb41458560e6915e9142451', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x3c72c64533ab780ed2123de2cf77c2f2f0f6cb7d', 'fcfs', 'eligible'),
   ('0x915f3be36d10c667a6027e1ef238963ef15349b8', 'fcfs', 'eligible'),
   ('0x777adf123939a9cf68b0d84c79a810231cfd5d4d', 'fcfs', 'eligible'),
@@ -6116,10 +7207,7 @@ VALUES
   ('0xec87e1e50bae319a34d892860edf2bdc423aea32', 'fcfs', 'eligible'),
   ('0x02e9174c65cd2b821edee7e78dba1281e3afa5dd', 'fcfs', 'eligible'),
   ('0x197502c297dc869de323293e481ba38466a38d8b', 'fcfs', 'eligible'),
-  ('0xa8f73eeb88e6405338e5e3b9a28bc088aa694c25', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa8f73eeb88e6405338e5e3b9a28bc088aa694c25', 'fcfs', 'eligible'),
   ('0xd2447336c52686c53db077d3fdd8e9698b942b7a', 'fcfs', 'eligible'),
   ('0xd2d9d5705b208c7a862dbf99b1f5f1566ed61557', 'fcfs', 'eligible'),
   ('0xf5b8bd7f3a86ffd8789f530f827393219724db01', 'fcfs', 'eligible'),
@@ -6252,7 +7340,10 @@ VALUES
   ('0xfbb6f0651b6e84fdad7c9016b1479dd533d3b2e0', 'fcfs', 'eligible'),
   ('0x64cfcf8cafe082fca1f09e40148ea85572e884c9', 'fcfs', 'eligible'),
   ('0xc80090321d9e043979ecb484b90b917cfb395ec3', 'fcfs', 'eligible'),
-  ('0xc68fb51361baaf848f251e3e8e520c9b6b772a22', 'fcfs', 'eligible'),
+  ('0xc68fb51361baaf848f251e3e8e520c9b6b772a22', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x212f2d0638b387aa5d24c1476ffd7065c4401782', 'fcfs', 'eligible'),
   ('0x5f6d6f630b4b8f11f69cece5d3e664a9ab2df463', 'fcfs', 'eligible'),
   ('0xc977360e9b7a520e7f45fca467381562e04e5401', 'fcfs', 'eligible'),
@@ -6269,10 +7360,7 @@ VALUES
   ('0x34468fbb4b06e085d8528ec162afd33c246cf634', 'fcfs', 'eligible'),
   ('0xaf3d97f4450720f9027a4ea2a7adf1f5dd358a17', 'fcfs', 'eligible'),
   ('0xff1ca30542746b697f73f7a7841b3ecb186257fc', 'fcfs', 'eligible'),
-  ('0x4a8689e2b85e4ad6946d39f52444ac53e5fec702', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x4a8689e2b85e4ad6946d39f52444ac53e5fec702', 'fcfs', 'eligible'),
   ('0x0c7ba92bae2307bfa0177323297fac39c0fc73c0', 'fcfs', 'eligible'),
   ('0xde23d3d82765b670b55a685b2957cf9e8c577eb4', 'fcfs', 'eligible'),
   ('0xf00f560b91d1f0b78e794158a604132a6a387316', 'fcfs', 'eligible'),
@@ -6405,7 +7493,10 @@ VALUES
   ('0x3f529f4447e4b53ace6398e8ed7c73bab3248e41', 'fcfs', 'eligible'),
   ('0xbee94271d60334bae86c34039366beee6b6d1dcc', 'fcfs', 'eligible'),
   ('0x8a9dc834b9c246f864e9a7ca72baa09225304fdc', 'fcfs', 'eligible'),
-  ('0xfbcd5ac9b1b7702eb5ad75168be34081aeb599a1', 'fcfs', 'eligible'),
+  ('0xfbcd5ac9b1b7702eb5ad75168be34081aeb599a1', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe159dce308897a3e8db055ee5367f1b6ff847be2', 'fcfs', 'eligible'),
   ('0xe03bf8cc45baf87de641b8fed700f1712c2c4790', 'fcfs', 'eligible'),
   ('0x1b7388208bc5044bda399d4a1f8521d2458669ce', 'fcfs', 'eligible'),
@@ -6422,10 +7513,7 @@ VALUES
   ('0xd71a28297df137eb34aea5f1ce7cbb83af54f9c2', 'fcfs', 'eligible'),
   ('0x3460c82ff23f1b70ac74f64de3a93bb680caa0df', 'fcfs', 'eligible'),
   ('0x83bdfb25530d31ac3ab52f3f805f6076bc3b11e7', 'fcfs', 'eligible'),
-  ('0x6858a6cf305787655efe29d73f21eebfaa2ee24f', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6858a6cf305787655efe29d73f21eebfaa2ee24f', 'fcfs', 'eligible'),
   ('0x819e0a2335f3f04d2f7a715fca468c7af7e8cc63', 'fcfs', 'eligible'),
   ('0x023fc3e4cd5f7981489387140579294bf128ce95', 'fcfs', 'eligible'),
   ('0xa98b752b909021adb450c2713bbf012fd59743ff', 'fcfs', 'eligible'),
@@ -6558,7 +7646,10 @@ VALUES
   ('0x9af05bd96ef8f764c5dc087986d1327bb40a6ee3', 'fcfs', 'eligible'),
   ('0x34a06461916d508f97a29fe96bf52e0d1e798937', 'fcfs', 'eligible'),
   ('0x77e963ad63cb619d88a800793e96317b996c584a', 'fcfs', 'eligible'),
-  ('0xb21adb19a1542175188992cc3e688f7b17c8bce6', 'fcfs', 'eligible'),
+  ('0xb21adb19a1542175188992cc3e688f7b17c8bce6', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x0f8b3db8bcdea3aaf6cec06f6652c4ae91192ac9', 'fcfs', 'eligible'),
   ('0x98650d46f8d65e77e403cce8a9adb2a333feaaaa', 'fcfs', 'eligible'),
   ('0x49f69c13864e4e478078648f3b48151124358a9d', 'fcfs', 'eligible'),
@@ -6575,10 +7666,7 @@ VALUES
   ('0xd4bf86e3a544f00b485430af1d9c06631ac36ca1', 'fcfs', 'eligible'),
   ('0x9678d6c9e81df24c546042c3995c6e6786f184d2', 'fcfs', 'eligible'),
   ('0xa98cf2dea145bcb023a285cb442d130526975bc7', 'fcfs', 'eligible'),
-  ('0xf9b2030ba36f260a7c5c2a8de2be50795c2ef8e8', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xf9b2030ba36f260a7c5c2a8de2be50795c2ef8e8', 'fcfs', 'eligible'),
   ('0xb7034adc1becd589de541e3ed60f453abd0e214b', 'fcfs', 'eligible'),
   ('0x35b217c27b8e191c46f1ddd38ca9410f6474fb53', 'fcfs', 'eligible'),
   ('0x4765077e873b245ba71cda5ab20aa78c2e45f873', 'fcfs', 'eligible'),
@@ -6711,7 +7799,10 @@ VALUES
   ('0x5df635a054adf43754b766f32013ad86ba423e4b', 'fcfs', 'eligible'),
   ('0x4361b400c014d97b374662c7c3d7bdaeb528a775', 'fcfs', 'eligible'),
   ('0x49e4109ffe2613edfe479010af66b6670468722e', 'fcfs', 'eligible'),
-  ('0x58975e857e146e7a0015fb148ec2704111439961', 'fcfs', 'eligible'),
+  ('0x58975e857e146e7a0015fb148ec2704111439961', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x64ae8c704bcf25a85078f31986043d425d002c0c', 'fcfs', 'eligible'),
   ('0x1d00bf3ef4e86ed5b3d05b534d19608d4da1c034', 'fcfs', 'eligible'),
   ('0xce19f64c11012cd51efbb28278424b23fa0a1b4b', 'fcfs', 'eligible'),
@@ -6728,10 +7819,7 @@ VALUES
   ('0x722a59294a421194f17c1857abac0d24a91902b3', 'fcfs', 'eligible'),
   ('0xec9c7859b67f52b07474e73db658688e1cb3aeb7', 'fcfs', 'eligible'),
   ('0xde36289c6d6751f6bf18a4e3bd538d6ab695b3a0', 'fcfs', 'eligible'),
-  ('0x0c1c782519b57568dc77d03bf2c1d9492d13f8ea', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0c1c782519b57568dc77d03bf2c1d9492d13f8ea', 'fcfs', 'eligible'),
   ('0x56881b2fda50afc49478a50526cb2fc7474fa10e', 'fcfs', 'eligible'),
   ('0xb7cca55c7191adcd62929cc9b5072864ce12d132', 'fcfs', 'eligible'),
   ('0xc7aa9ddb59959f2cfebc0f1ae62a43a0af7be8b7', 'fcfs', 'eligible'),
@@ -6864,7 +7952,10 @@ VALUES
   ('0x48c6105b0c2cbac399e5f14e394551010ba2a949', 'fcfs', 'eligible'),
   ('0xeb2368eb1c7eee7356a67894dd31d2fd1cb3cffc', 'fcfs', 'eligible'),
   ('0x6ded89e182cc19491f73184f9909a38af6a0bffc', 'fcfs', 'eligible'),
-  ('0x1c186b8df32ecad8e2560c2bf0352d033265f6d8', 'fcfs', 'eligible'),
+  ('0x1c186b8df32ecad8e2560c2bf0352d033265f6d8', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x4c130e58310b4b0662702d90bfb294be0825a9a0', 'fcfs', 'eligible'),
   ('0x353e48d11801562f88ac3a4f18e7ed5d5b26da2f', 'fcfs', 'eligible'),
   ('0x2f3905acd420a122762e43545fd89d83ccd3d86f', 'fcfs', 'eligible'),
@@ -6881,10 +7972,7 @@ VALUES
   ('0xaf8aa37082739cecd1b1790a17bbe35b4c094f34', 'fcfs', 'eligible'),
   ('0xeaba614d2a8fd1de6cc2b28e6a9e0cae9f3bdf1c', 'fcfs', 'eligible'),
   ('0x5d8216da4d9954ba4f0cca5cdf038c9cd15b5fc2', 'fcfs', 'eligible'),
-  ('0x5bd70c4656846bda310031226d533f955acace4a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x5bd70c4656846bda310031226d533f955acace4a', 'fcfs', 'eligible'),
   ('0xde4a48f5ed8203793b2b1f4ff5a978db3633e3f7', 'fcfs', 'eligible'),
   ('0x33b412d11435950f5efbe767505f4a4df883cd13', 'fcfs', 'eligible'),
   ('0x472692ccac790ce13f5abf5d1971da12b4a02aa2', 'fcfs', 'eligible'),
@@ -7017,7 +8105,10 @@ VALUES
   ('0xf903185dc759bcacf2c2dd6c242071102e363ac6', 'fcfs', 'eligible'),
   ('0xb2b0ba43057cb22563fa12d82ab03dd8c8b0611b', 'fcfs', 'eligible'),
   ('0xbf5cbcd150c475c2dd2ca033409fa75ae6dfdca8', 'fcfs', 'eligible'),
-  ('0xeaf1bd73f060f106bcb239fce71bc15c6adbaccb', 'fcfs', 'eligible'),
+  ('0xeaf1bd73f060f106bcb239fce71bc15c6adbaccb', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x1c6051eb868d656bd7bc17da96ce86f56e7a6e1c', 'fcfs', 'eligible'),
   ('0x859a8f7a410a437a5c78fbc7c9cee3fb554248d8', 'fcfs', 'eligible'),
   ('0xe21528ecc2dba07b0af7637ddb7322f337378fba', 'fcfs', 'eligible'),
@@ -7034,10 +8125,7 @@ VALUES
   ('0x4e7e820058ad050f4fe00a2efa44cf85eb0b4661', 'fcfs', 'eligible'),
   ('0xc97a7da5d6b5a250bcbe6d4dd6ecb95f78ab0029', 'fcfs', 'eligible'),
   ('0x6480b00eb29eeeb9a5cfb9e7c58befa95ae44830', 'fcfs', 'eligible'),
-  ('0x10c5ace9ba4c89528dc2fe60533e0ed5d97f2923', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x10c5ace9ba4c89528dc2fe60533e0ed5d97f2923', 'fcfs', 'eligible'),
   ('0xa5fc47eddc3fb15602d152bf603b465143badf11', 'fcfs', 'eligible'),
   ('0x361dfe46c0557d38daf9321556082e1f46fd292e', 'fcfs', 'eligible'),
   ('0x8648ba1a5f1c0b56bc8779a7a26287b4e7a0d684', 'fcfs', 'eligible'),
@@ -7170,7 +8258,10 @@ VALUES
   ('0xe981c842a6298835ed4e1dc873ba918204d4c369', 'fcfs', 'eligible'),
   ('0x5882c316f663078550c24a14d15c62beba728117', 'fcfs', 'eligible'),
   ('0xa3ca094f86532e679a3d98f6842c508ea506c090', 'fcfs', 'eligible'),
-  ('0xfa24ed88437e25e795c2281ab066fef4d99db976', 'fcfs', 'eligible'),
+  ('0xfa24ed88437e25e795c2281ab066fef4d99db976', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xa691f98d8341e0008d11258fafdb3694ed5fa9b5', 'fcfs', 'eligible'),
   ('0xd2d9ef8abac7d58bf66e6d0813e87e609255eba1', 'fcfs', 'eligible'),
   ('0x9c837b355a7d80bbed893e20498df5db572628b4', 'fcfs', 'eligible'),
@@ -7187,10 +8278,7 @@ VALUES
   ('0x9389b1915bd88744f53ed925742c368a8c80ec37', 'fcfs', 'eligible'),
   ('0xe89371fbe22cb9c10a6b11cd8c5ea29d1e087d9a', 'fcfs', 'eligible'),
   ('0x0bfd89cf32f5a68676c3af8179f7fb241bdeddea', 'fcfs', 'eligible'),
-  ('0x68bb9ee6e9c298255469597e60e12f5a66fca777', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x68bb9ee6e9c298255469597e60e12f5a66fca777', 'fcfs', 'eligible'),
   ('0x87c0c6d5531eb35020064c6fd0cb1a6ec333f483', 'fcfs', 'eligible'),
   ('0xd2fe14c728a5c13410402daac1a56808d9170687', 'fcfs', 'eligible'),
   ('0xaef23e303b1cc348036af342d75ff649d38420e9', 'fcfs', 'eligible'),
@@ -7323,7 +8411,10 @@ VALUES
   ('0x5f6ba01a642bcec8bc576156889ab9ec7a4f9544', 'fcfs', 'eligible'),
   ('0x15c0b2ca204302029293df701af74f70d7328b20', 'fcfs', 'eligible'),
   ('0x65491def8d6485b2c48698f33a0c43d9afd0a4bf', 'fcfs', 'eligible'),
-  ('0x103ee2831b46774d035d3e24fcc852994b91f7b6', 'fcfs', 'eligible'),
+  ('0x103ee2831b46774d035d3e24fcc852994b91f7b6', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x8232ec396f781b61973788e874bd5732e5c30c76', 'fcfs', 'eligible'),
   ('0xa9548b1738cb6d385027d5829c633073e00f0198', 'fcfs', 'eligible'),
   ('0xbc3ffaf1e7b932970cc6920628ecf899e8d7eb8e', 'fcfs', 'eligible'),
@@ -7340,10 +8431,7 @@ VALUES
   ('0x102bff7431427d73a69e7be401ecb483e1dc1d96', 'fcfs', 'eligible'),
   ('0x6f4e2a2680c13bac19d911fd718d5ea5cd97a84e', 'fcfs', 'eligible'),
   ('0xad971ba7db0ba8b00e8d0ea320f6360956dd5510', 'fcfs', 'eligible'),
-  ('0xa9bec552c2e86bec930f8c7433af1a818d8484c4', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa9bec552c2e86bec930f8c7433af1a818d8484c4', 'fcfs', 'eligible'),
   ('0xb9b5c07adb6da5eff7a3ca8d04f42c59aa74f8be', 'fcfs', 'eligible'),
   ('0x55f9dd0c549c32660ada4b92bf62d09ec26754a3', 'fcfs', 'eligible'),
   ('0x07ebc9aeeaaa68854771c889c9cadf518e2e234b', 'fcfs', 'eligible'),
@@ -7476,7 +8564,10 @@ VALUES
   ('0x80d7ef9977794de05c5e14246b85ddc183fe41c9', 'fcfs', 'eligible'),
   ('0xaef0c717c354c94ce2c18ce838162b09c1a9564e', 'fcfs', 'eligible'),
   ('0x382cda33ee8945eb5a7b098d7ba268693210fdc4', 'fcfs', 'eligible'),
-  ('0xa8337335ef3016165e337c811286a0bc53e2f5a6', 'fcfs', 'eligible'),
+  ('0xa8337335ef3016165e337c811286a0bc53e2f5a6', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xa7c5e8185cb31080a8bc9934f2fa1c2434200a4b', 'fcfs', 'eligible'),
   ('0x4d751b206e7b73d5c27616541a84fd9dadbb6969', 'fcfs', 'eligible'),
   ('0x21995ed13c3835f6ad3a5ba53df6c645eacef2ff', 'fcfs', 'eligible'),
@@ -7493,10 +8584,7 @@ VALUES
   ('0x4f2a1dadef2a4b520c898deadf800dd40e1106ba', 'fcfs', 'eligible'),
   ('0xfa3eaf13ad1f88e3ead19d78fde1bf1c27bc8eb2', 'fcfs', 'eligible'),
   ('0x842c1682e3653a45cd8fa59927dcc0530bcf793b', 'fcfs', 'eligible'),
-  ('0x1ee509ddb018b2d50deb23ffecbe49d8e2ab32b1', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x1ee509ddb018b2d50deb23ffecbe49d8e2ab32b1', 'fcfs', 'eligible'),
   ('0x0e23484ad9019a2d5e13f6b18576e756a173b7ee', 'fcfs', 'eligible'),
   ('0x59d8df48e17e5344b44adaa5ccd450d3b69a6ce5', 'fcfs', 'eligible'),
   ('0x2a2211454ea9efe8b84964bd0e85ff89b62d61e4', 'fcfs', 'eligible'),
@@ -7629,7 +8717,10 @@ VALUES
   ('0x2167f7fbacfeec1988ffe7929ae26181859f02d1', 'fcfs', 'eligible'),
   ('0x5335721844fe393b77b3d182cd9fdf595761ba48', 'fcfs', 'eligible'),
   ('0x4dcd5c6d1ab6b6622fb1f6f2435cab8b434bb24d', 'fcfs', 'eligible'),
-  ('0x562cebd45be7e2cb19d6f13f5b5b55e4f1b384cf', 'fcfs', 'eligible'),
+  ('0x562cebd45be7e2cb19d6f13f5b5b55e4f1b384cf', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x8673dd260d020bf42404e131717fd2516152f072', 'fcfs', 'eligible'),
   ('0xad26ae0ffc864c55a0f41ed53538241a71d976aa', 'fcfs', 'eligible'),
   ('0xfbdaff14f0168b8ac5ac96a5c5fa7ff4bc28d819', 'fcfs', 'eligible'),
@@ -7646,10 +8737,7 @@ VALUES
   ('0xe61f0905861e4a42d738a05e7e285f7a63627f79', 'fcfs', 'eligible'),
   ('0xc691061c92a61f4e0de9886746bae9db84969f3e', 'fcfs', 'eligible'),
   ('0x2b4216a7369c0130394f82270bf74e9f1e9ae0be', 'fcfs', 'eligible'),
-  ('0x0350c2422ab8bc5405e8984616256a012a4c6438', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0350c2422ab8bc5405e8984616256a012a4c6438', 'fcfs', 'eligible'),
   ('0x39faa3105e185e5606f23f18549c0e983f08652e', 'fcfs', 'eligible'),
   ('0x9aa3329f55f4851a50f3f8ed0968624c0b3121b4', 'fcfs', 'eligible'),
   ('0x67e3881b5c118daeafd46e40589f5853af301290', 'fcfs', 'eligible'),
@@ -7782,7 +8870,10 @@ VALUES
   ('0x1dfb22c25de73a56b0214aff39000f0032f5b475', 'fcfs', 'eligible'),
   ('0x5dccc5e7127b14b6b8aac39201c6994039b519f6', 'fcfs', 'eligible'),
   ('0xaec1631695cd024002bada141c8363196334d862', 'fcfs', 'eligible'),
-  ('0x82c463fe369de09643a4e9d652da61bf24160b7b', 'fcfs', 'eligible'),
+  ('0x82c463fe369de09643a4e9d652da61bf24160b7b', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x2572f6c0a0f3a2ee15ab0852c3ed1f279a760205', 'fcfs', 'eligible'),
   ('0x383355dc0e68919e0a4c800c8442f5e4c3d01e95', 'fcfs', 'eligible'),
   ('0x7617a87d3861489d6578c6edc2485d1c72f3d13f', 'fcfs', 'eligible'),
@@ -7799,10 +8890,7 @@ VALUES
   ('0x2daa8ceb04bee68c60da0971a65da0a3404e936a', 'fcfs', 'eligible'),
   ('0x7bd0cd4f445daf42b511088898c2cb8a5dd7cf41', 'fcfs', 'eligible'),
   ('0x5e03148078acbf6ce47fb096dce8015c107ae93b', 'fcfs', 'eligible'),
-  ('0xa6e39ce05c4154dd5c3c8ed1ecb73e25404866e3', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa6e39ce05c4154dd5c3c8ed1ecb73e25404866e3', 'fcfs', 'eligible'),
   ('0x1a521949e9baa1445086fd5a79aa826ed261920d', 'fcfs', 'eligible'),
   ('0xbc019d7a1078289d7c82f8ad0d9371170cbdece7', 'fcfs', 'eligible'),
   ('0x9a1e45b36c50f243cd975018bbdf453cb084d6e2', 'fcfs', 'eligible'),
@@ -7935,7 +9023,10 @@ VALUES
   ('0xa1f47cc710beaf19556f43c101bbded4716bd10d', 'fcfs', 'eligible'),
   ('0x05e8413c53d020b59c86f278dc3957e5f49baee5', 'fcfs', 'eligible'),
   ('0x1c0c160b92960bd19022f01bca4818481f3c5a7c', 'fcfs', 'eligible'),
-  ('0xfad1622b9998ba94f22b8fe2b371f18272cf330f', 'fcfs', 'eligible'),
+  ('0xfad1622b9998ba94f22b8fe2b371f18272cf330f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xfbf9880fce237dab4d6049380c8fdd66b44bf086', 'fcfs', 'eligible'),
   ('0xa40277ca4cdf5d3b105c2c797d91c7192dfa7553', 'fcfs', 'eligible'),
   ('0xc4b3860a3c2f9e59e3cd2d9fd2f2ebe6d49ed32b', 'fcfs', 'eligible'),
@@ -7952,10 +9043,7 @@ VALUES
   ('0xb386745fdb4143c988936669d47b2563c38e0ce6', 'fcfs', 'eligible'),
   ('0x9d654e606e7c38923d11c1bc3f0be9240821d805', 'fcfs', 'eligible'),
   ('0xda19a092fd524c507636be416fbe0f644ae72b31', 'fcfs', 'eligible'),
-  ('0x300fd3de4d3df130cb0e41eab5060a8aa5148c5d', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x300fd3de4d3df130cb0e41eab5060a8aa5148c5d', 'fcfs', 'eligible'),
   ('0xe539eb89f918b4c276409cec911668204e3df273', 'fcfs', 'eligible'),
   ('0x2b3eb4e4ec21c9d7349ea2dad22e076cf3f03bbc', 'fcfs', 'eligible'),
   ('0x53e28ad61e5f119c1ec53b49847120305cba52a6', 'fcfs', 'eligible'),
@@ -8088,7 +9176,10 @@ VALUES
   ('0x56966bda7b14b4dc284746b182e9f8ce285ce8ab', 'fcfs', 'eligible'),
   ('0x75d59d047c6d5880cacc2e1ef4b2f6995b084b86', 'fcfs', 'eligible'),
   ('0xac57e4f92050e2cf2b038db8b6f787f8162539c2', 'fcfs', 'eligible'),
-  ('0x382ec208cef3784a3f39f3be093b84e89b0666b0', 'fcfs', 'eligible'),
+  ('0x382ec208cef3784a3f39f3be093b84e89b0666b0', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xdd2d4e134f9b576bd0f052df4283f83100f5c894', 'fcfs', 'eligible'),
   ('0xfe659aa1dd5229f194cdfd8755bc2145ff0fd9a5', 'fcfs', 'eligible'),
   ('0x135fe26cac47211493a41f4897140fb82c48428d', 'fcfs', 'eligible'),
@@ -8105,10 +9196,7 @@ VALUES
   ('0x7d92efdaf41a073717f9ce5e0fdfc7b47e6df8b2', 'fcfs', 'eligible'),
   ('0x064f754c531c4adea7694ff7811e4bf538eb45d7', 'fcfs', 'eligible'),
   ('0x6928f180e0a06787f69f222a259068dae44859ad', 'fcfs', 'eligible'),
-  ('0xa3e2b58727f3d3b785b4e9e7e5206a7e1c00106b', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa3e2b58727f3d3b785b4e9e7e5206a7e1c00106b', 'fcfs', 'eligible'),
   ('0xf0a6a9e6eacdcc01ff41487080ba2e2165b88c2e', 'fcfs', 'eligible'),
   ('0xdc3bad35332b1dbf26250d558bfbb98244858b82', 'fcfs', 'eligible'),
   ('0x5d67ee39c4d5093b6b3fb0c174c3b27b62907565', 'fcfs', 'eligible'),
@@ -8241,7 +9329,10 @@ VALUES
   ('0x07be26c1b2988ee07cb437b69c4580dac54f1bcc', 'fcfs', 'eligible'),
   ('0x28154642385bcb1dc73ba03ecf6d372065d56576', 'fcfs', 'eligible'),
   ('0x0e40e522f7dbb008b810260f893d8544ae36fed3', 'fcfs', 'eligible'),
-  ('0x65f702b90a815fd2512f751898854227387a21d4', 'fcfs', 'eligible'),
+  ('0x65f702b90a815fd2512f751898854227387a21d4', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x079398b361b059e053afcc25894b576beab8778e', 'fcfs', 'eligible'),
   ('0xf7f168a0ed2ba7aff44446f1e46870ff89e15a4f', 'fcfs', 'eligible'),
   ('0xbe714ad9480e0df110473306de6d308b591ba7c7', 'fcfs', 'eligible'),
@@ -8258,10 +9349,7 @@ VALUES
   ('0x9c87a2426b838675e2bc4dcba51fddd95992800c', 'fcfs', 'eligible'),
   ('0x704b44262e25d39012d05f5d508b0e9a2d667e70', 'fcfs', 'eligible'),
   ('0x7f7d346bbb3ee3b073762922e96ad69c27c37c60', 'fcfs', 'eligible'),
-  ('0x6e79977d56ad1775e651d61cbcbe4ab8f4723ff4', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6e79977d56ad1775e651d61cbcbe4ab8f4723ff4', 'fcfs', 'eligible'),
   ('0x0a76a1e959447b395a1ec538475e8cf528977c70', 'fcfs', 'eligible'),
   ('0xc12bd8e0fd771f016f13d6628d9898eda469b30f', 'fcfs', 'eligible'),
   ('0x310f885129dc27ac3fba1cf3566214ad2e4332c1', 'fcfs', 'eligible'),
@@ -8394,7 +9482,10 @@ VALUES
   ('0x7962d1ac48a1e6f757328614dda77051b08959ea', 'fcfs', 'eligible'),
   ('0x1f7faf9bf340f9e82defe8ca674b00f308c506e7', 'fcfs', 'eligible'),
   ('0xacf07cbb836c930dc6813399c3c894935b3c0778', 'fcfs', 'eligible'),
-  ('0x697f8f9e2676375c001ac2754a77a3b1efcd6ca3', 'fcfs', 'eligible'),
+  ('0x697f8f9e2676375c001ac2754a77a3b1efcd6ca3', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xf4a8fd1b1f18425225a057bea6c4e5b3ab3d6880', 'fcfs', 'eligible'),
   ('0xa5f7e850dae6b6036e664d9a6afd4af0f097b0b7', 'fcfs', 'eligible'),
   ('0x9a214e2963f9c18a62f189cab7ba6050673a095f', 'fcfs', 'eligible'),
@@ -8411,10 +9502,7 @@ VALUES
   ('0xb802008e6934ecebff1009f4231b8372343b85f5', 'fcfs', 'eligible'),
   ('0x635d3d124a236833534b7393264279bf75c6940e', 'fcfs', 'eligible'),
   ('0x2871554ade450475c086338176b6f0dca0a5fd5d', 'fcfs', 'eligible'),
-  ('0xc13f9e1d770c54e36ea6ab33cb00c8ec029c565f', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xc13f9e1d770c54e36ea6ab33cb00c8ec029c565f', 'fcfs', 'eligible'),
   ('0x283f66b010b41557f9731108a3406bc2422e5c82', 'fcfs', 'eligible'),
   ('0x36abd0b0df7d772fd19a82e58aa3583d05277583', 'fcfs', 'eligible'),
   ('0x38eeb4cd384da8e9144458a000353a9f9f31924e', 'fcfs', 'eligible'),
@@ -8547,7 +9635,10 @@ VALUES
   ('0x78b7fc8a569de8ad6e9d03dcac303abe99a3ee05', 'fcfs', 'eligible'),
   ('0x87baca4dcb013748cf50ca988d62e18a169c2dc0', 'fcfs', 'eligible'),
   ('0x5324ff2b16c415491cb72dd59a6450d20842c7a2', 'fcfs', 'eligible'),
-  ('0x18cfed95ecef5d37285b63893ea6f748eaad45ef', 'fcfs', 'eligible'),
+  ('0x18cfed95ecef5d37285b63893ea6f748eaad45ef', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x34a3ff88359400380a517157e9444bdc5a49142d', 'fcfs', 'eligible'),
   ('0x54679b5bfb2bd6925bd1be244d2d09b1c4df497a', 'fcfs', 'eligible'),
   ('0x6f95195c5db5683b705f05b6c704c6c95a824955', 'fcfs', 'eligible'),
@@ -8564,10 +9655,7 @@ VALUES
   ('0x6017c4dff44acf678f255cfc2e9906b925954f2e', 'fcfs', 'eligible'),
   ('0xa16a420be28edbc2c6a283be56a7d39eb36fa4ff', 'fcfs', 'eligible'),
   ('0x037a81b9a04668c0a733cc1cdd692fb91843d69c', 'fcfs', 'eligible'),
-  ('0x71d059051f02d527fa06c082207792b83387d43e', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x71d059051f02d527fa06c082207792b83387d43e', 'fcfs', 'eligible'),
   ('0x4ff4f899224f0abb82947dbda01fe19b31055850', 'fcfs', 'eligible'),
   ('0x671dd17e589d92c7a3b24372ff4c6e27fa000372', 'fcfs', 'eligible'),
   ('0x365b6d3d5832810a07bcbf38c657ad820644854c', 'fcfs', 'eligible'),
@@ -8700,7 +9788,10 @@ VALUES
   ('0x02f88aea2c100c3af9014b434b3b5770243630b4', 'fcfs', 'eligible'),
   ('0x23de10940acc8f801fbea2d5b27dc2c684e9a7e1', 'fcfs', 'eligible'),
   ('0x59229161f60ccc2a66fa7542edff05e712bf608b', 'fcfs', 'eligible'),
-  ('0x5ccaf8b5fc6530d0069dd44c458d8cd4993fd09c', 'fcfs', 'eligible'),
+  ('0x5ccaf8b5fc6530d0069dd44c458d8cd4993fd09c', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x157ff7277b718bf6f1cd1f028edd7da733898139', 'fcfs', 'eligible'),
   ('0x2624695357193932a9e194dacd6abfb5a9d5c6b1', 'fcfs', 'eligible'),
   ('0x135599253a8c4492f9cef399149976badd13b8cf', 'fcfs', 'eligible'),
@@ -8717,10 +9808,7 @@ VALUES
   ('0x65e264720b3eead363bb446002952955f15c175d', 'fcfs', 'eligible'),
   ('0x0f5a127986d5e101779d243b90d5ac0a7eb2529b', 'fcfs', 'eligible'),
   ('0xbf222be91c4df4b132e03e85028b7eb77e0e3f3a', 'fcfs', 'eligible'),
-  ('0x996e4245f46c682bf96f46c1e2e527990b3c4938', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x996e4245f46c682bf96f46c1e2e527990b3c4938', 'fcfs', 'eligible'),
   ('0x6f0a1ebc3d3d9432fcff639e714416c0024ca75e', 'fcfs', 'eligible'),
   ('0x78748ee8f479c2f5c14bc10f5b6f32a254b89f4d', 'fcfs', 'eligible'),
   ('0x67d067d82b7af7e2834620a6665265584a311a6c', 'fcfs', 'eligible'),
@@ -8853,7 +9941,10 @@ VALUES
   ('0xac906afd3822e774afd35e1777b9c03f9dc9eac8', 'fcfs', 'eligible'),
   ('0x47c93babbb310163d5ce57231b2e5bd59cd56568', 'fcfs', 'eligible'),
   ('0x19f1d7305b5fd4f7f08ca330062568ea0e1e3ddd', 'fcfs', 'eligible'),
-  ('0x8febea70a9682f1df9ae8896a38bbccf32188534', 'fcfs', 'eligible'),
+  ('0x8febea70a9682f1df9ae8896a38bbccf32188534', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xc21d39314507b3dfbb8d9c418c8e5975a3a9a931', 'fcfs', 'eligible'),
   ('0x8bea4a53f83a17b2232094a35ece50c4ebe9ffae', 'fcfs', 'eligible'),
   ('0x1a514ee5e2c0790bf5060c779413b5fca5bf68a4', 'fcfs', 'eligible'),
@@ -8870,10 +9961,7 @@ VALUES
   ('0xb49a6c8e792ba26076e691475f3e58ef4186db8f', 'fcfs', 'eligible'),
   ('0xc411f1a99076577e56047a864f06fa6e3fc3ea21', 'fcfs', 'eligible'),
   ('0x851645347e123403492b005c5154ae827c281ffc', 'fcfs', 'eligible'),
-  ('0x5575ebe7283eeb41a03a9f0c39d5e14150da4e9e', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x5575ebe7283eeb41a03a9f0c39d5e14150da4e9e', 'fcfs', 'eligible'),
   ('0xbb13e74c8a0d38ef13ff02c2278b2744521fbdfb', 'fcfs', 'eligible'),
   ('0xeb2a7a607483320fe1f8929b130aaae2ca736dfd', 'fcfs', 'eligible'),
   ('0xa15e97a3d1d225b96acf20f9b1c5e9f2c9232b46', 'fcfs', 'eligible'),
@@ -9006,7 +10094,10 @@ VALUES
   ('0x372a277d63481f91e92f0475fea874bc87cab9ec', 'fcfs', 'eligible'),
   ('0x9d3f75eed24777206416564b0f5a2a7555ddac48', 'fcfs', 'eligible'),
   ('0xc0752e38f80d315101c217b9b8d85a553c1e5fdd', 'fcfs', 'eligible'),
-  ('0x3b3ee1fb1941f5269f8656f683bd604f058725ea', 'fcfs', 'eligible'),
+  ('0x3b3ee1fb1941f5269f8656f683bd604f058725ea', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x418c414333f1323bdebc7d66fe12a59a8462ae57', 'fcfs', 'eligible'),
   ('0x521a21096a860eedbfd980512f064a38f3aca65f', 'fcfs', 'eligible'),
   ('0x6826b37db7d74b3976a67406a5770dd31b11fd7e', 'fcfs', 'eligible'),
@@ -9023,10 +10114,7 @@ VALUES
   ('0x6348e100fd050107c1ccb67259159ebbcb3cd499', 'fcfs', 'eligible'),
   ('0xd4ce96930b21fd37d12b7e3094d0989f18e38335', 'fcfs', 'eligible'),
   ('0x1732b21ce47c66b9be183448cdfdda06c59c8645', 'fcfs', 'eligible'),
-  ('0x5dab9fe17c748d2dcc1f54f4ebbe219d5f881be6', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x5dab9fe17c748d2dcc1f54f4ebbe219d5f881be6', 'fcfs', 'eligible'),
   ('0x904f3ffb8a125792a0e2c5bdf9e82d5cc6ebc01d', 'fcfs', 'eligible'),
   ('0x863da5425d9421c2b8f2bb27b6a209260459ccdc', 'fcfs', 'eligible'),
   ('0xb21c1067f8596117041c0dd32e7ab08896accfd3', 'fcfs', 'eligible'),
@@ -9159,7 +10247,10 @@ VALUES
   ('0x870c49c43696b5561113cc807a20700e10ac4ae7', 'fcfs', 'eligible'),
   ('0x3e6a9e1b4c8c78f3926e779989d7cc9d8b9c7218', 'fcfs', 'eligible'),
   ('0x8bf34db04695c876012e5d3bf0d0c662a076d815', 'fcfs', 'eligible'),
-  ('0x5134323b70f5f0041c023fbda3a557b7879dd528', 'fcfs', 'eligible'),
+  ('0x5134323b70f5f0041c023fbda3a557b7879dd528', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x3b24058510b4ad14f9b0f85b515aa03962d26baa', 'fcfs', 'eligible'),
   ('0x2db0996c2233d073321c28432e9fd9b45d596700', 'fcfs', 'eligible'),
   ('0x270df6e31332a68588c47679c00949a56e8e8837', 'fcfs', 'eligible'),
@@ -9176,10 +10267,7 @@ VALUES
   ('0x2e91d9fe56525369f9df0a6419e8aaaabd229dad', 'fcfs', 'eligible'),
   ('0xe906fb1da3f0ebf5e09b22d90567c02978fc6054', 'fcfs', 'eligible'),
   ('0xc748626e683e02efa15cfd60e3261f79190481ae', 'fcfs', 'eligible'),
-  ('0x45f14dcd4f1840a922c368991fc1288f34bcae77', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x45f14dcd4f1840a922c368991fc1288f34bcae77', 'fcfs', 'eligible'),
   ('0x552f08444cf896d32f7c4343f1c9ec1da3cd0798', 'fcfs', 'eligible'),
   ('0x6b1e649eb58bed54a514e345646c49d3c3cd1266', 'fcfs', 'eligible'),
   ('0x4d68b99fa07bae75de87bce781646d913995b3dd', 'fcfs', 'eligible'),
@@ -9312,7 +10400,10 @@ VALUES
   ('0xab70a9a3019c7adf385a70f5ec1b0bad554f3d1f', 'fcfs', 'eligible'),
   ('0xa107310dc72cf171d33e5acb48790a3d82a38854', 'fcfs', 'eligible'),
   ('0x9cd06a855fd77660b94880dccb024aad4e10fa63', 'fcfs', 'eligible'),
-  ('0xd4ab1de27b5f74a51ba97749dc51d4f7a7ef73f4', 'fcfs', 'eligible'),
+  ('0xd4ab1de27b5f74a51ba97749dc51d4f7a7ef73f4', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xc3be2dd235a27b9962a45d97415bd531abccd498', 'fcfs', 'eligible'),
   ('0xbbd7076af80a24be2afa637d42d99d308e23e46b', 'fcfs', 'eligible'),
   ('0xac7933e4dd1f31385117c2b73085c68ecd908eec', 'fcfs', 'eligible'),
@@ -9329,10 +10420,7 @@ VALUES
   ('0x885410b541004a15588e4ac876ebe417bcc8f893', 'fcfs', 'eligible'),
   ('0x30d5e9c6b4134de6f3b930c4c064092f4b5e4b9c', 'fcfs', 'eligible'),
   ('0xfb1211ca8353c9d1b3f472fa1dc035ce5e8a2891', 'fcfs', 'eligible'),
-  ('0x6f624c46cd47ec552977f3393eb478ba539a798f', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6f624c46cd47ec552977f3393eb478ba539a798f', 'fcfs', 'eligible'),
   ('0x54daefb6fae86972e2b3a7967ddb7cef79042b92', 'fcfs', 'eligible'),
   ('0xcde3154d494e31960ebb52ffcc1829166ea1656e', 'fcfs', 'eligible'),
   ('0xadbc8b0ad66e54d0f46b8cceedff500518a0938b', 'fcfs', 'eligible'),
@@ -9465,7 +10553,10 @@ VALUES
   ('0x4db728e47122c0cfc1951845a268b6f6771f5a5c', 'fcfs', 'eligible'),
   ('0x5803d3bb9cf4160e7280c6a0516778ec7d8a33e3', 'fcfs', 'eligible'),
   ('0x437826c7f36a60759f606793118351bffcc81474', 'fcfs', 'eligible'),
-  ('0x2d3d07203609cae15c0a67c2f3b4ad566d292333', 'fcfs', 'eligible'),
+  ('0x2d3d07203609cae15c0a67c2f3b4ad566d292333', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x230db0453992419c35ee99ea336cfa22fbe6dfb4', 'fcfs', 'eligible'),
   ('0x27dc800ce23c9cd66381ca5741ac82982a103b18', 'fcfs', 'eligible'),
   ('0x39dba593c66ee6e3d3572e8a2856876161e6685a', 'fcfs', 'eligible'),
@@ -9482,10 +10573,7 @@ VALUES
   ('0x605fe47ae98806995491efa041e252b711e72826', 'fcfs', 'eligible'),
   ('0xc1eff5f80f0efc358209748cfcd18d35b966c163', 'fcfs', 'eligible'),
   ('0x9287f617233f264f325b6c5ddf41076fdca01e82', 'fcfs', 'eligible'),
-  ('0xa00ae569f64a3188dc8af0508ef02818fb20d61c', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa00ae569f64a3188dc8af0508ef02818fb20d61c', 'fcfs', 'eligible'),
   ('0xa1e125714bf937b328ce51aae835162c7f9b98a4', 'fcfs', 'eligible'),
   ('0x08f727ba92a04596e07e504b2f55eaa938dcc48a', 'fcfs', 'eligible'),
   ('0xe22ea7654b8ee27a3a0a57058e565d92bd6ca269', 'fcfs', 'eligible'),
@@ -9618,7 +10706,10 @@ VALUES
   ('0x074896702cfe559795225215252bdd5d98c3a60f', 'fcfs', 'eligible'),
   ('0xc14d9314e1885cbf42c3ec70d6ae076d41e9d376', 'fcfs', 'eligible'),
   ('0xcb89cf5e783cb4ee43ba27698f101546f24eeaeb', 'fcfs', 'eligible'),
-  ('0x198a939a6d1bd3bb8b2b5c2eb5f4c1f7157b3a90', 'fcfs', 'eligible'),
+  ('0x198a939a6d1bd3bb8b2b5c2eb5f4c1f7157b3a90', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x979bca4140ff725120ab2601b319fa54ea786998', 'fcfs', 'eligible'),
   ('0x2723724e94a5416d267ca583b04c6e3722ac9fbc', 'fcfs', 'eligible'),
   ('0x39f640c8d11446b60be3c0ab738df12b02675b5a', 'fcfs', 'eligible'),
@@ -9635,10 +10726,7 @@ VALUES
   ('0x8091046216c62890ff36ee16a275e4b32dab705f', 'fcfs', 'eligible'),
   ('0x04043943eb2789a96e93fda0aac9ca0a03ae3bf4', 'fcfs', 'eligible'),
   ('0x221fe9fd849a72299f92d48f1b31da7c9b24c813', 'fcfs', 'eligible'),
-  ('0x0514b7dd6cea4e571b4af790e9cac716962aac76', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0514b7dd6cea4e571b4af790e9cac716962aac76', 'fcfs', 'eligible'),
   ('0xebd507d297c4788b4fe6496d7427bc8dead4334f', 'fcfs', 'eligible'),
   ('0xbd3e2a582e26b442d58c3f8e3af952b3083070e8', 'fcfs', 'eligible'),
   ('0x2e629dd5ff327a747bd2294efa3f624b5772509d', 'fcfs', 'eligible'),
@@ -9771,7 +10859,10 @@ VALUES
   ('0xa674a2489f63cd970f1781faa32f787f6d7aebd3', 'fcfs', 'eligible'),
   ('0xa763de3323694a85efb5b846f575ade95df829d1', 'fcfs', 'eligible'),
   ('0xa3664a6053a1e9b7b618db89f61487a9aca57b55', 'fcfs', 'eligible'),
-  ('0x58134c99d3e55a5e8ba93f1a1edd1503bdebb0d0', 'fcfs', 'eligible'),
+  ('0x58134c99d3e55a5e8ba93f1a1edd1503bdebb0d0', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x2abc70cbeac69405a6e0d87019f2772e423b5cc2', 'fcfs', 'eligible'),
   ('0xf1fb20cff6257b17843700703b86f5cc63688eb1', 'fcfs', 'eligible'),
   ('0x8e26513e59045c0f57f5b15618e9644d82ec7294', 'fcfs', 'eligible'),
@@ -9788,10 +10879,7 @@ VALUES
   ('0x4a89c13f8fc28fd246d3a95715ad52ac614af516', 'fcfs', 'eligible'),
   ('0xacc1c085dd3f16e7f7e50373f7bf8064ca892147', 'fcfs', 'eligible'),
   ('0x9803844b2aefa892ecb784435462912d6d3cbe53', 'fcfs', 'eligible'),
-  ('0xe4171dd58049b12b70becc0ad53ae5488b81d5ec', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xe4171dd58049b12b70becc0ad53ae5488b81d5ec', 'fcfs', 'eligible'),
   ('0x1790121fd515b4e97afbbb56ecbd373ca5e6cc7e', 'fcfs', 'eligible'),
   ('0x699366630f2a0575c112fb0f955c2d38773140f5', 'fcfs', 'eligible'),
   ('0xff0074005c10e9d85d7f761e8db3da2d0b180af1', 'fcfs', 'eligible'),
@@ -9924,7 +11012,10 @@ VALUES
   ('0x7ec26a961094d20c77e4ec2509f5b12ef9e563d9', 'fcfs', 'eligible'),
   ('0x2395c3195e581bc2c883edc3fdfad6e894ac827d', 'fcfs', 'eligible'),
   ('0x6a45a1665d7a1bfdddb523c854a68b48feb15341', 'fcfs', 'eligible'),
-  ('0x26850986d3d3f189e510a782a5d1b2414943ba9f', 'fcfs', 'eligible'),
+  ('0x26850986d3d3f189e510a782a5d1b2414943ba9f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xcb9c726071529874c10b4f4ee5a5f88ce9782a34', 'fcfs', 'eligible'),
   ('0x0e4200b7fea35e2d0a8d076fb680a16cf0f27aba', 'fcfs', 'eligible'),
   ('0xe1e9ab8236444fd108438799b35414e9156177c6', 'fcfs', 'eligible'),
@@ -9941,10 +11032,7 @@ VALUES
   ('0x6ea0fbe1cdc70e42fdf71159fcdb66183cc7cead', 'fcfs', 'eligible'),
   ('0xd4c8fd5bc8fc538a1297b3bf66a51458a7b0f465', 'fcfs', 'eligible'),
   ('0x52a91cbdd36fddefa9d994705c1381f3b385fb04', 'fcfs', 'eligible'),
-  ('0x6499b2bde4b3342726695297908d6ad68e94b85a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6499b2bde4b3342726695297908d6ad68e94b85a', 'fcfs', 'eligible'),
   ('0xaace03bea3e6225edd04ad7b0405b5a8e19990a1', 'fcfs', 'eligible'),
   ('0x12842c1308111f78309032e04e55514f9f49d40b', 'fcfs', 'eligible'),
   ('0x80e0902921bf22c1e452376fd3a6c0e998868c96', 'fcfs', 'eligible'),
@@ -10077,7 +11165,10 @@ VALUES
   ('0x1986c90e3d2851acb68569d96667b9472a2bd06b', 'fcfs', 'eligible'),
   ('0x916d8203e618bae66a92a99003eec85574de4eda', 'fcfs', 'eligible'),
   ('0x1218423a28d515102256c3adaa28012614c55860', 'fcfs', 'eligible'),
-  ('0xf073f681bc5123745e6e3a767dc6b3bd9a15f379', 'fcfs', 'eligible'),
+  ('0xf073f681bc5123745e6e3a767dc6b3bd9a15f379', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x9790c0bd7c318921e701231e9b945500e7917899', 'fcfs', 'eligible'),
   ('0xc44d20fb14abd4ebef4de46d185a72b62b5cfba3', 'fcfs', 'eligible'),
   ('0xd23fca8714fa5cab13fa60561a971a850e481ea0', 'fcfs', 'eligible'),
@@ -10094,10 +11185,7 @@ VALUES
   ('0x97e50e058b1f14a6b1faecf296897504ed2d21d5', 'fcfs', 'eligible'),
   ('0x64b2e3bafaab845238db4c221495634497df038c', 'fcfs', 'eligible'),
   ('0x851ab51836f034c5f3bc81a8b6e8d10721e579ec', 'fcfs', 'eligible'),
-  ('0x8ed6914c275f0d260d8caf5d18a9603c5b5b42c7', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x8ed6914c275f0d260d8caf5d18a9603c5b5b42c7', 'fcfs', 'eligible'),
   ('0x1c8822865c63fe92d2c4affd31dbef2fefbbd4f8', 'fcfs', 'eligible'),
   ('0x2d4ac49cf8bbde9c5c93a065ccec7180db7c11b8', 'fcfs', 'eligible'),
   ('0x29f7c72824675f14931c5191999f0afd1c9e07d9', 'fcfs', 'eligible'),
@@ -10230,7 +11318,10 @@ VALUES
   ('0x81524e9d952f265cca0c146d3d0ec6cb5b0c9717', 'fcfs', 'eligible'),
   ('0x0fe7ee439eab221cae721130eab2901ac27249b2', 'fcfs', 'eligible'),
   ('0x9bf9f989f6a53fff75ee1b29d6e9e9a3e55af41a', 'fcfs', 'eligible'),
-  ('0x64047ab6393d765c6249a59b028b33264cd23bd3', 'fcfs', 'eligible'),
+  ('0x64047ab6393d765c6249a59b028b33264cd23bd3', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x6f0d7475e5d72ce18f200def78b3a5d7fc6c4fbe', 'fcfs', 'eligible'),
   ('0x5817296238914be80cd8e96d66de1919e9090487', 'fcfs', 'eligible'),
   ('0x90d7edce7cec9fd8ae915bb5094592beb21f84d0', 'fcfs', 'eligible'),
@@ -10247,10 +11338,7 @@ VALUES
   ('0xc14ec54c47f6fb9cf9f23c00f08af0944cee3168', 'fcfs', 'eligible'),
   ('0xe1cd1b726b67416809630628c9cfd04f2f4132df', 'fcfs', 'eligible'),
   ('0x53e4643c0ecb0d05537e5cee2bb219764c817d1f', 'fcfs', 'eligible'),
-  ('0xa5c03105e2ead49212e6f4b0ffac87aa31d38a76', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa5c03105e2ead49212e6f4b0ffac87aa31d38a76', 'fcfs', 'eligible'),
   ('0xf2cfb5f66582987fe63dd91b50cc838c74159f97', 'fcfs', 'eligible'),
   ('0x9592ee87147c57a9e52aedab4a692d1476d41155', 'fcfs', 'eligible'),
   ('0xb5d2a60051d4c34f1f004fce4cf37af379ec4774', 'fcfs', 'eligible'),
@@ -10383,7 +11471,10 @@ VALUES
   ('0x5069baabbff3ff204473fdfddf597c3154f501ee', 'fcfs', 'eligible'),
   ('0x2a32df507cf3c2d350f0e49b10ecb4414f652c6b', 'fcfs', 'eligible'),
   ('0xff51cea2ec4f78c18c49af2010748b36aa9e037a', 'fcfs', 'eligible'),
-  ('0x350b4847b20532a6810b3ed4931ea414eb78d45c', 'fcfs', 'eligible'),
+  ('0x350b4847b20532a6810b3ed4931ea414eb78d45c', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x21f8b9f83c8651cd6e382c5bc276038b1465ac34', 'fcfs', 'eligible'),
   ('0x304b3baf0f3e18c76b6d3ef51b00b7eb86ed1bd3', 'fcfs', 'eligible'),
   ('0x87546327d8ff9695bd4fc37a7ae67b14655a22ce', 'fcfs', 'eligible'),
@@ -10400,10 +11491,7 @@ VALUES
   ('0x0e50d296b809f0743f85bd2c5928a5617e6ada51', 'fcfs', 'eligible'),
   ('0x69211ac115ed1cbd988f56fa49eb1e350b483f6d', 'fcfs', 'eligible'),
   ('0xe198c1bc5fcf1af46fb066a90bedb3ce10aa1019', 'fcfs', 'eligible'),
-  ('0x592e39799f0f058ab667dd262413c7a9d7481695', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x592e39799f0f058ab667dd262413c7a9d7481695', 'fcfs', 'eligible'),
   ('0x18ae977ea4398bb277abbe74febc7b8b28acc1be', 'fcfs', 'eligible'),
   ('0x146b9bfb94f75c59888762ff3b00af326012616e', 'fcfs', 'eligible'),
   ('0x3be8e819cbcc310e079f05680acb1eddc9d7b408', 'fcfs', 'eligible'),
@@ -10536,7 +11624,10 @@ VALUES
   ('0x2bed0081977ebb59a356b098e1b2329863a4f4f7', 'fcfs', 'eligible'),
   ('0xc187991dc47d7face45e4625f25dd0da8fb1e7c1', 'fcfs', 'eligible'),
   ('0xccd3359f73b1766dfdaad5ad8c195a214db88c91', 'fcfs', 'eligible'),
-  ('0xbdd0e6ebabe8c8bb735e556c8d50713233f8af3c', 'fcfs', 'eligible'),
+  ('0xbdd0e6ebabe8c8bb735e556c8d50713233f8af3c', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x777790924171d9844b5a0d47ccb3c5db18ec492e', 'fcfs', 'eligible'),
   ('0x02ba2fd314d04ec8b751022c830392d5dfbdcc50', 'fcfs', 'eligible'),
   ('0xb9a02d6dde7e41ced14d4ca6b1e6568b6176906e', 'fcfs', 'eligible'),
@@ -10553,10 +11644,7 @@ VALUES
   ('0x522e139ba6a44b329baac7befbfe8881dceef9f1', 'fcfs', 'eligible'),
   ('0xb491980e2a138e2c7729ff380a946dcd76725ce4', 'fcfs', 'eligible'),
   ('0x62d71c12defc83f52e98b693210932e65c3bf6fd', 'fcfs', 'eligible'),
-  ('0x26a6667790fcbe07a1efc8323619cf18bebc4247', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x26a6667790fcbe07a1efc8323619cf18bebc4247', 'fcfs', 'eligible'),
   ('0x24bb9deaa234726d4143174f6927c402fbdc7b1e', 'fcfs', 'eligible'),
   ('0x6f9a3c806b88bd37ef28de2b238bf35374057306', 'fcfs', 'eligible'),
   ('0x8d84a76b89cc11b9aa89b004710304c83c1c7433', 'fcfs', 'eligible'),
@@ -10689,7 +11777,10 @@ VALUES
   ('0x161ee8cf17d3aa9c32aa579296504f901f3ea516', 'fcfs', 'eligible'),
   ('0x8ea2b8a1d6e1eb6e4b21ce1cfa961474e7d7f93a', 'fcfs', 'eligible'),
   ('0xd84fe4c711a8dfa23acbe1f64c92263f2deb6aa3', 'fcfs', 'eligible'),
-  ('0xa27bf22ef40edcf2e0ef5a2bf78de19dd3202ffe', 'fcfs', 'eligible'),
+  ('0xa27bf22ef40edcf2e0ef5a2bf78de19dd3202ffe', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xcb8955f6bfeba008af9674b437f64c9573b71751', 'fcfs', 'eligible'),
   ('0xf5251d854a43e7416e603932bea10a3422582c0d', 'fcfs', 'eligible'),
   ('0x0c49ea1a4706a6f875472f02a49afc0afca1a2ce', 'fcfs', 'eligible'),
@@ -10706,10 +11797,7 @@ VALUES
   ('0xb2cae99f7541c98775b3bce192ffc28e852d41f5', 'fcfs', 'eligible'),
   ('0x9cf27c9b1f9b532fd9a1289865bd1677ab0308b6', 'fcfs', 'eligible'),
   ('0x3c97e6dd37e7b138799380fd1bdff62762bed9c4', 'fcfs', 'eligible'),
-  ('0x46bead34dcde2c341c39989fc512e70321446c01', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x46bead34dcde2c341c39989fc512e70321446c01', 'fcfs', 'eligible'),
   ('0x32f395f7caa6add05219a00e6afb73cee1074f40', 'fcfs', 'eligible'),
   ('0x7d2cbbed04bed709ce7c858ef9f1f6220874564a', 'fcfs', 'eligible'),
   ('0xdbd0e056528b768e1763c2c5873af7c80209afc3', 'fcfs', 'eligible'),
@@ -10842,7 +11930,10 @@ VALUES
   ('0x812a0ef2d4f95f79aaf190a62a9201a78c1791fd', 'fcfs', 'eligible'),
   ('0x3b8f0744bf17d851b2dfbb41dc2fe6184da02686', 'fcfs', 'eligible'),
   ('0xcffa096b02939c034b325f169565dad6b1146b4e', 'fcfs', 'eligible'),
-  ('0x58806d6b9cc3dfb80d930f9a9dd858152d0ded40', 'fcfs', 'eligible'),
+  ('0x58806d6b9cc3dfb80d930f9a9dd858152d0ded40', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xaa5883b53422ea8a6466fe8b0414d7d1684635e9', 'fcfs', 'eligible'),
   ('0xb49a039fc937ff71ac22a5c8569f0c2fc74eec13', 'fcfs', 'eligible'),
   ('0xf44822b8028a10f1ecede6df0d201a2aa50683ed', 'fcfs', 'eligible'),
@@ -10859,10 +11950,7 @@ VALUES
   ('0x3e30b613ee8935d2f32db99c7af1859582b48029', 'fcfs', 'eligible'),
   ('0xf4daf97f5f809d750bfd53d6d4a4e977827e589c', 'fcfs', 'eligible'),
   ('0xce649e902c9383696c41e2ffcf40fa54df9941fb', 'fcfs', 'eligible'),
-  ('0x8f5e02e7fa93f43ef3d465af5fed8f5755836d06', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x8f5e02e7fa93f43ef3d465af5fed8f5755836d06', 'fcfs', 'eligible'),
   ('0x4d486d228c2bf33c4c17a10c71e831a756ed46bb', 'fcfs', 'eligible'),
   ('0x65f060c550364207f3928bfa776216a0435d158e', 'fcfs', 'eligible'),
   ('0xec6132b55385543eb91e27266cd55f17017aafdc', 'fcfs', 'eligible'),
@@ -10995,7 +12083,10 @@ VALUES
   ('0x3baf6e3ca05875a56b77c318c5f255b8f132887a', 'fcfs', 'eligible'),
   ('0x732270367223c0016ef25b1ad8b25236a34ab6d0', 'fcfs', 'eligible'),
   ('0x7b6cff13b8c06bd176fae26baa1a6254e3c38ee6', 'fcfs', 'eligible'),
-  ('0xa3b6ffc6f5219d186bfa8da2561af4f8e1b6fc32', 'fcfs', 'eligible'),
+  ('0xa3b6ffc6f5219d186bfa8da2561af4f8e1b6fc32', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x8280e9c0d0b2eb58cc9ac67a4b758de0388e736e', 'fcfs', 'eligible'),
   ('0x67b6cde17943f031bb85affafd62b146ea7377df', 'fcfs', 'eligible'),
   ('0xf98a9269aa44b59d2f055b1136b251ceead92d66', 'fcfs', 'eligible'),
@@ -11012,10 +12103,7 @@ VALUES
   ('0xd08547b97b2b7be93e218b32f5d13bba9537dff5', 'fcfs', 'eligible'),
   ('0xe03a8e57c60b10aec2ff85391336303ae96b2791', 'fcfs', 'eligible'),
   ('0xc7b2917852e8a909f5d94c5d854700b53b552ced', 'fcfs', 'eligible'),
-  ('0x8948668a6ece70856278afa6861d7fa55e467d16', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x8948668a6ece70856278afa6861d7fa55e467d16', 'fcfs', 'eligible'),
   ('0xc2493cdd73384e2d815bf2b360d6d6617d3860e7', 'fcfs', 'eligible'),
   ('0x13107d4c6ee29d13e33f168ed2239c59e5226223', 'fcfs', 'eligible'),
   ('0x068f41b33940d241ca591677d90704ac13b17027', 'fcfs', 'eligible'),
@@ -11148,7 +12236,10 @@ VALUES
   ('0xfc175b55b61f4f6a766fd8ec88e8babbe8c536cd', 'fcfs', 'eligible'),
   ('0xa437df61105628d9e79a1fdedac785039d114f72', 'fcfs', 'eligible'),
   ('0x47d2d754721f6470b134c260be29e8f6e6b93bae', 'fcfs', 'eligible'),
-  ('0x0e54ebf5bdeecafa0836bfa361a8faff473f1f91', 'fcfs', 'eligible'),
+  ('0x0e54ebf5bdeecafa0836bfa361a8faff473f1f91', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xb02f921ca06d07fb56454a5dfca75e38a7349c34', 'fcfs', 'eligible'),
   ('0xebb731ebebacb15c8b36786bee6cea15f90c7691', 'fcfs', 'eligible'),
   ('0x29c4c4e0e2a29f200ab3c4e376519cd9596511b4', 'fcfs', 'eligible'),
@@ -11165,10 +12256,7 @@ VALUES
   ('0x45360dcedee30b8beea496b677d412b9beeda961', 'fcfs', 'eligible'),
   ('0xd451db15d03fc0b75fe21601af30d9beb28e3588', 'fcfs', 'eligible'),
   ('0x6169e9a27280c238b6fc063db7289c7ac31fb737', 'fcfs', 'eligible'),
-  ('0xbb204b03c5c3861e94126279ffaf9a469cc8bf8c', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xbb204b03c5c3861e94126279ffaf9a469cc8bf8c', 'fcfs', 'eligible'),
   ('0x4b7b0ccb142c2c9acf4755469673630c9246c373', 'fcfs', 'eligible'),
   ('0x8099c86a69fc978b8e8cd8329e7a802809ab8432', 'fcfs', 'eligible'),
   ('0x7ee31f9e31c8d30468182cdddba7c69f92a0de2d', 'fcfs', 'eligible'),
@@ -11301,7 +12389,10 @@ VALUES
   ('0x3c5fabaf1def4f5acbcd1b0b12e7d6f1f5345d85', 'fcfs', 'eligible'),
   ('0x1bda8b94169d29821ba11dc0fecadbdf123dc949', 'fcfs', 'eligible'),
   ('0xf07ead90ffd072a852259d455434850c894b1258', 'fcfs', 'eligible'),
-  ('0x626ff7ecb8d4c623e8f3c630e76c63d980165676', 'fcfs', 'eligible'),
+  ('0x626ff7ecb8d4c623e8f3c630e76c63d980165676', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x9d88d63c84060ae37954ee837faca8ac10be3434', 'fcfs', 'eligible'),
   ('0xa853681d99f00494a196a852d98345b689fe2839', 'fcfs', 'eligible'),
   ('0x36b3a80dc15bf908ee1010fd66872356a5026442', 'fcfs', 'eligible'),
@@ -11318,10 +12409,7 @@ VALUES
   ('0x0b42bd0233e49cffe403929c865a61c112d889ca', 'fcfs', 'eligible'),
   ('0x279ee7b84d89abecf471c04203aa45e3ab75bd8d', 'fcfs', 'eligible'),
   ('0xe428c24d8c8d68b3f68f21354ff1d101c1839472', 'fcfs', 'eligible'),
-  ('0xe7f0907da52114009b7ef5b7db900f7cfd6d702d', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xe7f0907da52114009b7ef5b7db900f7cfd6d702d', 'fcfs', 'eligible'),
   ('0x3fe8a163a99c115e69ce2393d3d14eeb64913f5f', 'fcfs', 'eligible'),
   ('0x274a8cabfd98dde97bd92443b834bc72f74ad053', 'fcfs', 'eligible'),
   ('0xcad8b255401f93772af9621a253973e936705a0d', 'fcfs', 'eligible'),
@@ -11454,7 +12542,10 @@ VALUES
   ('0x8b1c530d7973dc3ddc40b24ab898d667bfad286c', 'fcfs', 'eligible'),
   ('0x480d9d7a5047967385d46a2c0c146c4e64c84169', 'fcfs', 'eligible'),
   ('0x0a588a1c4f95725d67d200c40b9b80dccfd5618f', 'fcfs', 'eligible'),
-  ('0xf4dd1c305ccc18fb6938262ed24aba500adf8677', 'fcfs', 'eligible'),
+  ('0xf4dd1c305ccc18fb6938262ed24aba500adf8677', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x040c5578a4d467eafbf85437cf2d6b05cf2510be', 'fcfs', 'eligible'),
   ('0x9e7021c92d8672e50f1475e8e623c4d7c3da6150', 'fcfs', 'eligible'),
   ('0x80ce8ec723ceb276d94d84139352196c00fb2cc1', 'fcfs', 'eligible'),
@@ -11471,10 +12562,7 @@ VALUES
   ('0xaa5ce672ad3c4779971aa8ea4b223fcdb7b1d367', 'fcfs', 'eligible'),
   ('0xcdc49bfd214fba6d3ddb075fc1820836c68a6da6', 'fcfs', 'eligible'),
   ('0x56e158072023f145a53c775fc70938c8c88a3e6d', 'fcfs', 'eligible'),
-  ('0xb81d313301f753fb9667a6febdc42c7c7b7f8a1e', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xb81d313301f753fb9667a6febdc42c7c7b7f8a1e', 'fcfs', 'eligible'),
   ('0xa1a7c0a53d47f0ecf4d9a715841079a1b2f701c9', 'fcfs', 'eligible'),
   ('0x0fe2fe3b790b6cc698072fa53c9b095eb734c325', 'fcfs', 'eligible'),
   ('0xce71f1b3aba5985ddeabf59c32db9f6b6069c6bc', 'fcfs', 'eligible'),
@@ -11607,7 +12695,10 @@ VALUES
   ('0x89e6949d8dff93976a394d0615453e564bdb9bc3', 'fcfs', 'eligible'),
   ('0xaca6b37d9a356ad5d24993f2e629cb180671dd87', 'fcfs', 'eligible'),
   ('0xec242eed1590857f8317487039e419b562e60166', 'fcfs', 'eligible'),
-  ('0x675cfc4c2e456adb18d61c88a14826f5f5fad79c', 'fcfs', 'eligible'),
+  ('0x675cfc4c2e456adb18d61c88a14826f5f5fad79c', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xf1612af98d637d729a31e6a566c5ac3dd0548e80', 'fcfs', 'eligible'),
   ('0x768e452d4d1682344998821798c988650d59d32f', 'fcfs', 'eligible'),
   ('0x7f00e5f8f30b048689c13764fc4e7743b0b7894f', 'fcfs', 'eligible'),
@@ -11624,10 +12715,7 @@ VALUES
   ('0xfa0d872d057eeecc1b7d96a4bf6cb5a8d4284e8f', 'fcfs', 'eligible'),
   ('0x32c2ee436f31acc22d0df75e1de97d4aa939de59', 'fcfs', 'eligible'),
   ('0x9c462b882e3333d2d0e6068c1db1099d90a8ccf0', 'fcfs', 'eligible'),
-  ('0x0ee1e43596c754313d63e4db1d996e3d0fa81cbf', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0ee1e43596c754313d63e4db1d996e3d0fa81cbf', 'fcfs', 'eligible'),
   ('0xc0b083c845e102bfcb39a362039480e2534f0ba5', 'fcfs', 'eligible'),
   ('0xdfe9347d01aa3a56c169f5cc3fce2451013a98f1', 'fcfs', 'eligible'),
   ('0xac6ac0f5418f3b22f396ef3343e6ef8989ed88b3', 'fcfs', 'eligible'),
@@ -11760,7 +12848,10 @@ VALUES
   ('0xd9018a01f6b40e1a9fe5fc79252c3e3b85126be1', 'fcfs', 'eligible'),
   ('0x6f2b855d7e1e8c110341c9c1694761def4cb08a9', 'fcfs', 'eligible'),
   ('0x682b871b05384aeed95d605c11133dfec3fe4433', 'fcfs', 'eligible'),
-  ('0xbacc0badc09ad7fa244fb8012105d6eed382a657', 'fcfs', 'eligible'),
+  ('0xbacc0badc09ad7fa244fb8012105d6eed382a657', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x9dfe17c2fcb1d844a4926f3b6b19794701ca5e44', 'fcfs', 'eligible'),
   ('0xc34da77d054b615a6fd5527df3ebf92a10002fa7', 'fcfs', 'eligible'),
   ('0xca172032220fe73f6b8f392ab16cf279867b9462', 'fcfs', 'eligible'),
@@ -11777,10 +12868,7 @@ VALUES
   ('0x70ef0e236e88c61961cc16d4f5ed05be5049a23f', 'fcfs', 'eligible'),
   ('0xdeff1eb7fadbeb92602ce9415f5c3cda174923b8', 'fcfs', 'eligible'),
   ('0x62cf09f24bbe24815f852521b50b6471c92464f3', 'fcfs', 'eligible'),
-  ('0xad2acc06024ed98c40b2b18e16b684b6a0733936', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xad2acc06024ed98c40b2b18e16b684b6a0733936', 'fcfs', 'eligible'),
   ('0xb2724e64de9271faa30c81bc522a5d6fe03694f7', 'fcfs', 'eligible'),
   ('0x7256f19b7f9b2fd627bf2a0af5539a17438c1b7c', 'fcfs', 'eligible'),
   ('0x0b08d781e82f8c9eedfc67be594b72660ff1b21e', 'fcfs', 'eligible'),
@@ -11913,7 +13001,10 @@ VALUES
   ('0xf0b2720614a8faab46d03b0ee031bd6fcd19eab7', 'fcfs', 'eligible'),
   ('0xd899c6ad108e9d906477f4cff457208b89ffcffb', 'fcfs', 'eligible'),
   ('0xb97fb17264a06c9758f3a6e7ce74db8a9af293c2', 'fcfs', 'eligible'),
-  ('0x53e5a0e30cf247d968504b7f1fdf096d8028097e', 'fcfs', 'eligible'),
+  ('0x53e5a0e30cf247d968504b7f1fdf096d8028097e', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x453dfaeea2164c1167d1a4b0644baab030324d70', 'fcfs', 'eligible'),
   ('0xaec78bdae8bfe2cc76c31966c285585cc2c4e972', 'fcfs', 'eligible'),
   ('0x9ab075eaa8fbe42966b2a2039a65e1cd0618f806', 'fcfs', 'eligible'),
@@ -11930,10 +13021,7 @@ VALUES
   ('0x9fdc8a339dd5138797b95c7bcb854dadfa9a1ce7', 'fcfs', 'eligible'),
   ('0xf3e0a3415debd9bd312bd2eca932b9df4d6d8a49', 'fcfs', 'eligible'),
   ('0x9cbe491635e0571841dd6bda20cd22b042a75726', 'fcfs', 'eligible'),
-  ('0x003dcd70f89b2f9837168f6c31c27546d7110565', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x003dcd70f89b2f9837168f6c31c27546d7110565', 'fcfs', 'eligible'),
   ('0x47f3728b7c9c881e2c3d766d28906f922cb974f9', 'fcfs', 'eligible'),
   ('0xf4370fc95b06eb770c69a6258b96a765418577f4', 'fcfs', 'eligible'),
   ('0xb0fbc75ee109f578cab0786a5f0b0bbffe9f7b6c', 'fcfs', 'eligible'),
@@ -12066,7 +13154,10 @@ VALUES
   ('0x5a7bcc86ee4ed573e3492f85d683fec2937ecd7e', 'fcfs', 'eligible'),
   ('0x9c90a7b8c296a502f92d9660e45e1f34ee60d98f', 'fcfs', 'eligible'),
   ('0x5a8579224c7c29f1349b429e96e23ca76e401ea1', 'fcfs', 'eligible'),
-  ('0xbcf6accff660b4d68c51ee4f1bc220dc4fc54a05', 'fcfs', 'eligible'),
+  ('0xbcf6accff660b4d68c51ee4f1bc220dc4fc54a05', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x2c039bb35d8168ea7bd4dde27e637f53af07e609', 'fcfs', 'eligible'),
   ('0x668bd047d5e611f918eb087cb89b7644e42d53dc', 'fcfs', 'eligible'),
   ('0x3821a8e4cba30c279ea1f7945f450b129604ffc9', 'fcfs', 'eligible'),
@@ -12083,10 +13174,7 @@ VALUES
   ('0xaa0c7379a6a3941df7f571c47b39e9949a2e0803', 'fcfs', 'eligible'),
   ('0xbe10c17256a62642ce0bab708e3ca8729be4fd87', 'fcfs', 'eligible'),
   ('0x7ae3900af10f565aaffad4364d11a470b15ec96d', 'fcfs', 'eligible'),
-  ('0x05fe3cb5dc35f205a483f49431eeeb3276765540', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x05fe3cb5dc35f205a483f49431eeeb3276765540', 'fcfs', 'eligible'),
   ('0xf09262183f9b8fcedc807672bacb3913cb5668a4', 'fcfs', 'eligible'),
   ('0xab56d3c153ba054aceb7d21425e6de4af09b8860', 'fcfs', 'eligible'),
   ('0x960a7749b3ae4fc8ca7d203fa2e369dc23f9260a', 'fcfs', 'eligible'),
@@ -12219,7 +13307,10 @@ VALUES
   ('0x306158dd7dc0a54e1d9a522d7d0cfc5a907db5ca', 'fcfs', 'eligible'),
   ('0x2b0dadc8f8ecb1088b46c59a61637ebed2506184', 'fcfs', 'eligible'),
   ('0xc14dbeecf5f74caec051f76e7370913bc3ce478e', 'fcfs', 'eligible'),
-  ('0x909e6ac8c7e5afeaf7911ba1c55198410db5c5df', 'fcfs', 'eligible'),
+  ('0x909e6ac8c7e5afeaf7911ba1c55198410db5c5df', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x43abaa1c4fd8574c752216578fc52fdf29680dec', 'fcfs', 'eligible'),
   ('0xb7f83fdc9d1a17100bd1e4e2be93cd696729f25b', 'fcfs', 'eligible'),
   ('0x169ed48c18f7ebdb8793fcb76c67930a636ee185', 'fcfs', 'eligible'),
@@ -12236,10 +13327,7 @@ VALUES
   ('0x0f2a7bfa2b2306d0da05e1156941627b374240b8', 'fcfs', 'eligible'),
   ('0xb50d3008f6e5e1db211bc6debacb6a26b6dec0ed', 'fcfs', 'eligible'),
   ('0x5f918ca14686e85ce5f6cfda9cbe793e033c7631', 'fcfs', 'eligible'),
-  ('0x530e322f15758ea7e503464c26c06eac141f6cdc', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x530e322f15758ea7e503464c26c06eac141f6cdc', 'fcfs', 'eligible'),
   ('0xa9c0a3dbae621488d0cdffd05d9436dc32802f8a', 'fcfs', 'eligible'),
   ('0xc9d963e7e67da7e241784aef2e406f59f818559f', 'fcfs', 'eligible'),
   ('0x62278dfa777faa33f9e8eda8d9866a747ab5f1fd', 'fcfs', 'eligible'),
@@ -12372,7 +13460,10 @@ VALUES
   ('0x00e3260e920c8814e74eb1f844c34ed013fd95a0', 'fcfs', 'eligible'),
   ('0x357628a60ae55064ee7513aa1625c562d384d833', 'fcfs', 'eligible'),
   ('0xa5884e58ef3836b717168cbceb3cef65e2545be4', 'fcfs', 'eligible'),
-  ('0xe73f54169230c7fb56945994d871a5fa31e82538', 'fcfs', 'eligible'),
+  ('0xe73f54169230c7fb56945994d871a5fa31e82538', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x2a19c5c1a12cb80e6e1a2b386dd6ecbee2ca2524', 'fcfs', 'eligible'),
   ('0x3a45d1018391780f160cf7aab15e911a6f75eb34', 'fcfs', 'eligible'),
   ('0x076c7735e3e90ae5de5f038636d49be0257a6b6e', 'fcfs', 'eligible'),
@@ -12389,10 +13480,7 @@ VALUES
   ('0x15c70ae9af8d4eb59efd6c4e78fc2196e193ed17', 'fcfs', 'eligible'),
   ('0x2d694046af4e187db222f0dc394e1b2eaddfc3df', 'fcfs', 'eligible'),
   ('0xdb1123077804afd69b8fd238a344bb621c98044f', 'fcfs', 'eligible'),
-  ('0x6286e8e291161cf2524546af8ce086a92231b1af', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6286e8e291161cf2524546af8ce086a92231b1af', 'fcfs', 'eligible'),
   ('0x935fb36128339e75642721358763ffaaa2626b50', 'fcfs', 'eligible'),
   ('0xf0b2de020f771869576fdeb74e32684f5d2c9eea', 'fcfs', 'eligible'),
   ('0xf59e73e8897f2f90b2817792cdae8f7451db9c07', 'fcfs', 'eligible'),
@@ -12525,7 +13613,10 @@ VALUES
   ('0x1bf1c7622170c45052cf2ff5af0e6842a6d7c5f7', 'fcfs', 'eligible'),
   ('0xbc3e105ec0c06e4f932dcf23b8bab941722ab774', 'fcfs', 'eligible'),
   ('0x64db3e8267445114ba8e603ab861347183a16dfb', 'fcfs', 'eligible'),
-  ('0xf5bd1317f11483e0b1d9ee766707665a3adc7891', 'fcfs', 'eligible'),
+  ('0xf5bd1317f11483e0b1d9ee766707665a3adc7891', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x1ae010d02ecf9b8a1e0df6ab53fcd4308125be2c', 'fcfs', 'eligible'),
   ('0x89188b59601423fa8bc31fb6ce06bccda5823a8b', 'fcfs', 'eligible'),
   ('0x7d23ba31acff7609c25989920b8f38da54613dd4', 'fcfs', 'eligible'),
@@ -12542,10 +13633,7 @@ VALUES
   ('0x421072bc0b77faacaaad63674a4013c4b7230acc', 'fcfs', 'eligible'),
   ('0x6a9553ee2e012ff24da90e645158beddae27fb46', 'fcfs', 'eligible'),
   ('0xd467b0cd51e00179a7e4d70fe27845437aa87bf0', 'fcfs', 'eligible'),
-  ('0x0adc9fe2c3d351a81cdc1cc723d3063a8ade620d', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0adc9fe2c3d351a81cdc1cc723d3063a8ade620d', 'fcfs', 'eligible'),
   ('0x5288394dc2a3ec9d5e6b36f3eb1e3ba73ed7a849', 'fcfs', 'eligible'),
   ('0x5b3519aa498acfb1f2d5204901d432ad62c85916', 'fcfs', 'eligible'),
   ('0x5bb714182d691e2f2a3887d624a0d74e24425b08', 'fcfs', 'eligible'),
@@ -12678,7 +13766,10 @@ VALUES
   ('0x03025c5982cb748957ce97383cbe8a2a6d61ea96', 'fcfs', 'eligible'),
   ('0xc594a01d837dd483aa9f56749e4aa66b70f6249d', 'fcfs', 'eligible'),
   ('0x0170af3a24d393152ec0c7a5a57a6fc22b94c422', 'fcfs', 'eligible'),
-  ('0xd337a2ec794b75d374557ce057854ccb4c0e58bd', 'fcfs', 'eligible'),
+  ('0xd337a2ec794b75d374557ce057854ccb4c0e58bd', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe6d3bc6cf70c0e677de3cc4055918854d1b46eaf', 'fcfs', 'eligible'),
   ('0x5966f3542683adaa82da6b2f298108b6f15435e7', 'fcfs', 'eligible'),
   ('0xfcfb84c2a40639f745269498034c624b2d60902a', 'fcfs', 'eligible'),
@@ -12695,10 +13786,7 @@ VALUES
   ('0x8d06856c58232026a67523a4099789b336d2f8d8', 'fcfs', 'eligible'),
   ('0xdfaf103fe48b0a8345b5dbd25fad5ffacbd5318b', 'fcfs', 'eligible'),
   ('0xe98d47a78f9fcdd43a00831429d4876013e68e4c', 'fcfs', 'eligible'),
-  ('0xa76d0db13935a516f777af95a309d9fac39e6862', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa76d0db13935a516f777af95a309d9fac39e6862', 'fcfs', 'eligible'),
   ('0x37ecdc010e1bb6bbc27976673fd351ee99261c3d', 'fcfs', 'eligible'),
   ('0xe0fc997887d8f68b279810895a40634ce46d1cc5', 'fcfs', 'eligible'),
   ('0xbf69961de72ecfcb31c9d6c19361249eb98238d8', 'fcfs', 'eligible'),
@@ -12831,7 +13919,10 @@ VALUES
   ('0x2e1e06357e436c07b35bfc3215421b92c20962e6', 'fcfs', 'eligible'),
   ('0x43fda1a8be6d448ce7a1b8025059cbd76e2f1239', 'fcfs', 'eligible'),
   ('0xe4364909e069f5cd7d280aeff7b3c22e44e89ace', 'fcfs', 'eligible'),
-  ('0xe164dd7c149221f689244a97e188e0eaa42be424', 'fcfs', 'eligible'),
+  ('0xe164dd7c149221f689244a97e188e0eaa42be424', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x00e098053ccc7007da200ed21afb8a5afd470719', 'fcfs', 'eligible'),
   ('0xed22b446a0091419e8f4f737df56048780250ade', 'fcfs', 'eligible'),
   ('0x593b38bdc67164fd425127248a6af882fa059d6c', 'fcfs', 'eligible'),
@@ -12848,10 +13939,7 @@ VALUES
   ('0x5ef6a45644adaca2f938c6b31672e0a34cbc7da4', 'fcfs', 'eligible'),
   ('0xf8b491db49499284fb8f055dffb6284ff065acc7', 'fcfs', 'eligible'),
   ('0x624545e89f644cfac45241d2ac0bf541cb2b5fd8', 'fcfs', 'eligible'),
-  ('0xb87745c1663dbf2ec1f025028f3113d3ee371011', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xb87745c1663dbf2ec1f025028f3113d3ee371011', 'fcfs', 'eligible'),
   ('0x908385f4d9ff6759723c8077eb6bf0e409a49cfe', 'fcfs', 'eligible'),
   ('0xa98ab90a14407a6947a2218441f56ea503d64b1b', 'fcfs', 'eligible'),
   ('0xfd04fc0ff1c6942ec0ce738fe0b8614a6ab23f86', 'fcfs', 'eligible'),
@@ -12984,7 +14072,10 @@ VALUES
   ('0xe3beba845173ceffea4a7b683619f0614fc2d939', 'fcfs', 'eligible'),
   ('0xb636e609c61e20dfa49435f44ab6dcf5cea679a7', 'fcfs', 'eligible'),
   ('0xd9616f5d5eb21438921e14ba2f66f32c5525098a', 'fcfs', 'eligible'),
-  ('0xbbcbc67097c898c579c5612364ea75c991da34b2', 'fcfs', 'eligible'),
+  ('0xbbcbc67097c898c579c5612364ea75c991da34b2', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe1fb7b52ec58684e3ebc1cb1110f8f5e4598f28c', 'fcfs', 'eligible'),
   ('0x929c4df57f5db6d6c5f67d7c2e41186b9b27fc48', 'fcfs', 'eligible'),
   ('0xf79ca8a42edea3009db6b18472789b1e8fa91e87', 'fcfs', 'eligible'),
@@ -13001,10 +14092,7 @@ VALUES
   ('0x0361b9331e8eb9ee115176f47a24e4bf5b6d86c1', 'fcfs', 'eligible'),
   ('0xa567a21bd3ec27071f031738f3e60aaf3b18e451', 'fcfs', 'eligible'),
   ('0xbc9ac59c65e97ff1e701f18711540e976c21d666', 'fcfs', 'eligible'),
-  ('0xa78cfbb320af475284b577b45ed444f4fe28c750', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa78cfbb320af475284b577b45ed444f4fe28c750', 'fcfs', 'eligible'),
   ('0x4e2bf3fad597735e96af5c53ca0796abdf7857fb', 'fcfs', 'eligible'),
   ('0x0413c909e4de61ab67fa8007278c486749cba430', 'fcfs', 'eligible'),
   ('0x350c989567217783a64ec5f19bbfd3042f7fe69a', 'fcfs', 'eligible'),
@@ -13137,7 +14225,10 @@ VALUES
   ('0xa48345eb85e33d85bb4c462a54a847458b0ccd65', 'fcfs', 'eligible'),
   ('0x8dc96bae147b0646d3271fe17f102e1fc4cdb4b7', 'fcfs', 'eligible'),
   ('0xb6e8095f265a6e7f53050290b79d73ac15415a0c', 'fcfs', 'eligible'),
-  ('0xae1df5d53a56c0e7999cbee69914d64de2b7cf08', 'fcfs', 'eligible'),
+  ('0xae1df5d53a56c0e7999cbee69914d64de2b7cf08', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x64895bd21225946f9fc3ba767a2c1984e69d1c41', 'fcfs', 'eligible'),
   ('0x49e02c9b4bb7e802241193d6e5efa94db63697bb', 'fcfs', 'eligible'),
   ('0xe46cd3e4570a7dae1f22f77185a3f17dd2971a56', 'fcfs', 'eligible'),
@@ -13154,10 +14245,7 @@ VALUES
   ('0xdb2164c39bb603bc56247fab79188ac93d98f884', 'fcfs', 'eligible'),
   ('0x15949708dc01348ba4e2458bb9d2198c36401d87', 'fcfs', 'eligible'),
   ('0x0d6426cb7e458855a4746797349e80d128e29a34', 'fcfs', 'eligible'),
-  ('0xa89794797578f2fcba767f1928695d18968bf3bf', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa89794797578f2fcba767f1928695d18968bf3bf', 'fcfs', 'eligible'),
   ('0x7c8978ea4734e2f5af6c3cbaaa1124ed2777bfa9', 'fcfs', 'eligible'),
   ('0x595d420a5e2ced1cbda1d45b4b0e0d2448713b01', 'fcfs', 'eligible'),
   ('0x51214c6bc31be69316e194d53c6015aabe48295c', 'fcfs', 'eligible'),
@@ -13290,7 +14378,10 @@ VALUES
   ('0x65ad935b716bfecb098db395863cbb7cfd35e31f', 'fcfs', 'eligible'),
   ('0x0dd91e158da52e21fbe2e5693333cc5e0b637efb', 'fcfs', 'eligible'),
   ('0xfdff1128b99142e611a9d66dd4c44bf229a4f9ff', 'fcfs', 'eligible'),
-  ('0x905cfa2fe36f030da0227cddd557d21c2740b99a', 'fcfs', 'eligible'),
+  ('0x905cfa2fe36f030da0227cddd557d21c2740b99a', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xb9b641baf4a2df162dce6f0f841dd199e3343c21', 'fcfs', 'eligible'),
   ('0x7f94a71979b0017e1a20fd723d332b23898bd2bf', 'fcfs', 'eligible'),
   ('0xd8b59024a2956086a00cbc2fecdf44be721157bb', 'fcfs', 'eligible'),
@@ -13307,10 +14398,7 @@ VALUES
   ('0xf83d8ba3b51873749682bb8494798ed10548e809', 'fcfs', 'eligible'),
   ('0xf8724ac323ea27c45659bef11ef064b1dfd20971', 'fcfs', 'eligible'),
   ('0x1713bb0eb17347cfc5889acdb6aa774d73980727', 'fcfs', 'eligible'),
-  ('0xe95676bdf77c0d720e13c2fc45e7e675ac113035', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xe95676bdf77c0d720e13c2fc45e7e675ac113035', 'fcfs', 'eligible'),
   ('0xd5144249c159f87c2a1c06bd4d79dbb56afbf084', 'fcfs', 'eligible'),
   ('0x76ca6fa5995dcec3c55277e66321dc993a2d851d', 'fcfs', 'eligible'),
   ('0x9588b4f51f916b7a2fb6ac1f530edfc3f50cbba6', 'fcfs', 'eligible'),
@@ -13443,7 +14531,10 @@ VALUES
   ('0x840033e3e2a44396a32286a119d590edb49ce182', 'fcfs', 'eligible'),
   ('0x41b45239f97e4b70dc63411a4ea57e575db420f6', 'fcfs', 'eligible'),
   ('0xca325618743527c2a20f670780ab37ea5b625fb7', 'fcfs', 'eligible'),
-  ('0x07adfcb4c71f74965b45b214ed56de2f512ccac7', 'fcfs', 'eligible'),
+  ('0x07adfcb4c71f74965b45b214ed56de2f512ccac7', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x61c957d8c59e44967a0fdebec073f927d0c8d26e', 'fcfs', 'eligible'),
   ('0x4689f743c2feaa88a167ecf959cb26c6293029b2', 'fcfs', 'eligible'),
   ('0x9d8f10a0d461f6b773828c1223044a9623681019', 'fcfs', 'eligible'),
@@ -13460,10 +14551,7 @@ VALUES
   ('0x3407a8a5f3c7708411b462015a5f597061ad0b26', 'fcfs', 'eligible'),
   ('0x9081857823d53c9d51c0e69bfb9a0f325dfde0be', 'fcfs', 'eligible'),
   ('0x921d5216910c847d195ba44e2095229342395714', 'fcfs', 'eligible'),
-  ('0xdf41f91de9014e5568f8afa6e50aeb7b711bd4ca', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xdf41f91de9014e5568f8afa6e50aeb7b711bd4ca', 'fcfs', 'eligible'),
   ('0x704968c248186dae8beaca1498f55598b6bf9d24', 'fcfs', 'eligible'),
   ('0x5cc301687fb8d4da0882877a77d00ced1efe055c', 'fcfs', 'eligible'),
   ('0xd6f5065a607d8e8e6c1f1158aca03912f15359e1', 'fcfs', 'eligible'),
@@ -13596,7 +14684,10 @@ VALUES
   ('0x65bc7ece039fe4113575a32958d962b2be0df9cb', 'fcfs', 'eligible'),
   ('0x21af5d3c4b8efc464f0fe6ab42fbf32d3ea1a742', 'fcfs', 'eligible'),
   ('0xdae6d403f1d794b41a1a48a4b91bb0b45f6ef798', 'fcfs', 'eligible'),
-  ('0xee983d84f1cc9c509947f99b33bd226a81f9f5d8', 'fcfs', 'eligible'),
+  ('0xee983d84f1cc9c509947f99b33bd226a81f9f5d8', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xda01bb0fa1738c8cd02210978f52438d9fd4c4c4', 'fcfs', 'eligible'),
   ('0x4cb004ab0619a11041437a3e6d2d0a17081a49af', 'fcfs', 'eligible'),
   ('0xb20f1a0e68fa9e85dfc2c9914458a0ad9b8bff1c', 'fcfs', 'eligible'),
@@ -13613,10 +14704,7 @@ VALUES
   ('0x2c42ff2979bb8cf9d65b83f882247488f5c48831', 'fcfs', 'eligible'),
   ('0x47a05658cbb5a43984745e9db85f445fde12137e', 'fcfs', 'eligible'),
   ('0x20a82080f2988d3e90484317db0f18c8b8e849c1', 'fcfs', 'eligible'),
-  ('0x6fac27098ff2e618e4f1ad830b6c3d43b65b7287', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6fac27098ff2e618e4f1ad830b6c3d43b65b7287', 'fcfs', 'eligible'),
   ('0xff33342df84bcdaa46523bc6b5838101ed520107', 'fcfs', 'eligible'),
   ('0x7eab7de0484eef70335858c79867e4e038189dc2', 'fcfs', 'eligible'),
   ('0x5d7c3804f5062ddbedff91b5cc88892445c0a13e', 'fcfs', 'eligible'),
@@ -13749,7 +14837,10 @@ VALUES
   ('0x95d3a87babd7ebc3ace070d4562bb1e590929e9b', 'fcfs', 'eligible'),
   ('0xf199a40502fbfaaa79facdee59ced09010f6be1c', 'fcfs', 'eligible'),
   ('0x44c1625ba04262f161549fdb02afb503559e8dba', 'fcfs', 'eligible'),
-  ('0xf4b4a3c325aa88f9ccef045bde8145cdbce8443d', 'fcfs', 'eligible'),
+  ('0xf4b4a3c325aa88f9ccef045bde8145cdbce8443d', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x22a521588a8617dc91e3f8ecd428fc26df178b10', 'fcfs', 'eligible'),
   ('0x9ec6fc504be0f1f06c3f3620ba9068c641e26fa7', 'fcfs', 'eligible'),
   ('0x4529ab0ef1ee088b42e7ed1c9eb59979d77ebcfd', 'fcfs', 'eligible'),
@@ -13766,10 +14857,7 @@ VALUES
   ('0xb748693c37bdd7877e22f70045fed3ba2919742c', 'fcfs', 'eligible'),
   ('0xf4b450dead0fbb7fc4008e405d40ad0ecf2d324a', 'fcfs', 'eligible'),
   ('0xb0867891c784a9e00a7ad262a137521f7cac094a', 'fcfs', 'eligible'),
-  ('0x7f5310102927e85b362331743cffd8871e9606f1', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x7f5310102927e85b362331743cffd8871e9606f1', 'fcfs', 'eligible'),
   ('0x7c0835aebba0e0f11276946ab907daa9f84ea6de', 'fcfs', 'eligible'),
   ('0x7eeb4b004f47a16a992e04253a5d4ec895b4291c', 'fcfs', 'eligible'),
   ('0x516341bfaf9e82bc1e9d1e6b9ac2f7e45c5757a3', 'fcfs', 'eligible'),
@@ -13902,7 +14990,10 @@ VALUES
   ('0x954d2a1cfa7fa828c5a5e5611b35cb85301ed181', 'fcfs', 'eligible'),
   ('0xa98341371a3ad73fed2206d0b7a8727bcbaa7a63', 'fcfs', 'eligible'),
   ('0x1a94051901461222d8a1b53d458da937ccbb04cc', 'fcfs', 'eligible'),
-  ('0x24714bdb266aab612c81b51915cec49c644200d5', 'fcfs', 'eligible'),
+  ('0x24714bdb266aab612c81b51915cec49c644200d5', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe650c3dbc5e698797b4b7681739a0d57397b0c6e', 'fcfs', 'eligible'),
   ('0x504de74ec34b2bcd90d1d96f960044a479b0284d', 'fcfs', 'eligible'),
   ('0x4de48a59ae12d46639f1a656e953149dcd0ad523', 'fcfs', 'eligible'),
@@ -13919,10 +15010,7 @@ VALUES
   ('0xe9748525649ecbd065452f90affbb4a2391d7676', 'fcfs', 'eligible'),
   ('0x09747bbba1797fbb05adc026821132ebe35785d4', 'fcfs', 'eligible'),
   ('0xb9335a5e7c114ca46426bb643405e93f5c20a865', 'fcfs', 'eligible'),
-  ('0xba12b4d413a553820edb50e37f4d993c8359323a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xba12b4d413a553820edb50e37f4d993c8359323a', 'fcfs', 'eligible'),
   ('0xdeedd07df627d4df78e60fee34cac209b45fe657', 'fcfs', 'eligible'),
   ('0x4412ff70d10c04a3948e0894538a0c98cb1d673c', 'fcfs', 'eligible'),
   ('0xd310b4b7502e2017b5af6945b6bae6f7e11cd9e3', 'fcfs', 'eligible'),
@@ -14055,7 +15143,10 @@ VALUES
   ('0x6af9842ee98fe6f3a36625d2d378b2e6f47c6ead', 'fcfs', 'eligible'),
   ('0x3b3cee5615aa62bf5220dcc9fbc07f3872004c9f', 'fcfs', 'eligible'),
   ('0x44f4bc735e2a56e547a2545abf44efb1386b88de', 'fcfs', 'eligible'),
-  ('0xfe796d0e44c6f908a3e9467492ae96aa87d3107f', 'fcfs', 'eligible'),
+  ('0xfe796d0e44c6f908a3e9467492ae96aa87d3107f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x433f165fbccf617bf8d646550ab968117b4b34d0', 'fcfs', 'eligible'),
   ('0xcb08609a6f072bc2dc7663eab9618a7afeeb0c80', 'fcfs', 'eligible'),
   ('0x57443da31c928a077ee83d910b4e2b27918cbafe', 'fcfs', 'eligible'),
@@ -14072,10 +15163,7 @@ VALUES
   ('0xe6ff75c36608b70f821d6b10080420b6e88ccc50', 'fcfs', 'eligible'),
   ('0xc146a0939123a13143ac62e7862f2c71ff4b1bb1', 'fcfs', 'eligible'),
   ('0x66eebdef0efd3f59b73111a4dacc20156d2b71d2', 'fcfs', 'eligible'),
-  ('0xce29126306c91ab2b2ad0705cd645867d2234df2', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xce29126306c91ab2b2ad0705cd645867d2234df2', 'fcfs', 'eligible'),
   ('0x7bc97261028b5ed5602043778fdd988c438ca3d9', 'fcfs', 'eligible'),
   ('0xa0ccbe9aa755ab877fdd28b465fa13a0daf5309a', 'fcfs', 'eligible'),
   ('0x877164dea28121a8fba533a58c4da58796a35f49', 'fcfs', 'eligible'),
@@ -14208,7 +15296,10 @@ VALUES
   ('0x5a068815ab133cb408344fa631927c7658de7b96', 'fcfs', 'eligible'),
   ('0x7b5b3bcb571ac460124336b0423469e100ce5fff', 'fcfs', 'eligible'),
   ('0xd7d52609758bb144e1809679412c17e80d141ee5', 'fcfs', 'eligible'),
-  ('0x2858b484273bcb90c8a3fe7e18731a17a39b59ab', 'fcfs', 'eligible'),
+  ('0x2858b484273bcb90c8a3fe7e18731a17a39b59ab', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xefaffcf02e36abb0106e97c5180ec645cf0d046a', 'fcfs', 'eligible'),
   ('0x32cac2169b2856b6feb88e575c1f3540d0ebee18', 'fcfs', 'eligible'),
   ('0x0281acae75c623dce98f050c1962c64d11265696', 'fcfs', 'eligible'),
@@ -14225,10 +15316,7 @@ VALUES
   ('0x9cae84178a5c4b751cb30dc06fcf54ee3530ad83', 'fcfs', 'eligible'),
   ('0xc0b894a2722ad3957f749ac1fb4c5d945a680d36', 'fcfs', 'eligible'),
   ('0x107a2967b5fc73800481c08518bd48044e0a59e6', 'fcfs', 'eligible'),
-  ('0xb02ecf9e08e1c58485f06960a95afbde2d212145', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xb02ecf9e08e1c58485f06960a95afbde2d212145', 'fcfs', 'eligible'),
   ('0xae9648189ad9548d0e9a0c56314f4a5ab2aefb4f', 'fcfs', 'eligible'),
   ('0x7f4ea7a5a8afc1821bfdc1d8b8254a01a214048c', 'fcfs', 'eligible'),
   ('0x604b9177db50cdac4fb467a89e0d3220b2d37fa2', 'fcfs', 'eligible'),
@@ -14361,7 +15449,10 @@ VALUES
   ('0xa12a255207fcaa327fa26dbc224c126f2f6a0492', 'fcfs', 'eligible'),
   ('0xc22985d194fffc98a0a8efd4f1934adba46ba397', 'fcfs', 'eligible'),
   ('0x8823e32d03c55d1f2eca9a609b385d60f249ba44', 'fcfs', 'eligible'),
-  ('0x893f0ae4801fc1c376977bba489ee41d91dd395b', 'fcfs', 'eligible'),
+  ('0x893f0ae4801fc1c376977bba489ee41d91dd395b', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x86193913ca559eb814968ca474c63c28ffea8342', 'fcfs', 'eligible'),
   ('0x2ff4f4797c86d5471abd0ff309bc27cc8c5898fe', 'fcfs', 'eligible'),
   ('0x5ddf26b59977198d1577368bb027678492cbd2b5', 'fcfs', 'eligible'),
@@ -14378,10 +15469,7 @@ VALUES
   ('0x3b63b296afd6db818dcf0572da0e1381d78272c4', 'fcfs', 'eligible'),
   ('0xe76f1270b9e1faf6a332a938855630c886686a00', 'fcfs', 'eligible'),
   ('0x7ae60c0b3c3297147bea6cfa293158ddb70f1078', 'fcfs', 'eligible'),
-  ('0x881784e33d7c36757205c074c0977439f1120227', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x881784e33d7c36757205c074c0977439f1120227', 'fcfs', 'eligible'),
   ('0x251d7e14cfcf532ac56532f6d421aa8fe5add9ce', 'fcfs', 'eligible'),
   ('0xbea91605a7551911cd20ab7b852220f6abf3d8e8', 'fcfs', 'eligible'),
   ('0xaadb63e47e8469e44f05033d533f5e5163c0b450', 'fcfs', 'eligible'),
@@ -14514,7 +15602,10 @@ VALUES
   ('0x2305206e4ce6fb472a075cfb4d5266e6d1bee6c9', 'fcfs', 'eligible'),
   ('0x8a7094d125e745876a67b82b5538ff191f557ac9', 'fcfs', 'eligible'),
   ('0x8bfce797c81ff853d36e37f894820e498f308551', 'fcfs', 'eligible'),
-  ('0x380d597f8de1431d7592cd1351238cf74047c8fb', 'fcfs', 'eligible'),
+  ('0x380d597f8de1431d7592cd1351238cf74047c8fb', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe996d034fb925c8a312d7e0dded3445bc5f9cf96', 'fcfs', 'eligible'),
   ('0xb4698e2961d6a025eef03fe2efe2d4dc2af6dc8d', 'fcfs', 'eligible'),
   ('0xfc76a6dd65da47ab5f383049041394d2b76179c5', 'fcfs', 'eligible'),
@@ -14531,10 +15622,7 @@ VALUES
   ('0xc9d1c29ab1307f30928db5ccb84e7d800bbf38af', 'fcfs', 'eligible'),
   ('0xa2e0590457b4e89c802b54a37682ebc97c5d6602', 'fcfs', 'eligible'),
   ('0x3c28aa352f2b119f97570723273c6f961964a8a4', 'fcfs', 'eligible'),
-  ('0xca79a588e8bd6a655f1087b2de5c43008cffc920', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xca79a588e8bd6a655f1087b2de5c43008cffc920', 'fcfs', 'eligible'),
   ('0x50a99771f7eb2762f1be261eff54f9d39da1a13c', 'fcfs', 'eligible'),
   ('0x241cea3129c82024fa56410530615084b1b9dd23', 'fcfs', 'eligible'),
   ('0xd4f92693c36170fa3dffab182e7177685975a70c', 'fcfs', 'eligible'),
@@ -14667,7 +15755,10 @@ VALUES
   ('0xf00b1136ec8deeca714b1084ba86e794d1a7f02c', 'fcfs', 'eligible'),
   ('0x0fcf311473189440fe6be23790d8a429bedcb555', 'fcfs', 'eligible'),
   ('0xf5d83203dde22daa4b2ce7b97d1d79238b6dadd0', 'fcfs', 'eligible'),
-  ('0xb1caf812d9d7b04e3e2b15f06f041ae188219151', 'fcfs', 'eligible'),
+  ('0xb1caf812d9d7b04e3e2b15f06f041ae188219151', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x96d933b3247c9c3594e0a32a51c42f6eb0ca96b5', 'fcfs', 'eligible'),
   ('0x2c63bef20243e7c1e492f64f7e8e9b8b030003a8', 'fcfs', 'eligible'),
   ('0x853902bdebf1bdd47e34ba5b2896684265e0a4eb', 'fcfs', 'eligible'),
@@ -14684,10 +15775,7 @@ VALUES
   ('0x92f30f8da1aa105099085d86f6cb5d91a30e3d14', 'fcfs', 'eligible'),
   ('0x622a5419ae8cb66f87c2875d45879c49eef7883c', 'fcfs', 'eligible'),
   ('0x1a9fac0c032a37a794956def6be23040892ee265', 'fcfs', 'eligible'),
-  ('0xdeecce148be646ff3e91d8c39f32ec6fa372514f', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xdeecce148be646ff3e91d8c39f32ec6fa372514f', 'fcfs', 'eligible'),
   ('0x3088e0491935296b5d6e65d1c84aab874daf6870', 'fcfs', 'eligible'),
   ('0x64eeaf9d43ed45a617cda3f6417a129a9b292ce5', 'fcfs', 'eligible'),
   ('0xfe63d6cb14591c490af03915b07fea78143af71d', 'fcfs', 'eligible'),
@@ -14820,7 +15908,10 @@ VALUES
   ('0x7dd8758582f45ddd907b06cb391cf8c2205ddc43', 'fcfs', 'eligible'),
   ('0x77fbeb7a1efe0c03bb32d3c173f6a6c4cb5a478c', 'fcfs', 'eligible'),
   ('0xaf84dbdbb45fe1ee97ae9e9bb53d4b5468916134', 'fcfs', 'eligible'),
-  ('0x7a5ec8cd07428eae27054f014225dc3fa18aa9b4', 'fcfs', 'eligible'),
+  ('0x7a5ec8cd07428eae27054f014225dc3fa18aa9b4', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xf6dbb91e243e0c6a04e02f14b41c4fd8fab6ae99', 'fcfs', 'eligible'),
   ('0xa88a77beb858e3bc3f86e508787ff74bf58bf368', 'fcfs', 'eligible'),
   ('0x8fca2d094d3725a00067f31efd89f4e84b809a25', 'fcfs', 'eligible'),
@@ -14837,10 +15928,7 @@ VALUES
   ('0xa0b11c53b381b0058bfbfa9ca6e1d6aa3beae43f', 'fcfs', 'eligible'),
   ('0x86288d5f971af8d2919537b2230d5ee0c5f4c63c', 'fcfs', 'eligible'),
   ('0xe862ff802566ffa33c847756a880ec6168d93109', 'fcfs', 'eligible'),
-  ('0x9b5623fbfb4b0489237b56cb9817d47bb6af18ad', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x9b5623fbfb4b0489237b56cb9817d47bb6af18ad', 'fcfs', 'eligible'),
   ('0xb0b7e6663ddf05189b758915a0e1a485c17e1140', 'fcfs', 'eligible'),
   ('0x3bc042579699359143e0fd45155f9cbc8ecb3ab5', 'fcfs', 'eligible'),
   ('0x5f14e5226d99aa8e3dd4f076ef2612c1aa70bd95', 'fcfs', 'eligible'),
@@ -14973,7 +16061,10 @@ VALUES
   ('0xfdfeac14c43e2f0aa01404480090fcb4defdf16b', 'fcfs', 'eligible'),
   ('0xfce32515fc69068f49fb2995512386dd6209299c', 'fcfs', 'eligible'),
   ('0xb7e1aaa96b9b0005909e1ec7aefd1286d67a1cff', 'fcfs', 'eligible'),
-  ('0x11403f60328d1dd41a2449af41f5d3bc858e81cd', 'fcfs', 'eligible'),
+  ('0x11403f60328d1dd41a2449af41f5d3bc858e81cd', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x2b84e34a6a01daf2c9a6402cc857c901cab48cb6', 'fcfs', 'eligible'),
   ('0xeb7f317b2b92f92c4512a8053e98e57d94c99ac0', 'fcfs', 'eligible'),
   ('0xbdf697903d4166863f8d096356011a1bddd353ff', 'fcfs', 'eligible'),
@@ -14990,10 +16081,7 @@ VALUES
   ('0x98957e780fd2539178913491f0b568bda3c93705', 'fcfs', 'eligible'),
   ('0xbbd446933aed58e00adbdcb0ef313e0223d88540', 'fcfs', 'eligible'),
   ('0x12b2fcff56d9528e4d332f20a61c3e14f62be680', 'fcfs', 'eligible'),
-  ('0x6019045a94934f9624af4fa98e291e0b590aa958', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6019045a94934f9624af4fa98e291e0b590aa958', 'fcfs', 'eligible'),
   ('0x7955e7a844003c6f3bb3724fcb52581248568145', 'fcfs', 'eligible'),
   ('0x84fb403e6c73bcd5673bfdca8e5e0c42a1ab35a5', 'fcfs', 'eligible'),
   ('0x05cc29a23a6f3c741b48f17ae77501c516dd0d81', 'fcfs', 'eligible'),
@@ -15126,7 +16214,10 @@ VALUES
   ('0xb8cfd4f674b00a44a47cc95c17d7e66075496349', 'fcfs', 'eligible'),
   ('0x701e649a2cba38ca8fe6e1753522e3c2b644f500', 'fcfs', 'eligible'),
   ('0xcd12d3b91aafe963da2607a837dae6fc458dde34', 'fcfs', 'eligible'),
-  ('0xb9c3263d4bf20b20429454b91a64de5beeb5c874', 'fcfs', 'eligible'),
+  ('0xb9c3263d4bf20b20429454b91a64de5beeb5c874', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xdc772a7ec5b5e1fbfd572adfe44a9646a958369f', 'fcfs', 'eligible'),
   ('0x7d901031f31566753c0737a448bcac6a8b20d9bf', 'fcfs', 'eligible'),
   ('0xa800d7ae7dc29d6b64f075d7c201d2d51eef818e', 'fcfs', 'eligible'),
@@ -15143,10 +16234,7 @@ VALUES
   ('0x2d0e3f4d6fe6f71ad9351171146567d84519209f', 'fcfs', 'eligible'),
   ('0x5d978065f1bfaeb793b45b2cc209b02c8db54e3f', 'fcfs', 'eligible'),
   ('0x1a4d6c712a26ddbbe0c64e150066ae30631a7bc3', 'fcfs', 'eligible'),
-  ('0x472493f7d6d4809b43a8520264d0761c9b7ab1f5', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x472493f7d6d4809b43a8520264d0761c9b7ab1f5', 'fcfs', 'eligible'),
   ('0x31eaa224d5e63a584d49694b1a12b572842ac66f', 'fcfs', 'eligible'),
   ('0xb672c3313c1122ca94ea8c9d1d616b002d7915a0', 'fcfs', 'eligible'),
   ('0x56800b0f89c37dbebf03830bc81a86fdad534558', 'fcfs', 'eligible'),
@@ -15279,7 +16367,10 @@ VALUES
   ('0xc5cfc13a9321936238840219b4ee5f4684571bde', 'fcfs', 'eligible'),
   ('0xedd62a4eed628bd12d5065261b6b2ed4ddcd28b2', 'fcfs', 'eligible'),
   ('0x6fb249d55ebc043ce1b3a6b7363580447505ec87', 'fcfs', 'eligible'),
-  ('0x72325015912534850e2b8f2372713db7bf9770bf', 'fcfs', 'eligible'),
+  ('0x72325015912534850e2b8f2372713db7bf9770bf', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x95a76bc2ca86fd1a52dc16ae7808743235e1c49d', 'fcfs', 'eligible'),
   ('0x52690b843f8fbd366c0bce1d3e419414860b024e', 'fcfs', 'eligible'),
   ('0x6ae83cf7c8205097fc4bc35323346c8f14db26c1', 'fcfs', 'eligible'),
@@ -15296,10 +16387,7 @@ VALUES
   ('0x49b14b44f65a02c77a5c62c1bb9094120193dd0a', 'fcfs', 'eligible'),
   ('0xae574c3e4044fc53bf714bfec5ab8660813fdcec', 'fcfs', 'eligible'),
   ('0x579b5c211ac6a5d7a0c07267d2c283e59a31ae82', 'fcfs', 'eligible'),
-  ('0xc98de573682b78a9ebc0b058229b3278d8e07d32', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xc98de573682b78a9ebc0b058229b3278d8e07d32', 'fcfs', 'eligible'),
   ('0x9d5cdff044f9800a77b41802d0a060d61fe01722', 'fcfs', 'eligible'),
   ('0xa11228bc39754d4bbfd0f887bfb05549c711e0d3', 'fcfs', 'eligible'),
   ('0x22fe99fb02b93c823daa84eaa04c534b472603d9', 'fcfs', 'eligible'),
@@ -15432,7 +16520,10 @@ VALUES
   ('0x595205b78576964578fe267836657b4a9363742a', 'fcfs', 'eligible'),
   ('0x4584fff18c3590ca0cdb79f5762074e3e87040c7', 'fcfs', 'eligible'),
   ('0xdacb068709b049306dbc1011bdafcf5c16cb1b2c', 'fcfs', 'eligible'),
-  ('0x328e73e43de326b438c03c3350ddc8cf2653256f', 'fcfs', 'eligible'),
+  ('0x328e73e43de326b438c03c3350ddc8cf2653256f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x6a8f4633dee9eff93b152422ce571fe14d4c4053', 'fcfs', 'eligible'),
   ('0x13457dc1d5b6f9bff0ec4974c244ddd0c5a24052', 'fcfs', 'eligible'),
   ('0x1578631599ac60cc7b6a708d585ff4d41031ccaf', 'fcfs', 'eligible'),
@@ -15449,10 +16540,7 @@ VALUES
   ('0xf37ca1c597fa9bbde17a47a4306a2ed3928ea5d9', 'fcfs', 'eligible'),
   ('0x65f3f3d65fe427af01293ddfb34d504bf4496dae', 'fcfs', 'eligible'),
   ('0x259e02fd019c32e19dc09718fd8ba55b0e6137cd', 'fcfs', 'eligible'),
-  ('0xc9245eff0a51133f9d8669e2414175b8a8b21dff', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xc9245eff0a51133f9d8669e2414175b8a8b21dff', 'fcfs', 'eligible'),
   ('0x21b7dd3e59bde73c21d3645738b98af023799b0b', 'fcfs', 'eligible'),
   ('0x54b0da17f5652bd47669557e86686f3580b85097', 'fcfs', 'eligible'),
   ('0xc84f197100a71ec03269d58ef4d4c117129fdab0', 'fcfs', 'eligible'),
@@ -15585,7 +16673,10 @@ VALUES
   ('0xb0c0defd7dac264be2b069bb3dfd438f0facb969', 'fcfs', 'eligible'),
   ('0x330e7256e427a71cc387ce90b45d14969cf46467', 'fcfs', 'eligible'),
   ('0xc7a674e1301cd73cd2af0fbb2bca9185adb0bc54', 'fcfs', 'eligible'),
-  ('0x3782ae71281499d2b5e31d8bb0dbbe65429511c6', 'fcfs', 'eligible'),
+  ('0x3782ae71281499d2b5e31d8bb0dbbe65429511c6', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xee917214049fd18dc2fd443a9c6447d7b35d0d85', 'fcfs', 'eligible'),
   ('0xcc51e854fa4a9eb2818925f780ecc79561dfd9e3', 'fcfs', 'eligible'),
   ('0x152562c481e90ccb5f6d7a113b3f535ead7c72fd', 'fcfs', 'eligible'),
@@ -15602,10 +16693,7 @@ VALUES
   ('0x829855fe3731181b762bd4d10415b2e1370f1001', 'fcfs', 'eligible'),
   ('0x9707b4143e99f616d59426e781ef328189b2639c', 'fcfs', 'eligible'),
   ('0xc2a53d79bf393a04353c27bd1f65c973ff3e462d', 'fcfs', 'eligible'),
-  ('0xcb3aa38ba842162eea6c049b91eca408eed35af9', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xcb3aa38ba842162eea6c049b91eca408eed35af9', 'fcfs', 'eligible'),
   ('0xc610a412c98cddb41462b164b9cff598a4a0581e', 'fcfs', 'eligible'),
   ('0x9cf9da1465ca194b7ee3d1552c7c09061b1a9669', 'fcfs', 'eligible'),
   ('0xcc95a3c804037910e9113e087b4821c3d73791dc', 'fcfs', 'eligible'),
@@ -15738,7 +16826,10 @@ VALUES
   ('0xf00bda232e9b1a46092e3d72aab1f6cfc374e9db', 'fcfs', 'eligible'),
   ('0xfe51a679795fbd16ae2769a3a729760e305eaf7f', 'fcfs', 'eligible'),
   ('0xbd014f46eb250c61eeaa48941353c5a3f8024bb6', 'fcfs', 'eligible'),
-  ('0x46897defaf1d4505f0959687490a4ecf28c2d2bc', 'fcfs', 'eligible'),
+  ('0x46897defaf1d4505f0959687490a4ecf28c2d2bc', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xc1095d257b7d5a26979654892d96e01829b29063', 'fcfs', 'eligible'),
   ('0x52cff6915cf05b825e71aa16f84f7a22be1c9172', 'fcfs', 'eligible'),
   ('0x5b62a4d55bd7dc53fa854bc34986bb56c01b5004', 'fcfs', 'eligible'),
@@ -15755,10 +16846,7 @@ VALUES
   ('0xa83a4197e45ef59d1b97e762c925be4c25b6264a', 'fcfs', 'eligible'),
   ('0x493db90bab840a4326a1ac5dea051a6a7fa6383e', 'fcfs', 'eligible'),
   ('0x8192797c82b914b748258c60e7be1051b03c529f', 'fcfs', 'eligible'),
-  ('0x85236ab74566eaa7f0ca42984781adfc4395b890', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x85236ab74566eaa7f0ca42984781adfc4395b890', 'fcfs', 'eligible'),
   ('0xd5db2aa4a3ef7db02b5d4c60569c511aab1e9fa0', 'fcfs', 'eligible'),
   ('0x8b45c31c56f46dd04685ec3b9d4426d72a65522d', 'fcfs', 'eligible'),
   ('0x46fdfd7e8fab829973f50e4922b167d593212662', 'fcfs', 'eligible'),
@@ -15891,7 +16979,10 @@ VALUES
   ('0xcd46874b710621a24fdc605a73bfcd319d9286df', 'fcfs', 'eligible'),
   ('0x8d88ecded7346416bf4752fbbce63139b915adf1', 'fcfs', 'eligible'),
   ('0xb6ebe44ee7eccaeef2f82e31a4b2ef46296d0c75', 'fcfs', 'eligible'),
-  ('0x0cf3d4bd481b884cef6c37548e41afe3e54534c8', 'fcfs', 'eligible'),
+  ('0x0cf3d4bd481b884cef6c37548e41afe3e54534c8', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x8b67681a406ae3032a9ec59aae001d610e9212e4', 'fcfs', 'eligible'),
   ('0xfd5d5185176e5f0a0b569dc0d6fd834f911baf71', 'fcfs', 'eligible'),
   ('0x53b379cb47bd2c87661ecfef10e14981fdb411bc', 'fcfs', 'eligible'),
@@ -15908,10 +16999,7 @@ VALUES
   ('0xc51982edcb30f877e96be1a3df230190ae4dc506', 'fcfs', 'eligible'),
   ('0x6370465b2527328705d5e387746f050fd84dbae0', 'fcfs', 'eligible'),
   ('0x8ab3624bbbd2636973d3066d76423f98038dd956', 'fcfs', 'eligible'),
-  ('0x0280d5a7754da2875aab6f6fc084d693af921073', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x0280d5a7754da2875aab6f6fc084d693af921073', 'fcfs', 'eligible'),
   ('0x7555e948582a2362d3753ef2f158c612f047158d', 'fcfs', 'eligible'),
   ('0x129a1bc9a36d018971ca0e9fe0f355c5e7fc8397', 'fcfs', 'eligible'),
   ('0x9028abaeaf4ae0f982426dc35525f60316fbc769', 'fcfs', 'eligible'),
@@ -16044,7 +17132,10 @@ VALUES
   ('0xed6bd6335d9d9c2a94c03d93bcc42dd0e6a78dd6', 'fcfs', 'eligible'),
   ('0x0690f38c2cac6f7c9ed22c75c896cf5cd6497cc4', 'fcfs', 'eligible'),
   ('0xe51d82e914c2d6f19750b09ea4038074c6937a75', 'fcfs', 'eligible'),
-  ('0xf5c23a27cfac7c9b0b2f109bbe3ed79ad7ea2c09', 'fcfs', 'eligible'),
+  ('0xf5c23a27cfac7c9b0b2f109bbe3ed79ad7ea2c09', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x0e6c8811192dc68bea6eda2b4b5851bf105bd0b9', 'fcfs', 'eligible'),
   ('0x4c6221db13ff6387bf6ddd79536753e1529b77cb', 'fcfs', 'eligible'),
   ('0xce7613f87b545d5d9d86d654a3f22c58f4adc2a4', 'fcfs', 'eligible'),
@@ -16061,10 +17152,7 @@ VALUES
   ('0xafdc4f4a6f338f18f50a501553de6c656dc4e929', 'fcfs', 'eligible'),
   ('0xf5d697fb3f10462bf6f724f5a6869a717e94334f', 'fcfs', 'eligible'),
   ('0x12016882266d2f316e58a0ef224cf0e1e398eab2', 'fcfs', 'eligible'),
-  ('0xd12edac134aca516b97b44a28f6fc62681760647', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xd12edac134aca516b97b44a28f6fc62681760647', 'fcfs', 'eligible'),
   ('0x08185c48afbbd54a1acf5df135a533b5c1821c14', 'fcfs', 'eligible'),
   ('0x0c853c550201a062273789f8418d1d07290cd4dc', 'fcfs', 'eligible'),
   ('0xa44954c8a19e4c6833ffaa89528d6ec5a56d188c', 'fcfs', 'eligible'),
@@ -16197,7 +17285,10 @@ VALUES
   ('0x6396433505b90ad7258f432e162a0365a8deb0ed', 'fcfs', 'eligible'),
   ('0x273552c400e9d06b531fa4d22d347e0e3301f129', 'fcfs', 'eligible'),
   ('0x3e411d073da7d6607f82ffd75c716dbae016c489', 'fcfs', 'eligible'),
-  ('0xf71deaaeb2d6da46160e4624150103ba082ea84f', 'fcfs', 'eligible'),
+  ('0xf71deaaeb2d6da46160e4624150103ba082ea84f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xb0b94a10d68158a8e869a980f50837983508095f', 'fcfs', 'eligible'),
   ('0xe26b49db4951b33224b237ebdeabc2ae78f3885f', 'fcfs', 'eligible'),
   ('0x29a328aa046dfb10671a81e8e1283cfdc9d9694f', 'fcfs', 'eligible'),
@@ -16214,10 +17305,7 @@ VALUES
   ('0x39f0d4bfbc14f55a5915b8adf822ef4382ff3c15', 'fcfs', 'eligible'),
   ('0xebdbccbc5d4a73e257bf9a878a9c079d8093ac0e', 'fcfs', 'eligible'),
   ('0x5acc6687b30441ec26563410474167bd845cb146', 'fcfs', 'eligible'),
-  ('0xb931e167d191fd3f052c43fbf371a0af554d26f6', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xb931e167d191fd3f052c43fbf371a0af554d26f6', 'fcfs', 'eligible'),
   ('0x416c6f0dd488d64a6ed9dfdbbd1a2ea65d4cdca3', 'fcfs', 'eligible'),
   ('0x8f8d3e3587642244e51cfb88b673506a82cf2d2c', 'fcfs', 'eligible'),
   ('0xbc0a8890120dbcaed26f2260a1890a6e7864338d', 'fcfs', 'eligible'),
@@ -16350,7 +17438,10 @@ VALUES
   ('0x3acbe295ba2e9d6663e8c6b87aa6486b0e1eb929', 'fcfs', 'eligible'),
   ('0x081712ecaee5d0d721c0f9147bcb77309bd05477', 'fcfs', 'eligible'),
   ('0x29d7d57c1331de030cb2763f715b9bf07cc3b1cb', 'fcfs', 'eligible'),
-  ('0xf60b8b6b1713552773237a3af770277bf31f498e', 'fcfs', 'eligible'),
+  ('0xf60b8b6b1713552773237a3af770277bf31f498e', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x222a5a6d5103c1d7959f5df264c38ec8a40095ba', 'fcfs', 'eligible'),
   ('0x2a56fe377412dc163eeda2822d9b3f7d605134e9', 'fcfs', 'eligible'),
   ('0xdec484681e145c812afa1d8e6559e5cae67ea808', 'fcfs', 'eligible'),
@@ -16367,10 +17458,7 @@ VALUES
   ('0x107b60c43a971786b03cbaf1a0c2286625689219', 'fcfs', 'eligible'),
   ('0x82477152bf72ad8f0bd2833f3c075d67d2f130e5', 'fcfs', 'eligible'),
   ('0x642854660ea26518e7f0fb13b189ff06aec7f9b7', 'fcfs', 'eligible'),
-  ('0x9657f9abdfd16f0710c5c315e2cdd0e4aa12a5ab', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x9657f9abdfd16f0710c5c315e2cdd0e4aa12a5ab', 'fcfs', 'eligible'),
   ('0x1b772ae08ec110719c39b0b47da1faab77156f91', 'fcfs', 'eligible'),
   ('0x67eec4326b7376188af9efbed3806bba9aecd82a', 'fcfs', 'eligible'),
   ('0x4ebf942e9db28b8741bbedd8618dcb0ddbf1b122', 'fcfs', 'eligible'),
@@ -16503,7 +17591,10 @@ VALUES
   ('0xa2565c8405d4639752bb1312d9fa80747b889a3f', 'fcfs', 'eligible'),
   ('0x6bfc658844c541ecafe65c988f90da0f871f275a', 'fcfs', 'eligible'),
   ('0x019ce7c5b8d7a2d8f2634ed78fa2a3786c5fbeac', 'fcfs', 'eligible'),
-  ('0x94a1785e560bd68ad9d2e6882d34daae224f0cf5', 'fcfs', 'eligible'),
+  ('0x94a1785e560bd68ad9d2e6882d34daae224f0cf5', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x067035c3d48d0fa661373f0a41bb62e97a863bb3', 'fcfs', 'eligible'),
   ('0x8019cc6254a73cd55b49e4484602bfc1c70437aa', 'fcfs', 'eligible'),
   ('0x8eab5c0ef3eca84b4ad923d420b0790098764ad4', 'fcfs', 'eligible'),
@@ -16520,10 +17611,7 @@ VALUES
   ('0xeea7d3e813de3d873250d0b17463bbffa04e8966', 'fcfs', 'eligible'),
   ('0x5f453e56ef2a47a4c22242441c733b399609ae66', 'fcfs', 'eligible'),
   ('0x80bcc062322d62c3588a4bc92ebfe8d6bc51ec1a', 'fcfs', 'eligible'),
-  ('0x3220d35e22a2ac7419945b5a84980e1b2b2af36c', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x3220d35e22a2ac7419945b5a84980e1b2b2af36c', 'fcfs', 'eligible'),
   ('0xd28ced8f9aafa8b39a309b27fa359f450a068e94', 'fcfs', 'eligible'),
   ('0x22d71594ff6ab543287b3956bd9a6e1759566d52', 'fcfs', 'eligible'),
   ('0xd52c026b32d3c17585b238bfbf6a1c4a10774db8', 'fcfs', 'eligible'),
@@ -16656,7 +17744,10 @@ VALUES
   ('0x0e8dac6fadd353b52e736029bc01a65bb907d8b9', 'fcfs', 'eligible'),
   ('0xa9fa05f7ce7cc25801273e9c015ed5e7c85fdb7b', 'fcfs', 'eligible'),
   ('0x112a05b12b655af35c8c3b0a548a374a3096147b', 'fcfs', 'eligible'),
-  ('0xb8339b5bc9ac501ea12e73bf603b7c1b2836822f', 'fcfs', 'eligible'),
+  ('0xb8339b5bc9ac501ea12e73bf603b7c1b2836822f', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xa922a0e15c89b446ec404e114ea8e04ea5aa7348', 'fcfs', 'eligible'),
   ('0x10eaa8bd2ef87debbf8803d277c13a6bf9c8c8ab', 'fcfs', 'eligible'),
   ('0x8b7b0bf760d7bf904bf6eaf0a7fd5ec6071374d0', 'fcfs', 'eligible'),
@@ -16673,10 +17764,7 @@ VALUES
   ('0x2d72ebba14250b660344816dec194cb0bf0f62e0', 'fcfs', 'eligible'),
   ('0x1c0258cc7e83480ca7f0156fa87df89e9f45827d', 'fcfs', 'eligible'),
   ('0x5e83b2d1a7ead2eb850997042b94757945ada56c', 'fcfs', 'eligible'),
-  ('0xcd580825c800b3588e9f1cc76c6429f20ad49004', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xcd580825c800b3588e9f1cc76c6429f20ad49004', 'fcfs', 'eligible'),
   ('0x50cba2ff510e97d30ab5ad562ddd7a7d4f586d60', 'fcfs', 'eligible'),
   ('0xf90d0ffe1a851f0909180d17bc901d2c9b26ec9a', 'fcfs', 'eligible'),
   ('0xd16d7d3c224f921685bc3576c3af57269467f1b3', 'fcfs', 'eligible'),
@@ -16809,7 +17897,10 @@ VALUES
   ('0x5164cf43fb43603cfa996735d3230274a4baa3aa', 'fcfs', 'eligible'),
   ('0xb3809332efdf28231a179b2689148ba6d36a4d36', 'fcfs', 'eligible'),
   ('0x46dbe7d9e618ff39efbed81e066087b5b27e6ba3', 'fcfs', 'eligible'),
-  ('0x78446f622cd2950a369734aaeebf76c4e922dd79', 'fcfs', 'eligible'),
+  ('0x78446f622cd2950a369734aaeebf76c4e922dd79', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xea24ad7d3ade12369db780c2b3f0a8f6a97b3aa8', 'fcfs', 'eligible'),
   ('0x60e4509b4b972cb2b76729f40e584a4ad4041484', 'fcfs', 'eligible'),
   ('0xf30f91bf9f8c38784e121ad546cc7df9e4066ec7', 'fcfs', 'eligible'),
@@ -16826,10 +17917,7 @@ VALUES
   ('0xe6b21c864b24485ec66093f3696aaec1b243d5d3', 'fcfs', 'eligible'),
   ('0xd919bd1156079f71d814c01f960fa3df50aa6709', 'fcfs', 'eligible'),
   ('0x8545f19660e383041a95a089538d196d81d0422d', 'fcfs', 'eligible'),
-  ('0xc3ea0ee34d9879662a6a7a74518e6ee4c0a03bb7', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xc3ea0ee34d9879662a6a7a74518e6ee4c0a03bb7', 'fcfs', 'eligible'),
   ('0x8b2376c5fba3cef526b21f1cc07b5b84587d6920', 'fcfs', 'eligible'),
   ('0x970fe358b183d0eb3241160df3215e8c64b88bf0', 'fcfs', 'eligible'),
   ('0x8b558f38343a14e76c4b828f71ad8b6685517a8c', 'fcfs', 'eligible'),
@@ -16962,7 +18050,10 @@ VALUES
   ('0x7126abef3edf9498cb243bced1e1fc024b9e1732', 'fcfs', 'eligible'),
   ('0x8fefa18957db9884f6c95c59e54a645a04444bb1', 'fcfs', 'eligible'),
   ('0x3f8fddc77889f5e8078a1934494fc70efc6e9a93', 'fcfs', 'eligible'),
-  ('0x00402280b28682350d8c05a815dd414a15ea6e43', 'fcfs', 'eligible'),
+  ('0x00402280b28682350d8c05a815dd414a15ea6e43', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x28c0cdca356abdb776e33256e07c9329a1ac4aa8', 'fcfs', 'eligible'),
   ('0x34b715f80741702a0b72c62806f809341c818136', 'fcfs', 'eligible'),
   ('0x05d5faa98138008aac4632addc6de83fb87ce899', 'fcfs', 'eligible'),
@@ -16979,10 +18070,7 @@ VALUES
   ('0x573b0ff557fa90037ee40331b874c4a6bdb48b67', 'fcfs', 'eligible'),
   ('0x91d8513d52aca0a9020f899e3130aa7cafd0ee29', 'fcfs', 'eligible'),
   ('0x552bab4f77ff21068b57486649d77183873708a3', 'fcfs', 'eligible'),
-  ('0x14ec6d94c29ef70c498a6d62efe4fe560f3541e1', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x14ec6d94c29ef70c498a6d62efe4fe560f3541e1', 'fcfs', 'eligible'),
   ('0x0d36613caeb9cb51accbec92ae943e0685032edd', 'fcfs', 'eligible'),
   ('0x6a575fc8d0170d030bdb7ce45ea5f2eb8a634101', 'fcfs', 'eligible'),
   ('0xe39c88b4f2e45e0b34356a38c4b2f41c78d3962c', 'fcfs', 'eligible'),
@@ -17115,7 +18203,10 @@ VALUES
   ('0xb51fce1fd631b96814a6dffd6f19131d4a41ddf8', 'fcfs', 'eligible'),
   ('0x4b1fdf559fab9f0eee31a2ef422393cee9c63fbd', 'fcfs', 'eligible'),
   ('0x1e7143d4a7f7cbedf1402bccbb325457a78e9189', 'fcfs', 'eligible'),
-  ('0x50f26afd10aa47120dab39c3737f48ae79fc0c30', 'fcfs', 'eligible'),
+  ('0x50f26afd10aa47120dab39c3737f48ae79fc0c30', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x1badf99cd91afe1716c8431736ab7da31b8954ae', 'fcfs', 'eligible'),
   ('0xd96bac8281bc11de2b05a2e04cb03d5a483f6406', 'fcfs', 'eligible'),
   ('0xa39e6e219184dbfed75fb9d82c012b75551dde58', 'fcfs', 'eligible'),
@@ -17132,10 +18223,7 @@ VALUES
   ('0xdc2b6a51a460dc69ad55ddef6fad5e058a482d00', 'fcfs', 'eligible'),
   ('0x60958810c2fa5b174e9e7b523f99b048b0e86bd6', 'fcfs', 'eligible'),
   ('0xe741a1fa65e5cf619dc3c1efd609b6d7ac207b9a', 'fcfs', 'eligible'),
-  ('0xa8bc45e0dd7ed98d856cf051de13c99a5bf67a6b', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xa8bc45e0dd7ed98d856cf051de13c99a5bf67a6b', 'fcfs', 'eligible'),
   ('0x0a4eebd08dcfe3ac58c2573dd3dc571a60b8c6fe', 'fcfs', 'eligible'),
   ('0x3707047295f06d07662caf730546acf8472c4a44', 'fcfs', 'eligible'),
   ('0xecaaf274bfaea7ff91d37ad14393a3835fd7c06b', 'fcfs', 'eligible'),
@@ -17268,7 +18356,10 @@ VALUES
   ('0xc6038682ca2298c3e4a2fd5f3e5a82818069fe90', 'fcfs', 'eligible'),
   ('0xd5513003946d4e5fc672cc9caf49410f60f7a2a2', 'fcfs', 'eligible'),
   ('0x10fa0bd01fe609f5025d7e8031e8f8ccc26e367e', 'fcfs', 'eligible'),
-  ('0x673c87af452895047868c12dc276138f403dd1c3', 'fcfs', 'eligible'),
+  ('0x673c87af452895047868c12dc276138f403dd1c3', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xeb446914d2877d75a78ebf9149a24e33147f30d4', 'fcfs', 'eligible'),
   ('0xcbf551c46eb9f811020b5153d55e0145bc368575', 'fcfs', 'eligible'),
   ('0x787b0e4e8c2ce49ebf0d183e1934308a4a847f6b', 'fcfs', 'eligible'),
@@ -17285,10 +18376,7 @@ VALUES
   ('0xa74dbb4282e5e506ecd3f968d5ea8d37018e05d0', 'fcfs', 'eligible'),
   ('0xaf6dae9e6b08fb6af03736485e23036c3b182d8a', 'fcfs', 'eligible'),
   ('0x8e69ca62743fa37e66b59cd59031c65c92e6124c', 'fcfs', 'eligible'),
-  ('0xd3cc91ffff2cbd788e4e545d0d56599668f54b87', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xd3cc91ffff2cbd788e4e545d0d56599668f54b87', 'fcfs', 'eligible'),
   ('0x56997b8c2a4a438a826cbb837518b62f5392a129', 'fcfs', 'eligible'),
   ('0xa5c3ec57c980cb83dc48fa43495b284cd4eb4c72', 'fcfs', 'eligible'),
   ('0x8b1b695f3481876f44b94f579a0e44bc1a7e8e75', 'fcfs', 'eligible'),
@@ -17421,7 +18509,10 @@ VALUES
   ('0x75250e19f8ef27dd98ea530fc4eeeb6ff83e1eb6', 'fcfs', 'eligible'),
   ('0x18b41d8db95e949a4314929231fb82acd5484abd', 'fcfs', 'eligible'),
   ('0x1dd42b44278f1288025996a24ced2b304fd93537', 'fcfs', 'eligible'),
-  ('0xb27ff935d81fcff8c6feb5ba1ca292582970f7ca', 'fcfs', 'eligible'),
+  ('0xb27ff935d81fcff8c6feb5ba1ca292582970f7ca', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x8faee03aaedee502be7ffa334670424b7a871cff', 'fcfs', 'eligible'),
   ('0xe466dc66cf0600e4a75304cd1c856516910c146b', 'fcfs', 'eligible'),
   ('0x66e00e8210d375abebe0a21bdad6b6f9419de3d8', 'fcfs', 'eligible'),
@@ -17438,10 +18529,7 @@ VALUES
   ('0xd09b2237c2aaf4612be2eecdff997e5d2b38e5f1', 'fcfs', 'eligible'),
   ('0xa8c21ab6ac1e92372a340e858f9e602d314ac1b2', 'fcfs', 'eligible'),
   ('0xe521ebd8386f45a66d060d4afc9c5d17a43c43e7', 'fcfs', 'eligible'),
-  ('0x2c421df77961a24fe2bb5c81997c0de818b265c2', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x2c421df77961a24fe2bb5c81997c0de818b265c2', 'fcfs', 'eligible'),
   ('0xf51aaad6687afc159961a86d70b00787068b1906', 'fcfs', 'eligible'),
   ('0x2ed2463fc6a59628a079af45ef9e24cf8e21bf5b', 'fcfs', 'eligible'),
   ('0xd4b2afd762a8165e21a6b9f9c385568deb5c8971', 'fcfs', 'eligible'),
@@ -17574,7 +18662,10 @@ VALUES
   ('0x28dc01af8e1d4995723b53b81ec3751a48fc3ebd', 'fcfs', 'eligible'),
   ('0x62272c542096c5649384b01e75898186e34f9461', 'fcfs', 'eligible'),
   ('0xeac7b5ca3a956cd2ddc1f249a6dcfc964706238b', 'fcfs', 'eligible'),
-  ('0x65a9a33296527996bc7a8c8b71af213bea9f0ac1', 'fcfs', 'eligible'),
+  ('0x65a9a33296527996bc7a8c8b71af213bea9f0ac1', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe374eb96b81478f3d1d530ca4a68d5e1f451d6dd', 'fcfs', 'eligible'),
   ('0xeca48acc11e58aba87b666429093028c1a434240', 'fcfs', 'eligible'),
   ('0x5ee80458203a3d7982fd2eb122a702e208e19e83', 'fcfs', 'eligible'),
@@ -17591,10 +18682,7 @@ VALUES
   ('0xf76321f6e9b45d0be828a11f7ccaf2fb35447ea9', 'fcfs', 'eligible'),
   ('0x40f4689c9cfccdb23b4542038b12b5a059d0b6d9', 'fcfs', 'eligible'),
   ('0x6891139d0e7bb10130fae730fd151a9bc3b5de7c', 'fcfs', 'eligible'),
-  ('0x6e18b15892fe59614f4b5414c2439ea43d359eca', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x6e18b15892fe59614f4b5414c2439ea43d359eca', 'fcfs', 'eligible'),
   ('0x5a62069c3802ad6b00c7b4669cbd274d5264021e', 'fcfs', 'eligible'),
   ('0x6a5d20dd0210ecedbcea293e7a8b32d7eac9c479', 'fcfs', 'eligible'),
   ('0xf77861c1ee64c152b43db4d0cd0c4f165766707b', 'fcfs', 'eligible'),
@@ -17727,7 +18815,10 @@ VALUES
   ('0xd302d93d6c36f59d6d75615beea6ae69c5ec8871', 'fcfs', 'eligible'),
   ('0x9d10ec894b6ae2892278d614276421f1c1e11197', 'fcfs', 'eligible'),
   ('0x5ec99ca96da757da03a23693cd0a808431f2a81a', 'fcfs', 'eligible'),
-  ('0x3cec66fb7a56c8fb806809a959f1d20dc374c570', 'fcfs', 'eligible'),
+  ('0x3cec66fb7a56c8fb806809a959f1d20dc374c570', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xc4114b14f9f086c95755ff57074957e998c2d995', 'fcfs', 'eligible'),
   ('0x84deefabdce8bc6e273832a185484f46b2c1ea52', 'fcfs', 'eligible'),
   ('0x5126b0eebd5cd552d22b490c36794ea3e0fd5448', 'fcfs', 'eligible'),
@@ -17744,10 +18835,7 @@ VALUES
   ('0xab16d5d5e970ff7dc313ea0731a7f965c7e3593d', 'fcfs', 'eligible'),
   ('0xf29c9f9d4c2b702b98a3e65341d2ad28ff325fe2', 'fcfs', 'eligible'),
   ('0x16afeeb00d33f29ac8caca93db91d69b6508d5cf', 'fcfs', 'eligible'),
-  ('0xcbedcc101ce3569c0842ac97d0e3ff5f32dc8133', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xcbedcc101ce3569c0842ac97d0e3ff5f32dc8133', 'fcfs', 'eligible'),
   ('0xcf912b2cd2a630ea10217d3846fe1fc84e079efa', 'fcfs', 'eligible'),
   ('0x263912683ea6b520255d88198859c7063e35fa8a', 'fcfs', 'eligible'),
   ('0xcf407ef286e5f41c2cd669a9e52d60e398d522e8', 'fcfs', 'eligible'),
@@ -17880,7 +18968,10 @@ VALUES
   ('0x819dfafe90229a4b22a479da4393fcefde661578', 'fcfs', 'eligible'),
   ('0x59e1f2e5c58a1c26a05c9acd840f5dfd67afefba', 'fcfs', 'eligible'),
   ('0x91b19d7f5f99e5a38b0fc70847b1ca9694c269af', 'fcfs', 'eligible'),
-  ('0x4fd93a7f2511870dcdf434725ee018522222d67a', 'fcfs', 'eligible'),
+  ('0x4fd93a7f2511870dcdf434725ee018522222d67a', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x682bfb10cd23eacc2dc753d3749bfb72919f0906', 'fcfs', 'eligible'),
   ('0xef51b133beccd97ef64494e5505cd40ac139a17e', 'fcfs', 'eligible'),
   ('0x9a68e4de353fc880c67320c46338d53287c2a403', 'fcfs', 'eligible'),
@@ -17897,10 +18988,7 @@ VALUES
   ('0x19ffc80c81f93df974d15279cd647dd048b1e5ea', 'fcfs', 'eligible'),
   ('0xf5fd1cc5c7591b8613b580d7f94d5fb108d77ba4', 'fcfs', 'eligible'),
   ('0x64ff90b6532b705704ae13ec2fedbc8817c07276', 'fcfs', 'eligible'),
-  ('0xaccd8a5cafea142a06138cbc7e3e2beee4db7817', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xaccd8a5cafea142a06138cbc7e3e2beee4db7817', 'fcfs', 'eligible'),
   ('0xb9bbbb49600ee9a9f133e51fd6a6717e94bad383', 'fcfs', 'eligible'),
   ('0xe6d600fe1a7db56c9782820ebc85f950a25319b6', 'fcfs', 'eligible'),
   ('0x444e2db32b1fd1bb4cacb546f2d6832427e9c646', 'fcfs', 'eligible'),
@@ -18033,7 +19121,10 @@ VALUES
   ('0x14375fb134cb7272cbbb2eac6746a21156cb21f4', 'fcfs', 'eligible'),
   ('0x124a23891545061a9a7865f45e05759d885309bf', 'fcfs', 'eligible'),
   ('0x21e893ab6bd448baa82e03da5b661ffa7621b16d', 'fcfs', 'eligible'),
-  ('0x90d2fda2e50ac493e6de3a104ce2808797028907', 'fcfs', 'eligible'),
+  ('0x90d2fda2e50ac493e6de3a104ce2808797028907', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x0d328949f7e1fe68ba45f77a37fe1ae534e64528', 'fcfs', 'eligible'),
   ('0xf8bfe215bd7f34cbfa3680bb76bca6cc5e92e7f7', 'fcfs', 'eligible'),
   ('0x21f3770632144a2b8ffc7eaa3dc28986ad92e814', 'fcfs', 'eligible'),
@@ -18050,10 +19141,7 @@ VALUES
   ('0xde2e4b149a7a98eb8318e135feb36b1b5260fd6e', 'fcfs', 'eligible'),
   ('0x037415718df316866be547b1fdae2f42945ef2ad', 'fcfs', 'eligible'),
   ('0x1babf7200dfc5c88f27a977e453f9bf359b336b4', 'fcfs', 'eligible'),
-  ('0xbce46305bbf4e53ae492288c8638715046c75218', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xbce46305bbf4e53ae492288c8638715046c75218', 'fcfs', 'eligible'),
   ('0x1f043084e47e1ec4250a63a3d043aba6a0604ef3', 'fcfs', 'eligible'),
   ('0xeb53528df499c5658cfad5678464f860be3fc597', 'fcfs', 'eligible'),
   ('0x0ed08568fcbe6bb209035d58e807003247b4471f', 'fcfs', 'eligible'),
@@ -18186,7 +19274,10 @@ VALUES
   ('0x0eb541757a4417228e60a6f4de68dcb51ac9fa2e', 'fcfs', 'eligible'),
   ('0x7c5ea040faa484dde6956b55e25e665ea3471c73', 'fcfs', 'eligible'),
   ('0x9a5fd51bb0d50488588c336f4971bc01e1aa9208', 'fcfs', 'eligible'),
-  ('0xa7bb947b66f324d4f4d248e7f3bd029908df44a9', 'fcfs', 'eligible'),
+  ('0xa7bb947b66f324d4f4d248e7f3bd029908df44a9', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x50bdd1c472a9fb64555889b7d018515630e98c48', 'fcfs', 'eligible'),
   ('0x210c2bfd47160914ef839c36cbd48b0eee7a110e', 'fcfs', 'eligible'),
   ('0x40c6e03b24a16001e14418f57a2d5a3a67b0382e', 'fcfs', 'eligible'),
@@ -18203,10 +19294,7 @@ VALUES
   ('0xf1568244d2e8687b559f2a6b0b89bcd2617d22db', 'fcfs', 'eligible'),
   ('0x304b7338f7c1ee5068533c72c66c65404468c09e', 'fcfs', 'eligible'),
   ('0x93a3b2f932e82e0ce7fe4896a5047627363579f2', 'fcfs', 'eligible'),
-  ('0xd2ced6f3bd84b1a2f5dee17383b9e38c49d043fc', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xd2ced6f3bd84b1a2f5dee17383b9e38c49d043fc', 'fcfs', 'eligible'),
   ('0x08cd7dc415cecc8cd39712933c51cfa53c1dfb03', 'fcfs', 'eligible'),
   ('0x6f49ba496486c99f3b5eefd3152e712789f2d1ee', 'fcfs', 'eligible'),
   ('0x81e932930e8a143647e0810675fa495746111fcf', 'fcfs', 'eligible'),
@@ -18339,7 +19427,10 @@ VALUES
   ('0xac1e87276148c626b17b45cd6588d1e3cd1e0a2d', 'fcfs', 'eligible'),
   ('0x9a49cff3bec9ab4c496c152d2b4ac4d02a50cff1', 'fcfs', 'eligible'),
   ('0x96c20101dde0c5973416b21218e07ebe3b864d5f', 'fcfs', 'eligible'),
-  ('0x444b44b8965001aad2b38cfe3d07d35aac91bdc0', 'fcfs', 'eligible'),
+  ('0x444b44b8965001aad2b38cfe3d07d35aac91bdc0', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xfc7acc16c575b5185b0abf74a68086ac876bd69a', 'fcfs', 'eligible'),
   ('0x143ca99fd172e7b7a418a4841d8e5870825c8d22', 'fcfs', 'eligible'),
   ('0x6044b5fcba3f579d29b8293a4b1ce47446e59939', 'fcfs', 'eligible'),
@@ -18356,10 +19447,7 @@ VALUES
   ('0xbfdae4038cd20b4f0b440d35431013b7718a4d14', 'fcfs', 'eligible'),
   ('0x50d3e7171b35110a10b758a3ccab00ceb8c2709b', 'fcfs', 'eligible'),
   ('0x6bd72a724090e9ba5edc88b89dbbb3dadde9126e', 'fcfs', 'eligible'),
-  ('0x84ea3445045d773acd2a3678a2feca756b6c3c29', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x84ea3445045d773acd2a3678a2feca756b6c3c29', 'fcfs', 'eligible'),
   ('0x8906231a31bfce2ca5aed70a5c1bb5df310d62f2', 'fcfs', 'eligible'),
   ('0x62da763d15d44bb9f7a4e2c76e6cb14a3296587c', 'fcfs', 'eligible'),
   ('0xd44f2c473a96faec7d063ce99dd66d0e7f63750f', 'fcfs', 'eligible'),
@@ -18492,7 +19580,10 @@ VALUES
   ('0x952adbede8afbb7af30394c50dd9653a124d2a25', 'fcfs', 'eligible'),
   ('0x34f462c723035952c9dedabc458bbd35f95f98d0', 'fcfs', 'eligible'),
   ('0x9f1300a4d9ad952776ea4d220290a5f33cd86442', 'fcfs', 'eligible'),
-  ('0xe31b7736839e87dc8f3f5643dc13859d024c9762', 'fcfs', 'eligible'),
+  ('0xe31b7736839e87dc8f3f5643dc13859d024c9762', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x361ea7e89f744a0a8dea0bc4394ddcda7095131e', 'fcfs', 'eligible'),
   ('0x068964265b9cb1535d1c681f75631b283d503a33', 'fcfs', 'eligible'),
   ('0x88bfaac1c67ecd0355eeda607fb1c131670473ff', 'fcfs', 'eligible'),
@@ -18509,10 +19600,7 @@ VALUES
   ('0xd3eec124a57f225a4b0b4768046bdf7fab2ceba0', 'fcfs', 'eligible'),
   ('0x6b7e1506e1787f74a4ffd5a607d1298c639c53c2', 'fcfs', 'eligible'),
   ('0x87d2a7b8448f559a9690722086d0580542c78d27', 'fcfs', 'eligible'),
-  ('0x4aef9b1f9f68c4a7bc3f233e880bcd672de6614b', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x4aef9b1f9f68c4a7bc3f233e880bcd672de6614b', 'fcfs', 'eligible'),
   ('0xdcee7b5236f5b1a665c781c8a012d842abdb1b78', 'fcfs', 'eligible'),
   ('0x683ba7adc38a7835d24936df56b86b10b7cad591', 'fcfs', 'eligible'),
   ('0x73f1d1c76b019bd9cc9359da3a8d71e8d5de5aa5', 'fcfs', 'eligible'),
@@ -18645,7 +19733,10 @@ VALUES
   ('0xe7f17a8810045bfbc4e635faa5043c94380c1288', 'fcfs', 'eligible'),
   ('0xe85760e611557ebf2b5d0e01331eb7f94d7cf01f', 'fcfs', 'eligible'),
   ('0xe2840e09349bdf240f61dc071e3eb6fb22e42104', 'fcfs', 'eligible'),
-  ('0x5dc342c67643e15935f1be03f1adba1b9cfcf036', 'fcfs', 'eligible'),
+  ('0x5dc342c67643e15935f1be03f1adba1b9cfcf036', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x4c147af9d5500b05a78b1f5f970acc6ce2e929bc', 'fcfs', 'eligible'),
   ('0xef79186eca07be481fa68c67193da9d8d09524d5', 'fcfs', 'eligible'),
   ('0x5e5bff3dd6b9e99384282f11f8764957c3c8e65b', 'fcfs', 'eligible'),
@@ -18662,10 +19753,7 @@ VALUES
   ('0xe5bd2418090d1f72eb567a06d4ed7b170de7e542', 'fcfs', 'eligible'),
   ('0x0184512196f803a09f91a03e9320517a19524b59', 'fcfs', 'eligible'),
   ('0xd0223f5cfab693df05b3ebfa185afb77379c379d', 'fcfs', 'eligible'),
-  ('0x37628b27f65f2e3d412cdd8758d2d99eb615eb7b', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x37628b27f65f2e3d412cdd8758d2d99eb615eb7b', 'fcfs', 'eligible'),
   ('0x85a6eceb4843be444b4ac438cfa3d1976bf39bd1', 'fcfs', 'eligible'),
   ('0x6ceb02b3c1461a24527fa4e98ff3b607830298c1', 'fcfs', 'eligible'),
   ('0x9995b5115a88f4eb24d2c1652e195bfb49a39257', 'fcfs', 'eligible'),
@@ -18798,7 +19886,10 @@ VALUES
   ('0x135e7239c2fd29d7f1acded30192216ae69f4ee8', 'fcfs', 'eligible'),
   ('0x1d7491c6d980486e6ef13c01df3abb352d8d476d', 'fcfs', 'eligible'),
   ('0x1b641a216d8337a30b5ca5e3d75944da9f893793', 'fcfs', 'eligible'),
-  ('0x6aed5fc5ecb9cfaf5b5c761ca9fd6ff0dab9cc34', 'fcfs', 'eligible'),
+  ('0x6aed5fc5ecb9cfaf5b5c761ca9fd6ff0dab9cc34', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xe10d8ba4b5ff3f8941e14818df68b56db490dc0f', 'fcfs', 'eligible'),
   ('0x945598415d966cb6ad3203c24aa8e010f35abe4b', 'fcfs', 'eligible'),
   ('0x122c382c524d36956ce3f1e2cf6839d970b4fc7e', 'fcfs', 'eligible'),
@@ -18815,10 +19906,7 @@ VALUES
   ('0x00a3c47b5f798d267c777a154375d4e4afd0c0d3', 'fcfs', 'eligible'),
   ('0x768c6ff1c59e1c451107a18993359c3cfbe1feb7', 'fcfs', 'eligible'),
   ('0x95627408c9368cb610a5b26e76409c91a51d869f', 'fcfs', 'eligible'),
-  ('0x4e6f2d68fde4cc907623df0f33609e81dd744ee3', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x4e6f2d68fde4cc907623df0f33609e81dd744ee3', 'fcfs', 'eligible'),
   ('0xbeeaeb52ce05eeb3eb875ba6d1d76810107f7cad', 'fcfs', 'eligible'),
   ('0x12526edf0d6b7b811fb7fe0ecd884b9ecd1d1eaa', 'fcfs', 'eligible'),
   ('0x0e01e2e3b50ca9ed1ee0ae153a956e45e3c830dd', 'fcfs', 'eligible'),
@@ -18951,7 +20039,10 @@ VALUES
   ('0x2c39ae5ffe8697567a19bf9e4a629c7ff20769fc', 'fcfs', 'eligible'),
   ('0x370fe11bff0b79dd66fecd7e2870047083f3a932', 'fcfs', 'eligible'),
   ('0xbb955f1080404c86ffc321455bb8d81bc1b40945', 'fcfs', 'eligible'),
-  ('0x167dbed64b3e428142f208d155fd252f925abff1', 'fcfs', 'eligible'),
+  ('0x167dbed64b3e428142f208d155fd252f925abff1', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x226e9f9a1742927f8d7409f6c883450b0dc3a744', 'fcfs', 'eligible'),
   ('0x28e56fdf53e1153d854f20f1cdeb17c66df2b0bc', 'fcfs', 'eligible'),
   ('0xf906b1b988c473ced506af53994dcb13893c98d4', 'fcfs', 'eligible'),
@@ -18968,10 +20059,7 @@ VALUES
   ('0x8d4b0ca8c5416fb0e3af93c703f90907d4da761e', 'fcfs', 'eligible'),
   ('0x8efc0dae10ec34ce9468eab21225f1ab57c0a289', 'fcfs', 'eligible'),
   ('0x21f5119102da696724f23a3b78bf4397588763d4', 'fcfs', 'eligible'),
-  ('0x749ecbeff6f64ac13e790b68cd6491d3755d5e90', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x749ecbeff6f64ac13e790b68cd6491d3755d5e90', 'fcfs', 'eligible'),
   ('0x84b5a32fa454dcd1b41c494db0519e49b628634c', 'fcfs', 'eligible'),
   ('0xc2ea83ca9c7faaf8e8e35470c7da07cd00e3ed81', 'fcfs', 'eligible'),
   ('0xf82b8509ff93bc69c4fe396c31a936c83a771382', 'fcfs', 'eligible'),
@@ -19104,7 +20192,10 @@ VALUES
   ('0x161bf2f51ffb840cb45028c0f513c6bc9a38b22a', 'fcfs', 'eligible'),
   ('0xbc2c2799bf5cc16e04286a962fb8188128823312', 'fcfs', 'eligible'),
   ('0x0e39d12b899ac6f35901c4c06ffad1ea75f81ce0', 'fcfs', 'eligible'),
-  ('0x7c4b91ef8dcbef10e956c813229ba05f16444fd2', 'fcfs', 'eligible'),
+  ('0x7c4b91ef8dcbef10e956c813229ba05f16444fd2', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x6420a7d12ca344d40b141fe3abd12055da4e8fc9', 'fcfs', 'eligible'),
   ('0xc196e59f9a303c6fa3a9736210dfedc1a2100ec4', 'fcfs', 'eligible'),
   ('0x6377577b5ed6ac16dabd0cae68d20be3c917a97b', 'fcfs', 'eligible'),
@@ -19121,10 +20212,7 @@ VALUES
   ('0x224612ab70f2b98f1c58acca960f440189312aa5', 'fcfs', 'eligible'),
   ('0x32b3506cf35613461f4208ef9342f35c704f1453', 'fcfs', 'eligible'),
   ('0x30165941afeb26fbbb48db8b0a9e016c3616a7d6', 'fcfs', 'eligible'),
-  ('0x7731020a5143414871462dfced5410f6781406e7', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x7731020a5143414871462dfced5410f6781406e7', 'fcfs', 'eligible'),
   ('0x6e2bc60ad9ef009f34b9a9fa86cc0bf62c9fb1f7', 'fcfs', 'eligible'),
   ('0xd908cb28ccd2da09adc330bbf63213cefe7ce3a4', 'fcfs', 'eligible'),
   ('0x39d4be06b14a973aef09e63c7f3018855a0a98aa', 'fcfs', 'eligible'),
@@ -19257,7 +20345,10 @@ VALUES
   ('0x9b794bb3f2e03ab251d61b4b98315cfc374c4a1b', 'fcfs', 'eligible'),
   ('0xba5974f527f8605360f7480abfe296807522605f', 'fcfs', 'eligible'),
   ('0x6b9b455c54a5087d08a9b43230fddca47aad4e1c', 'fcfs', 'eligible'),
-  ('0x9ce1879fe1b7560a1960103f50361d2a69d8b766', 'fcfs', 'eligible'),
+  ('0x9ce1879fe1b7560a1960103f50361d2a69d8b766', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xf26367769ad9291b30b16b0bf1e363bf613f2a3a', 'fcfs', 'eligible'),
   ('0xe30eb58bb0cccc77dee2df32aa0bcb4be6d10c0d', 'fcfs', 'eligible'),
   ('0xc5848be2d1d7fd7ff82f659ac0514f966d84c66d', 'fcfs', 'eligible'),
@@ -19274,10 +20365,7 @@ VALUES
   ('0x55a696b8f33d0ba5bb64586c2d2b0809d94c7810', 'fcfs', 'eligible'),
   ('0x85b6190190ecf119e39f5a13343a0bdb6a14b6ad', 'fcfs', 'eligible'),
   ('0x2b22b12e4c6a1b214af44af9ade865d0ce3d0f2e', 'fcfs', 'eligible'),
-  ('0x7f2ee7d675ddb77913b6a4bbaab5ed6c43f1abce', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x7f2ee7d675ddb77913b6a4bbaab5ed6c43f1abce', 'fcfs', 'eligible'),
   ('0xb36febe514987f706afa0ba18038383820db1761', 'fcfs', 'eligible'),
   ('0x9ea345c708fa9453719b40a73cf6d26667fd6b3e', 'fcfs', 'eligible'),
   ('0xeeea3fef1b0d8803ddb22e91b41a423defe0bfdd', 'fcfs', 'eligible'),
@@ -19410,7 +20498,10 @@ VALUES
   ('0x7b6564060acaed168b50846673ff016881d307cf', 'fcfs', 'eligible'),
   ('0xd4fca7733d8054d28851353a9b4edabaa9d7f890', 'fcfs', 'eligible'),
   ('0x53ae128daeaebe4b2405c8c75b5cf2d510baa993', 'fcfs', 'eligible'),
-  ('0x5ed0408d549e17d7448853f36b1fbd69478e2f44', 'fcfs', 'eligible'),
+  ('0x5ed0408d549e17d7448853f36b1fbd69478e2f44', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x4ea979bf4431d8cd22cca8abaa52781abbea40f5', 'fcfs', 'eligible'),
   ('0xdccebe861e62b8852e2a9d84a737b3bb7eaf2073', 'fcfs', 'eligible'),
   ('0x62acf3a750aac9d1d634fa0eda7dc2c7398af9c7', 'fcfs', 'eligible'),
@@ -19427,10 +20518,7 @@ VALUES
   ('0x8032f216bfe1f90145b5e4faa6cd51ccf676a295', 'fcfs', 'eligible'),
   ('0x2201407a2373553d3b3b5ffe9dfb4e4640fbd69f', 'fcfs', 'eligible'),
   ('0xb747a952fbafc9a955b831b14ec4c11be77bd0d7', 'fcfs', 'eligible'),
-  ('0xeb596db3f90665a39d8a0faf5fd625183753498e', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xeb596db3f90665a39d8a0faf5fd625183753498e', 'fcfs', 'eligible'),
   ('0xf78b090569162975f158e73a4b63696383b6892b', 'fcfs', 'eligible'),
   ('0xd0547591f764b903b4ac1a1a0a51dec1334a5e54', 'fcfs', 'eligible'),
   ('0xb96e2011ed7160507f637ffad8d04bdef7e63ab4', 'fcfs', 'eligible'),
@@ -19563,7 +20651,10 @@ VALUES
   ('0xd88d7428592b15c9bcf5fa8d9c486ecb7a8e7d26', 'fcfs', 'eligible'),
   ('0x7e3299d639de153d818b7224e44b30364e6e4f35', 'fcfs', 'eligible'),
   ('0x55583e3f47d827e44910b5b493beed1241094626', 'fcfs', 'eligible'),
-  ('0xb488c5ae718437b03540b3846e01e1dfe4f4805a', 'fcfs', 'eligible'),
+  ('0xb488c5ae718437b03540b3846e01e1dfe4f4805a', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xdb5b619da49f11c302ad5c6d843942a94b859f9a', 'fcfs', 'eligible'),
   ('0x33d18aa1b92b308a2766df01ddfa3a4d7cf7f89a', 'fcfs', 'eligible'),
   ('0x0653ee68d65fdecf7ea98c0d0b0fd45f36fb452d', 'fcfs', 'eligible'),
@@ -19580,10 +20671,7 @@ VALUES
   ('0xfec6eb4758a196e218a6a91cc069479c38ad5340', 'fcfs', 'eligible'),
   ('0x5b039d41fb2488bd5b7159f6e7b53ed9570e3670', 'fcfs', 'eligible'),
   ('0x09ead38a791c0b5ab72a5f378eca3b772738d256', 'fcfs', 'eligible'),
-  ('0x282b3acbecdd0b08e919d4cd98193aac8634479a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x282b3acbecdd0b08e919d4cd98193aac8634479a', 'fcfs', 'eligible'),
   ('0xd85607b247e78de6ea1fd3f74fb2a79bf0cb13a0', 'fcfs', 'eligible'),
   ('0xabfb98da9b999132d3911fad3c42cdb0b4e91a03', 'fcfs', 'eligible'),
   ('0x4ce3d7dc94d19a066d1130e6a36f9ef0d80703bf', 'fcfs', 'eligible'),
@@ -19716,7 +20804,10 @@ VALUES
   ('0x65d56bdfc920b915a56e9dbc54c79260dd470744', 'fcfs', 'eligible'),
   ('0xca1a65909140b9b09ad25c9e1e7650285c375926', 'fcfs', 'eligible'),
   ('0x1d11474c18b322db2d359715fa43806aa38d4249', 'fcfs', 'eligible'),
-  ('0x8b0725cca1243a698a7021fa599885407effcf28', 'fcfs', 'eligible'),
+  ('0x8b0725cca1243a698a7021fa599885407effcf28', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x2b779580fee341212f5dead4a11a463ad3dd8eb1', 'fcfs', 'eligible'),
   ('0x0b9e56fff660569f2e679666e14c0572f9ebf035', 'fcfs', 'eligible'),
   ('0x76fdd5480576163534264ff7a2e0f1a225799b84', 'fcfs', 'eligible'),
@@ -19733,10 +20824,7 @@ VALUES
   ('0xd5d19cc1f86672cba691da390175d0b5d7236014', 'fcfs', 'eligible'),
   ('0x169ffabce9def00c07fc92baaf7f498bffc0e763', 'fcfs', 'eligible'),
   ('0x420c7d980acd07cec92ce6844fc277f574174b7d', 'fcfs', 'eligible'),
-  ('0x5a019caa2bf99896ced1cec67aebb26cb59a8383', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x5a019caa2bf99896ced1cec67aebb26cb59a8383', 'fcfs', 'eligible'),
   ('0x5758f7bc7ff14aeb53a0cbfe7b782eca9d1f4922', 'fcfs', 'eligible'),
   ('0xbbb9f63268ce8f8e19ac108f5a17956664b9c084', 'fcfs', 'eligible'),
   ('0xe8d1eeb5b31b2c725c11578ca5c51214980413d1', 'fcfs', 'eligible'),
@@ -19869,7 +20957,10 @@ VALUES
   ('0xcea0193732d3449552b1c3ee28e67083cdb1ca67', 'fcfs', 'eligible'),
   ('0xb7e017f5c9fb36030dca845f769e76fef639891c', 'fcfs', 'eligible'),
   ('0xc092b16f527e0c4570b2dc6121f6342ca07a6d7a', 'fcfs', 'eligible'),
-  ('0x075f33b30856234e3f21976f0a86c1ce8e8d4421', 'fcfs', 'eligible'),
+  ('0x075f33b30856234e3f21976f0a86c1ce8e8d4421', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xc25208a52ca83f6e2c42245c8f2088154423e47a', 'fcfs', 'eligible'),
   ('0xc87d476d3d384c48e1f443e049bb5d12aa36ac4b', 'fcfs', 'eligible'),
   ('0xb5ea8740527ab077fbd6980ac56e03513b635a7b', 'fcfs', 'eligible'),
@@ -19886,10 +20977,7 @@ VALUES
   ('0xcded77fdb9a48629481961f5fde775f2d27d9c12', 'fcfs', 'eligible'),
   ('0xde2ca3bb6ebdc43dcdccc1f897b94612dbb6e3b2', 'fcfs', 'eligible'),
   ('0x045616a5e57d72d7d81f88d1afd0ddd49e565116', 'fcfs', 'eligible'),
-  ('0xfc4b4c6ca1f653c42badaadeb48dc01da345f708', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xfc4b4c6ca1f653c42badaadeb48dc01da345f708', 'fcfs', 'eligible'),
   ('0xf6f82e3302e355867fca7522ca2bd8026cefc74c', 'fcfs', 'eligible'),
   ('0x358292c0936305ba64fff41b25df608374c024aa', 'fcfs', 'eligible'),
   ('0x5e8de2a8b0ed6049f28878bd2743d061d87155b1', 'fcfs', 'eligible'),
@@ -20022,7 +21110,10 @@ VALUES
   ('0x0a3152882aa0b0949aee58ee708eb6941e25e3b7', 'fcfs', 'eligible'),
   ('0xcbfe5f206cd6121dc7250503a0786d464a380b57', 'fcfs', 'eligible'),
   ('0x02570d060d5cc8d06e6a90e8a2f1c4fbf960c63e', 'fcfs', 'eligible'),
-  ('0xa2561400ea2cb5432d377dec4178abadfd199144', 'fcfs', 'eligible'),
+  ('0xa2561400ea2cb5432d377dec4178abadfd199144', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x4da9ba02b5ca071bc3e15993f348af02016f63c6', 'fcfs', 'eligible'),
   ('0x49177371455123c04cc7cd5da6e3d46cbfc86b60', 'fcfs', 'eligible'),
   ('0x9b6fca1f7a2e0e7b0492cb78489f98a181a942eb', 'fcfs', 'eligible'),
@@ -20039,10 +21130,7 @@ VALUES
   ('0x466e6682d543a9292e9b783444af8f6ee0dd622e', 'fcfs', 'eligible'),
   ('0x9986860ab85413bde5efd78ef4064771f0e19df2', 'fcfs', 'eligible'),
   ('0x1d85ec1927e273a58e7687ca5d40fbc6b1ac3514', 'fcfs', 'eligible'),
-  ('0xfa948b99daa9651100d138e1ad7e288784378aa0', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xfa948b99daa9651100d138e1ad7e288784378aa0', 'fcfs', 'eligible'),
   ('0xc848860b09dc8ad9e2f23a4b3a565539639d7fd6', 'fcfs', 'eligible'),
   ('0x3caa306aa7aee75027c75b999524cfc1d0d0d7f4', 'fcfs', 'eligible'),
   ('0x7f559b9f1715eccdc3dd3a2d946ae075d12e9a58', 'fcfs', 'eligible'),
@@ -20175,7 +21263,10 @@ VALUES
   ('0x8d5a24174c05404b3f0a05b8bd734a2994c149a0', 'fcfs', 'eligible'),
   ('0x8908050d72e83e09e423e4719c413461affa118a', 'fcfs', 'eligible'),
   ('0x9dd342939b220178af5b2c15202677684440c184', 'fcfs', 'eligible'),
-  ('0x6bcc4e505c995d9dd4e3ba67523728f17b4af164', 'fcfs', 'eligible'),
+  ('0x6bcc4e505c995d9dd4e3ba67523728f17b4af164', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xa6296f35370b9166263148cbd750dc4f25f455d5', 'fcfs', 'eligible'),
   ('0x4702fc6f48026f06dc4de80aaf54bda3b3dcf9c7', 'fcfs', 'eligible'),
   ('0x28c9d9516c4a65df46d90516a5b8ff6903f86735', 'fcfs', 'eligible'),
@@ -20192,10 +21283,7 @@ VALUES
   ('0x2f936bf70e378776727c7ad3d28ca162fbee9199', 'fcfs', 'eligible'),
   ('0x103213f1abe5828e99514434672c39fdb2b02f0a', 'fcfs', 'eligible'),
   ('0xba605d436b35c68ea96e0453072db975d6278e7c', 'fcfs', 'eligible'),
-  ('0xbb51c849b8df85512878029e70cfec3c427a19e9', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0xbb51c849b8df85512878029e70cfec3c427a19e9', 'fcfs', 'eligible'),
   ('0xc33ff1cbfa79cdd0e01a354e34806709399659b6', 'fcfs', 'eligible'),
   ('0xd0bb96cdccf23b890ad779498f47c4a0953b6a7e', 'fcfs', 'eligible'),
   ('0xa7345bcf0e8f48e92316dbac285eb6e6ca35c7dc', 'fcfs', 'eligible'),
@@ -20328,7 +21416,10 @@ VALUES
   ('0x44e9a83e1faa1805197e8e0d46b863cd70b74aef', 'fcfs', 'eligible'),
   ('0xeb9d1271385139e36e1f63ce9ab6ce633c14c101', 'fcfs', 'eligible'),
   ('0x52386680206d4f0fabe5c78d26c84f0b9ba6cba7', 'fcfs', 'eligible'),
-  ('0xc2a51bdc6c7d3e620686bf57eaf9808442b57b7d', 'fcfs', 'eligible'),
+  ('0xc2a51bdc6c7d3e620686bf57eaf9808442b57b7d', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0xba468949599cb400decf59ee59da72b96c95b1cc', 'fcfs', 'eligible'),
   ('0x8836020530a7bc4d3a8d2f255c24e87a8dac446f', 'fcfs', 'eligible'),
   ('0xd3e4dd07c610430518eeeeb74e0cfbd168414bd7', 'fcfs', 'eligible'),
@@ -20345,10 +21436,7 @@ VALUES
   ('0x466e7b0eba89a6ee523a209e4ff7558f40e3735c', 'fcfs', 'eligible'),
   ('0x7acdb4636b5f1a1061277eadca0e06a38546fe3f', 'fcfs', 'eligible'),
   ('0xfdba5a7909443d53f9ec463730add186dc572413', 'fcfs', 'eligible'),
-  ('0x67ffe4ca3df68dd8a416706930013466838fdf54', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x67ffe4ca3df68dd8a416706930013466838fdf54', 'fcfs', 'eligible'),
   ('0xb9a3cbed2135099b099f7b25947b110348bdb366', 'fcfs', 'eligible'),
   ('0xce365ba910f2ec7933dc00e545188a0bfa81d6a5', 'fcfs', 'eligible'),
   ('0x6c8bf987ab3d9b2c756700689e9797efbb73b93e', 'fcfs', 'eligible'),
@@ -20481,7 +21569,10 @@ VALUES
   ('0x52225708b0c96d0a40d32ce56b01388ec2f6e27f', 'fcfs', 'eligible'),
   ('0xedf9bb9dfe2ca1022e70d2616c8c87fe5431e037', 'fcfs', 'eligible'),
   ('0x36883c7edaee76572ac7e9ade25adf9bc728b376', 'fcfs', 'eligible'),
-  ('0xa22a93a0c19145d3d5a860d43c7081a209404d7d', 'fcfs', 'eligible'),
+  ('0xa22a93a0c19145d3d5a860d43c7081a209404d7d', 'fcfs', 'eligible');
+
+INSERT INTO eligibility (wallet, phase_key, status)
+VALUES
   ('0x1df939e6a03c7381b24da11e26fcd771979b8f2e', 'fcfs', 'eligible'),
   ('0x57c31741d00f0ee381935886f5e1d7245f93d2ec', 'fcfs', 'eligible'),
   ('0x123ad36810587fd369db248c37cb3721c74c5adf', 'fcfs', 'eligible'),
@@ -20498,10 +21589,7 @@ VALUES
   ('0xd2eb00e7b3223fe30eba407adc3bf7be481fd171', 'fcfs', 'eligible'),
   ('0x88ff782452bd8e7560a8fd6d62b20251dc0b1376', 'fcfs', 'eligible'),
   ('0xa58970b99241a2a082f7147dc22555bf807a6fa6', 'fcfs', 'eligible'),
-  ('0x72bbac98391900c2416c3faa9f76724f43ecb98a', 'fcfs', 'eligible');
-
-INSERT INTO eligibility (wallet, phase_key, status)
-VALUES
+  ('0x72bbac98391900c2416c3faa9f76724f43ecb98a', 'fcfs', 'eligible'),
   ('0xafe7b878579d826258855aaf9b26ec170891f2fc', 'fcfs', 'eligible'),
   ('0x7567ad5eedfff063ec615777378c0e8840b52fde', 'fcfs', 'eligible'),
   ('0xedaa7d351a309985fd78ea227a40a335ebe618f3', 'fcfs', 'eligible'),
